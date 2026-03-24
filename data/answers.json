@@ -1,0 +1,8522 @@
+[
+  {
+    "puzzle_num": 1,
+    "answer": "Mass Effect 3",
+    "release_year": "2012",
+    "developer": "Bioware"
+  },
+  {
+    "puzzle_num": 2,
+    "answer": "The Legend of Zelda: Ocarina of Time",
+    "release_year": "1998",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 3,
+    "answer": "Outer Wilds",
+    "release_year": "2019",
+    "developer": "Mobius Digital"
+  },
+  {
+    "puzzle_num": 4,
+    "answer": "Horizon Zero Dawn",
+    "release_year": "2017",
+    "developer": "Guerrilla Games"
+  },
+  {
+    "puzzle_num": 5,
+    "answer": "The Secret of Monkey Island",
+    "release_year": "1990",
+    "developer": "LucasArts"
+  },
+  {
+    "puzzle_num": 6,
+    "answer": "Grand Theft Auto 3",
+    "release_year": "2001",
+    "developer": "Rockstar Games"
+  },
+  {
+    "puzzle_num": 7,
+    "answer": "Resident Evil 4",
+    "release_year": "2005",
+    "developer": "Capcom Production Studio 4"
+  },
+  {
+    "puzzle_num": 8,
+    "answer": "Portal 2",
+    "release_year": "2011",
+    "developer": "Valve"
+  },
+  {
+    "puzzle_num": 9,
+    "answer": "Shadow of the Colossus",
+    "release_year": "2005",
+    "developer": "SCE Japan Studio"
+  },
+  {
+    "puzzle_num": 10,
+    "answer": "Mario Golf",
+    "release_year": "1999",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 11,
+    "answer": "Call of Duty: Modern Warfare 2",
+    "release_year": "2009",
+    "developer": "Infinity Ward"
+  },
+  {
+    "puzzle_num": 12,
+    "answer": "The Witness",
+    "release_year": "2016",
+    "developer": "Thekla Inc"
+  },
+  {
+    "puzzle_num": 13,
+    "answer": "Halo: Combat Evolved",
+    "release_year": "2001",
+    "developer": "Bungie"
+  },
+  {
+    "puzzle_num": 14,
+    "answer": "Bloodborne",
+    "release_year": "2015",
+    "developer": "From Software"
+  },
+  {
+    "puzzle_num": 15,
+    "answer": "Forza Horizon 5",
+    "release_year": "2021",
+    "developer": "Playground Games"
+  },
+  {
+    "puzzle_num": 16,
+    "answer": "Super Meat Boy",
+    "release_year": "2010",
+    "developer": "Team Meat"
+  },
+  {
+    "puzzle_num": 17,
+    "answer": "The Elder Scrolls IV: Oblivion",
+    "release_year": "2006",
+    "developer": "Bethesda Game Studios"
+  },
+  {
+    "puzzle_num": 18,
+    "answer": "BioShock Infinite",
+    "release_year": "2013",
+    "developer": "Irrational Games"
+  },
+  {
+    "puzzle_num": 19,
+    "answer": "Chrono Trigger",
+    "release_year": "1995",
+    "developer": "Square"
+  },
+  {
+    "puzzle_num": 20,
+    "answer": "Furi",
+    "release_year": "2016",
+    "developer": "The Game Bakers"
+  },
+  {
+    "puzzle_num": 21,
+    "answer": "Yakuza 0",
+    "release_year": "2015 (Japan), 2017 (NA/EU)",
+    "developer": "Ryu Ga Gotoku Studio/Sega"
+  },
+  {
+    "puzzle_num": 22,
+    "answer": "Dead Cells",
+    "release_year": "2018",
+    "developer": "Motion Twin"
+  },
+  {
+    "puzzle_num": 23,
+    "answer": "Persona 5",
+    "release_year": "2016 (JP), 2017 (Worldwide)",
+    "developer": "Atlus"
+  },
+  {
+    "puzzle_num": 24,
+    "answer": "NieR:Automata",
+    "release_year": "2017",
+    "developer": "PlatinumGames"
+  },
+  {
+    "puzzle_num": 25,
+    "answer": "Super Mario 64",
+    "release_year": "1996",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 26,
+    "answer": "The Last of Us",
+    "release_year": "2013",
+    "developer": "Naughty Dog"
+  },
+  {
+    "puzzle_num": 27,
+    "answer": "Left 4 Dead",
+    "release_year": "2008",
+    "developer": "Valve South"
+  },
+  {
+    "puzzle_num": 28,
+    "answer": "SimCopter",
+    "release_year": "1996",
+    "developer": "Maxis"
+  },
+  {
+    "puzzle_num": 29,
+    "answer": "Diablo",
+    "release_year": "1997",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 30,
+    "answer": "Dark Souls",
+    "release_year": "2011",
+    "developer": "From Software Inc."
+  },
+  {
+    "puzzle_num": 31,
+    "answer": "Ghostwire: Tokyo",
+    "release_year": "2022",
+    "developer": "Tango Gameworks"
+  },
+  {
+    "puzzle_num": 32,
+    "answer": "Night In The Woods",
+    "release_year": "2017",
+    "developer": "Secret Lab & Infinite Fall"
+  },
+  {
+    "puzzle_num": 33,
+    "answer": "The Legend of Zelda: Breath of the Wild",
+    "release_year": "2017",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 34,
+    "answer": "Fable: The Lost Chapter",
+    "release_year": "2004",
+    "developer": "Big Blue Box Studios"
+  },
+  {
+    "puzzle_num": 35,
+    "answer": "Dota 2",
+    "release_year": "2013",
+    "developer": "Valve"
+  },
+  {
+    "puzzle_num": 36,
+    "answer": "World of Warcraft",
+    "release_year": "2004",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 37,
+    "answer": "Dead Space",
+    "release_year": "2008",
+    "developer": "EA Redwood Shores"
+  },
+  {
+    "puzzle_num": 38,
+    "answer": "Sea of Thieves",
+    "release_year": "2018",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 39,
+    "answer": "Monster Hunter: World",
+    "release_year": "2018",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 40,
+    "answer": "Hollow Knight",
+    "release_year": "2017",
+    "developer": "Team Cherry"
+  },
+  {
+    "puzzle_num": 41,
+    "answer": "Destiny 2",
+    "release_year": "2017",
+    "developer": "Bungie"
+  },
+  {
+    "puzzle_num": 42,
+    "answer": "Animal Crossing: New Horizons",
+    "release_year": "2020",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 43,
+    "answer": "The Witcher 3: Wild Hunt",
+    "release_year": "2015",
+    "developer": "CD Project Red"
+  },
+  {
+    "puzzle_num": 44,
+    "answer": "GRIS",
+    "release_year": "2018",
+    "developer": "Nomada Studios"
+  },
+  {
+    "puzzle_num": 45,
+    "answer": "Returnal",
+    "release_year": "2021",
+    "developer": "Housemarque"
+  },
+  {
+    "puzzle_num": 46,
+    "answer": "Super Mario RPG: Legend of the Seven Stars",
+    "release_year": "1996",
+    "developer": "Square (not Nintendo? 😲)"
+  },
+  {
+    "puzzle_num": 47,
+    "answer": "Code Vein",
+    "release_year": "2019",
+    "developer": "Bandai Namco Entertainment"
+  },
+  {
+    "puzzle_num": 48,
+    "answer": "Deep Rock Galactic",
+    "release_year": "2020",
+    "developer": "Ghost Ship Games"
+  },
+  {
+    "puzzle_num": 49,
+    "answer": "Apex Legends",
+    "release_year": "2019",
+    "developer": "Respawn Entertainment"
+  },
+  {
+    "puzzle_num": 50,
+    "answer": "Nidhogg",
+    "release_year": "2014",
+    "developer": "Meshoff"
+  },
+  {
+    "puzzle_num": 51,
+    "answer": "Sid Meier's Civilization VI",
+    "release_year": "2016",
+    "developer": "Firaxis Games"
+  },
+  {
+    "puzzle_num": 52,
+    "answer": "Katamari Damacy",
+    "release_year": "2004",
+    "developer": "Namco"
+  },
+  {
+    "puzzle_num": 53,
+    "answer": "Overwatch",
+    "release_year": "2016",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 54,
+    "answer": "Inside",
+    "release_year": "2016",
+    "developer": "Playdead"
+  },
+  {
+    "puzzle_num": 55,
+    "answer": "Batman: Arkham Asylum",
+    "release_year": "2009",
+    "developer": "Rocksteady Studios"
+  },
+  {
+    "puzzle_num": 56,
+    "answer": "Dragon Age: Inquisition",
+    "release_year": "2014",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 57,
+    "answer": "DIRT 4",
+    "release_year": "2017",
+    "developer": "Codemasters"
+  },
+  {
+    "puzzle_num": 58,
+    "answer": "Spore",
+    "release_year": "2008",
+    "developer": "Maxis"
+  },
+  {
+    "puzzle_num": 59,
+    "answer": "Burnout 3: Takedown",
+    "release_year": "2004",
+    "developer": "Criterion Games"
+  },
+  {
+    "puzzle_num": 60,
+    "answer": "The Sims",
+    "release_year": "2000",
+    "developer": "Maxis"
+  },
+  {
+    "puzzle_num": 61,
+    "answer": "Star Wars: Knights of the Old Republic",
+    "release_year": "2003",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 62,
+    "answer": "Super Smash Bros. Ultimate",
+    "release_year": "2018",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 63,
+    "answer": "Goldeneye 007",
+    "release_year": "1997",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 64,
+    "answer": "Hotline Miami",
+    "release_year": "2012",
+    "developer": "Dennaton Games"
+  },
+  {
+    "puzzle_num": 65,
+    "answer": "Rock Band",
+    "release_year": "2007",
+    "developer": "Harmonix"
+  },
+  {
+    "puzzle_num": 66,
+    "answer": "Tony Hawk's Pro Skater",
+    "release_year": "1999",
+    "developer": "Neversoft"
+  },
+  {
+    "puzzle_num": 67,
+    "answer": "Super Mario Galaxy",
+    "release_year": "2007",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 68,
+    "answer": "Return of the Obra Dinn",
+    "release_year": "2018",
+    "developer": "Lucas Pope"
+  },
+  {
+    "puzzle_num": 69,
+    "answer": "Fortnite",
+    "release_year": "2017",
+    "developer": "Epic Games"
+  },
+  {
+    "puzzle_num": 70,
+    "answer": "God of War",
+    "release_year": "2018",
+    "developer": "Santa Monica Studio"
+  },
+  {
+    "puzzle_num": 71,
+    "answer": "The Elder Scrolls V: Skyrim",
+    "release_year": "2011",
+    "developer": "Bethesda Game Studios"
+  },
+  {
+    "puzzle_num": 72,
+    "answer": "PUBG: Battlegrounds",
+    "release_year": "2017",
+    "developer": "Bluehole/PUBG Studios"
+  },
+  {
+    "puzzle_num": 73,
+    "answer": "Wii Sports",
+    "release_year": "2006",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 74,
+    "answer": "Shovel Knight",
+    "release_year": "2014",
+    "developer": "Yacht Club Games"
+  },
+  {
+    "puzzle_num": 75,
+    "answer": "XCOM: Enemy Unknown",
+    "release_year": "2012",
+    "developer": "Firaxis Games"
+  },
+  {
+    "puzzle_num": 76,
+    "answer": "Celeste",
+    "release_year": "2018",
+    "developer": "Extremely OK Games"
+  },
+  {
+    "puzzle_num": 77,
+    "answer": "Divinity: Original Sin II",
+    "release_year": "2017",
+    "developer": "Larian Studios"
+  },
+  {
+    "puzzle_num": 78,
+    "answer": "Gone Home",
+    "release_year": "2013",
+    "developer": "The Fullbright Company"
+  },
+  {
+    "puzzle_num": 79,
+    "answer": "Fallout: New Vegas",
+    "release_year": "2010",
+    "developer": "Obsidian Entertainment"
+  },
+  {
+    "puzzle_num": 80,
+    "answer": "The Legend of Zelda: The Wind Waker",
+    "release_year": "2002",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 81,
+    "answer": "Kerbal Space Program",
+    "release_year": "2011",
+    "developer": "Squad"
+  },
+  {
+    "puzzle_num": 82,
+    "answer": "Braid",
+    "release_year": "2008",
+    "developer": "Number None"
+  },
+  {
+    "puzzle_num": 83,
+    "answer": "Dead Rising",
+    "release_year": "2006",
+    "developer": "Capcom Production Studio 1"
+  },
+  {
+    "puzzle_num": 84,
+    "answer": "Stardew Valley",
+    "release_year": "2016",
+    "developer": "ConcernedApe"
+  },
+  {
+    "puzzle_num": 85,
+    "answer": "Control",
+    "release_year": "2019",
+    "developer": "Remedy Entertainment"
+  },
+  {
+    "puzzle_num": 86,
+    "answer": "Minecraft",
+    "release_year": "2009",
+    "developer": "Mojang Studios"
+  },
+  {
+    "puzzle_num": 87,
+    "answer": "Counter-Strike: Global Offensive",
+    "release_year": "2012",
+    "developer": "Valve, Hidden Path Entertainment"
+  },
+  {
+    "puzzle_num": 88,
+    "answer": "Glover",
+    "release_year": "1998",
+    "developer": "Interactive Studios"
+  },
+  {
+    "puzzle_num": 89,
+    "answer": "Jak and Daxter: The Precursor Legacy",
+    "release_year": "2001",
+    "developer": "Naughty Dog"
+  },
+  {
+    "puzzle_num": 90,
+    "answer": "Papers, Please",
+    "release_year": "2013",
+    "developer": "3909 LLC"
+  },
+  {
+    "puzzle_num": 91,
+    "answer": "Pokemon Go",
+    "release_year": "2016",
+    "developer": "Niantic"
+  },
+  {
+    "puzzle_num": 92,
+    "answer": "Metroid Prime",
+    "release_year": "2002",
+    "developer": "Retro Studios"
+  },
+  {
+    "puzzle_num": 93,
+    "answer": "FTL: Faster Than Light",
+    "release_year": "2012",
+    "developer": "Subset Games"
+  },
+  {
+    "puzzle_num": 94,
+    "answer": "Diablo II",
+    "release_year": "2000",
+    "developer": "Blizzard North"
+  },
+  {
+    "puzzle_num": 95,
+    "answer": "Paper Mario: The Thousand-Year Door",
+    "release_year": "2004",
+    "developer": "Intelligent Systems"
+  },
+  {
+    "puzzle_num": 96,
+    "answer": "Transistor",
+    "release_year": "2014",
+    "developer": "Supergiant Games"
+  },
+  {
+    "puzzle_num": 97,
+    "answer": "Marvel's Spider-Man: Miles Morales",
+    "release_year": "2020",
+    "developer": "Insomniac Games"
+  },
+  {
+    "puzzle_num": 98,
+    "answer": "Final Fantasy VIII",
+    "release_year": "1999",
+    "developer": "Square"
+  },
+  {
+    "puzzle_num": 99,
+    "answer": "Street Fighter II: The World Warrior",
+    "release_year": "1991",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 100,
+    "answer": "Hunt: Showdown",
+    "release_year": "2019",
+    "developer": "Crytek"
+  },
+  {
+    "puzzle_num": 101,
+    "answer": "Dead by Daylight",
+    "release_year": "2016",
+    "developer": "Behaviour Interactive"
+  },
+  {
+    "puzzle_num": 102,
+    "answer": "Uncharted: Drake's Fortune",
+    "release_year": "2007",
+    "developer": "Naughty Dog"
+  },
+  {
+    "puzzle_num": 103,
+    "answer": "Far Cry 3",
+    "release_year": "2012",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 104,
+    "answer": "Dishonored",
+    "release_year": "2012",
+    "developer": "Arkane Studios"
+  },
+  {
+    "puzzle_num": 105,
+    "answer": "Metal Gear Rising: Revengeance",
+    "release_year": "2013",
+    "developer": "PlatinumGames & Kojima Productions"
+  },
+  {
+    "puzzle_num": 106,
+    "answer": "Risk of Rain 2",
+    "release_year": "2019",
+    "developer": "Hopoo games"
+  },
+  {
+    "puzzle_num": 107,
+    "answer": "Rollercoaster Tycoon",
+    "release_year": "1999",
+    "developer": "Chris Sawyer"
+  },
+  {
+    "puzzle_num": 108,
+    "answer": "Death Stranding",
+    "release_year": "2019",
+    "developer": "Kojima Productions"
+  },
+  {
+    "puzzle_num": 109,
+    "answer": "Kingdom Hearts II",
+    "release_year": "2005 (JP), 2006 (Globally)",
+    "developer": "Square Enix & Buena Vista Games"
+  },
+  {
+    "puzzle_num": 110,
+    "answer": "Devil May Cry 5",
+    "release_year": "2019",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 111,
+    "answer": "Spyro the Dragon",
+    "release_year": "1998",
+    "developer": "Insomniac Games"
+  },
+  {
+    "puzzle_num": 112,
+    "answer": "Okami",
+    "release_year": "2006",
+    "developer": "Clover Studio"
+  },
+  {
+    "puzzle_num": 113,
+    "answer": "Bomberman Hero",
+    "release_year": "1998",
+    "developer": "Hudson Soft"
+  },
+  {
+    "puzzle_num": 114,
+    "answer": "LittleBigPlanet",
+    "release_year": "2008",
+    "developer": "Media Molecule"
+  },
+  {
+    "puzzle_num": 115,
+    "answer": "Final Fantasy XIV Online: A Realm Reborn",
+    "release_year": "2013",
+    "developer": "Square Enix"
+  },
+  {
+    "puzzle_num": 116,
+    "answer": "Quake",
+    "release_year": "1996",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 117,
+    "answer": "The Talos Principle",
+    "release_year": "2014",
+    "developer": "Croteam"
+  },
+  {
+    "puzzle_num": 118,
+    "answer": "The Stanley Parable",
+    "release_year": "2013",
+    "developer": "Galactic Cafe"
+  },
+  {
+    "puzzle_num": 119,
+    "answer": "Fez",
+    "release_year": "2012",
+    "developer": "Polytron Corporation"
+  },
+  {
+    "puzzle_num": 120,
+    "answer": "Amnesia: The Dark Descent",
+    "release_year": "2010",
+    "developer": "Frictional Games"
+  },
+  {
+    "puzzle_num": 121,
+    "answer": "Professor Layton and the Curious Village",
+    "release_year": "2007 (JP), 2008 (Worldwide)",
+    "developer": "Level-5"
+  },
+  {
+    "puzzle_num": 122,
+    "answer": "Half-Life 2",
+    "release_year": "2004",
+    "developer": "Valve"
+  },
+  {
+    "puzzle_num": 123,
+    "answer": "Assassin's Creed II",
+    "release_year": "2009",
+    "developer": "Ubisoft Montréal"
+  },
+  {
+    "puzzle_num": 124,
+    "answer": "The Simpsons: Hit & Run",
+    "release_year": "2003",
+    "developer": "Radical Entertainment"
+  },
+  {
+    "puzzle_num": 125,
+    "answer": "Payday 2",
+    "release_year": "2013",
+    "developer": "Overkill Software"
+  },
+  {
+    "puzzle_num": 126,
+    "answer": "Metal Gear Solid 2: Sons of Liberty",
+    "release_year": "2001",
+    "developer": "Konami Computer Entertainment Japan"
+  },
+  {
+    "puzzle_num": 127,
+    "answer": "Disco Elysium",
+    "release_year": "2019",
+    "developer": "ZA/UM"
+  },
+  {
+    "puzzle_num": 128,
+    "answer": "Red Dead Redemption",
+    "release_year": "2010",
+    "developer": "Rockstar San Diego"
+  },
+  {
+    "puzzle_num": 129,
+    "answer": "Rocket League",
+    "release_year": "2015",
+    "developer": "Psyonix"
+  },
+  {
+    "puzzle_num": 130,
+    "answer": "ARK: Survival Evolved",
+    "release_year": "2017",
+    "developer": "Studio Wildcard"
+  },
+  {
+    "puzzle_num": 131,
+    "answer": "Genshin Impact",
+    "release_year": "2020",
+    "developer": "miHoYo"
+  },
+  {
+    "puzzle_num": 132,
+    "answer": "Counter-Strike",
+    "release_year": "2000",
+    "developer": "Valve"
+  },
+  {
+    "puzzle_num": 133,
+    "answer": "Mario Kart: Double Dash!!",
+    "release_year": "2003",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 134,
+    "answer": "Undertale",
+    "release_year": "2015",
+    "developer": "Toby Fox"
+  },
+  {
+    "puzzle_num": 135,
+    "answer": "Cities: Skylines",
+    "release_year": "2015",
+    "developer": "Colossal Order"
+  },
+  {
+    "puzzle_num": 136,
+    "answer": "Rust",
+    "release_year": "2013",
+    "developer": "Facepunch Studios"
+  },
+  {
+    "puzzle_num": 137,
+    "answer": "Viva Piñata",
+    "release_year": "2006",
+    "developer": "Rare, Krome Studios"
+  },
+  {
+    "puzzle_num": 138,
+    "answer": "Overcooked!",
+    "release_year": "2016",
+    "developer": "Ghost Town Games"
+  },
+  {
+    "puzzle_num": 139,
+    "answer": "Team Fortress 2",
+    "release_year": "2007",
+    "developer": "Valve"
+  },
+  {
+    "puzzle_num": 140,
+    "answer": "Hitman 3",
+    "release_year": "2021",
+    "developer": "IO Interactive"
+  },
+  {
+    "puzzle_num": 141,
+    "answer": "Doom Eternal",
+    "release_year": "2020",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 142,
+    "answer": "Hades",
+    "release_year": "2020",
+    "developer": "Supergiant Games"
+  },
+  {
+    "puzzle_num": 143,
+    "answer": "Tunic",
+    "release_year": "2022",
+    "developer": "Andrew Shouldice"
+  },
+  {
+    "puzzle_num": 144,
+    "answer": "Ratchet & Clank",
+    "release_year": "2002",
+    "developer": "Insomniac Games"
+  },
+  {
+    "puzzle_num": 145,
+    "answer": "Elden Ring",
+    "release_year": "2022",
+    "developer": "From Software"
+  },
+  {
+    "puzzle_num": 146,
+    "answer": "No Man's Sky",
+    "release_year": "2016",
+    "developer": "Hello Games"
+  },
+  {
+    "puzzle_num": 147,
+    "answer": "Crazy Taxi",
+    "release_year": "1999",
+    "developer": "Hitmaker / Acclaim"
+  },
+  {
+    "puzzle_num": 148,
+    "answer": "Crysis",
+    "release_year": "2007",
+    "developer": "Crytek"
+  },
+  {
+    "puzzle_num": 149,
+    "answer": "VVVVVV",
+    "release_year": "2010",
+    "developer": "Terry Cavanagh"
+  },
+  {
+    "puzzle_num": 150,
+    "answer": "Starcraft",
+    "release_year": "1998",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 151,
+    "answer": "Fall Guys",
+    "release_year": "2020",
+    "developer": "Mediatronic"
+  },
+  {
+    "puzzle_num": 152,
+    "answer": "Mother 3",
+    "release_year": "2006",
+    "developer": "Brownie Brown / HAL Laboratory"
+  },
+  {
+    "puzzle_num": 153,
+    "answer": "Journey",
+    "release_year": "2012",
+    "developer": "Thatgamecompany"
+  },
+  {
+    "puzzle_num": 154,
+    "answer": "Silent Hill 2",
+    "release_year": "2001",
+    "developer": "Team Silent (Konami Computer Entertainment Tokyo)"
+  },
+  {
+    "puzzle_num": 155,
+    "answer": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "release_year": "2005",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 156,
+    "answer": "League of Legends",
+    "release_year": "2009",
+    "developer": "Riot Games"
+  },
+  {
+    "puzzle_num": 157,
+    "answer": "Borderlands",
+    "release_year": "2009",
+    "developer": "Gearbox Software"
+  },
+  {
+    "puzzle_num": 158,
+    "answer": "FEAR: First Encounter Assault Recon",
+    "release_year": "2005",
+    "developer": "Monolith Productions"
+  },
+  {
+    "puzzle_num": 159,
+    "answer": "Twisted Metal",
+    "release_year": "1995",
+    "developer": "SingleTrac"
+  },
+  {
+    "puzzle_num": 160,
+    "answer": "Killzone 2",
+    "release_year": "2009",
+    "developer": "Guerilla Games"
+  },
+  {
+    "puzzle_num": 161,
+    "answer": "Luigi's Mansion",
+    "release_year": "2001",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 162,
+    "answer": "BioShock",
+    "release_year": "2007",
+    "developer": "2K Games & Irrational Games"
+  },
+  {
+    "puzzle_num": 163,
+    "answer": "Phasmophobia",
+    "release_year": "2020 (Early Access)",
+    "developer": "Kinetic Games"
+  },
+  {
+    "puzzle_num": 164,
+    "answer": "Tomb Raider",
+    "release_year": "2013",
+    "developer": "Crystal Dynamics"
+  },
+  {
+    "puzzle_num": 165,
+    "answer": "Unreal Tournament",
+    "release_year": "1999",
+    "developer": "Epic Games"
+  },
+  {
+    "puzzle_num": 166,
+    "answer": "Ori and the Blind Forest",
+    "release_year": "2015",
+    "developer": "Moon Studios"
+  },
+  {
+    "puzzle_num": 167,
+    "answer": "Friday the 13th: The Game",
+    "release_year": "2017",
+    "developer": "IllFonic"
+  },
+  {
+    "puzzle_num": 168,
+    "answer": "Crypt of the NecroDancer",
+    "release_year": "2015",
+    "developer": "Brace Yourself Games"
+  },
+  {
+    "puzzle_num": 169,
+    "answer": "Manhunt",
+    "release_year": "2003",
+    "developer": "Rockstar North"
+  },
+  {
+    "puzzle_num": 170,
+    "answer": "Five Nights at Freddy's",
+    "release_year": "2014",
+    "developer": "Scott Cawthorn"
+  },
+  {
+    "puzzle_num": 171,
+    "answer": "L.A. Noire",
+    "release_year": "2011",
+    "developer": "Team Bondi"
+  },
+  {
+    "puzzle_num": 172,
+    "answer": "Castlevania: Symphony of the Night",
+    "release_year": "1997",
+    "developer": "Konami Computer Entertainment Tokyo"
+  },
+  {
+    "puzzle_num": 173,
+    "answer": "Age of Empires II: The Age of Kings",
+    "release_year": "1999",
+    "developer": "Ensemble Studios"
+  },
+  {
+    "puzzle_num": 174,
+    "answer": "Battlefield 2",
+    "release_year": "2005",
+    "developer": "DICE"
+  },
+  {
+    "puzzle_num": 175,
+    "answer": "Prince of Persia: The Sands of Time",
+    "release_year": "2003",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 176,
+    "answer": "Darkest Dungeon",
+    "release_year": "2016",
+    "developer": "Red Hook Studios"
+  },
+  {
+    "puzzle_num": 177,
+    "answer": "Sonic the Hedgehog",
+    "release_year": "1991",
+    "developer": "Sonic Team"
+  },
+  {
+    "puzzle_num": 178,
+    "answer": "System Shock 2",
+    "release_year": "1999",
+    "developer": "Ken Levine, Irrational Games, Looking Glass Studios"
+  },
+  {
+    "puzzle_num": 179,
+    "answer": "Spelunky",
+    "release_year": "2012 (or 2008 in origin.. but practically speaking, 2012)",
+    "developer": "Mossmouth"
+  },
+  {
+    "puzzle_num": 180,
+    "answer": "The Sims 4",
+    "release_year": "2014",
+    "developer": "Maxis"
+  },
+  {
+    "puzzle_num": 181,
+    "answer": "Monster Hunter Rise",
+    "release_year": "2021",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 182,
+    "answer": "Plants vs. Zombies",
+    "release_year": "2009",
+    "developer": "PopCap Games"
+  },
+  {
+    "puzzle_num": 183,
+    "answer": "Cult of the Lamb",
+    "release_year": "2022",
+    "developer": "Massive Monster"
+  },
+  {
+    "puzzle_num": 184,
+    "answer": "Alien: Isolation",
+    "release_year": "2014",
+    "developer": "Creative Assembly"
+  },
+  {
+    "puzzle_num": 185,
+    "answer": "Mario & Luigi: Bowser's Inside Story",
+    "release_year": "2009",
+    "developer": "AlphaDream Corporation"
+  },
+  {
+    "puzzle_num": 186,
+    "answer": "Stray",
+    "release_year": "2022",
+    "developer": "BlueTwelve Studio"
+  },
+  {
+    "puzzle_num": 187,
+    "answer": "Angry Birds",
+    "release_year": "2009",
+    "developer": "Rovio Entertainment"
+  },
+  {
+    "puzzle_num": 188,
+    "answer": "Slay the Spire",
+    "release_year": "2019",
+    "developer": "MegaCrit"
+  },
+  {
+    "puzzle_num": 189,
+    "answer": "Warhammer: Vermintide 2",
+    "release_year": "2018",
+    "developer": "Fatshark"
+  },
+  {
+    "puzzle_num": 190,
+    "answer": "Grim Fandango",
+    "release_year": "1998",
+    "developer": "LucasArts"
+  },
+  {
+    "puzzle_num": 191,
+    "answer": "Titanfall 2",
+    "release_year": "2016",
+    "developer": "Respawn Entertainment"
+  },
+  {
+    "puzzle_num": 192,
+    "answer": "Subnautica",
+    "release_year": "2014 (early access), 2018 (full release)",
+    "developer": "Unknown Worlds Entertainment"
+  },
+  {
+    "puzzle_num": 193,
+    "answer": "Xenoblade Chronicles 3",
+    "release_year": "2022",
+    "developer": "Monolith Soft"
+  },
+  {
+    "puzzle_num": 194,
+    "answer": "World of Goo",
+    "release_year": "2008",
+    "developer": "2D Boy"
+  },
+  {
+    "puzzle_num": 195,
+    "answer": "Kentucky Route Zero",
+    "release_year": "2020",
+    "developer": "Cardboard Computer"
+  },
+  {
+    "puzzle_num": 196,
+    "answer": "Blasphemous",
+    "release_year": "2019",
+    "developer": "The Game Kitchen"
+  },
+  {
+    "puzzle_num": 197,
+    "answer": "Life is Strange",
+    "release_year": "2015",
+    "developer": "Dontnod Entertainment"
+  },
+  {
+    "puzzle_num": 198,
+    "answer": "Getting Over It with Bennett Foddy",
+    "release_year": "2017",
+    "developer": "Bennett Foddy"
+  },
+  {
+    "puzzle_num": 199,
+    "answer": "Neon White",
+    "release_year": "2022",
+    "developer": "Angel Matrix"
+  },
+  {
+    "puzzle_num": 200,
+    "answer": "Mega Man 3",
+    "release_year": "1990",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 201,
+    "answer": "Vampire Survivors",
+    "release_year": "2022",
+    "developer": "Luca Galante"
+  },
+  {
+    "puzzle_num": 202,
+    "answer": "Middle-earth: Shadow of Mordor",
+    "release_year": "2014",
+    "developer": "Monolith Productions"
+  },
+  {
+    "puzzle_num": 203,
+    "answer": "50 Cent: Blood on the Sand",
+    "release_year": "2009",
+    "developer": "Swordfish Studios"
+  },
+  {
+    "puzzle_num": 204,
+    "answer": "Enter the Gungeon",
+    "release_year": "2016",
+    "developer": "Dodge Roll"
+  },
+  {
+    "puzzle_num": 205,
+    "answer": "The Legend of Zelda: A Link to the Past",
+    "release_year": "1991 (JP), 1992 (Worldwide)",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 206,
+    "answer": "Hypnospace Outlaw",
+    "release_year": "2019",
+    "developer": "Tendershoot"
+  },
+  {
+    "puzzle_num": 207,
+    "answer": "Cuphead",
+    "release_year": "2017",
+    "developer": "Studio MDHR"
+  },
+  {
+    "puzzle_num": 208,
+    "answer": "Path of Exile",
+    "release_year": "2013",
+    "developer": "Grinding Gear Games"
+  },
+  {
+    "puzzle_num": 209,
+    "answer": "Doom",
+    "release_year": "1993",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 210,
+    "answer": "Ultimate Chicken Horse",
+    "release_year": "2016",
+    "developer": "Clever Endeavour Games"
+  },
+  {
+    "puzzle_num": 211,
+    "answer": "Catherine",
+    "release_year": "2011",
+    "developer": "Atlus"
+  },
+  {
+    "puzzle_num": 212,
+    "answer": "Ape Escape",
+    "release_year": "1999",
+    "developer": "Japan Studio"
+  },
+  {
+    "puzzle_num": 213,
+    "answer": "Minesweeper",
+    "release_year": "1989",
+    "developer": "Sort of unclear? Read the wikipedia page 😅"
+  },
+  {
+    "puzzle_num": 214,
+    "answer": "Rise of the Tomb Raider",
+    "release_year": "2015",
+    "developer": "Crystal Dynamics"
+  },
+  {
+    "puzzle_num": 215,
+    "answer": "Max Payne",
+    "release_year": "2001",
+    "developer": "Remedy Entertainment"
+  },
+  {
+    "puzzle_num": 216,
+    "answer": "Metroid Fusion",
+    "release_year": "2002",
+    "developer": "Nintendo R&D1"
+  },
+  {
+    "puzzle_num": 217,
+    "answer": "Hyper Light Drifter",
+    "release_year": "2016",
+    "developer": "Heart Machine"
+  },
+  {
+    "puzzle_num": 218,
+    "answer": "Crusader Kings II",
+    "release_year": "2012",
+    "developer": "Paradox Development Studio"
+  },
+  {
+    "puzzle_num": 219,
+    "answer": "Watch Dogs",
+    "release_year": "2014",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 220,
+    "answer": "Counter-Strike: Source",
+    "release_year": "2004",
+    "developer": "Valve & Turtle Rock Studios"
+  },
+  {
+    "puzzle_num": 221,
+    "answer": "Dig Dug",
+    "release_year": "1982",
+    "developer": "Namco"
+  },
+  {
+    "puzzle_num": 222,
+    "answer": "Splatoon 2",
+    "release_year": "2017",
+    "developer": "Nintendo EPD"
+  },
+  {
+    "puzzle_num": 223,
+    "answer": "Super Mario Odyssey",
+    "release_year": "2017",
+    "developer": "Nintendo EPD"
+  },
+  {
+    "puzzle_num": 224,
+    "answer": "Valorant",
+    "release_year": "2020",
+    "developer": "Riot Games"
+  },
+  {
+    "puzzle_num": 225,
+    "answer": "Noita",
+    "release_year": "2020",
+    "developer": "Nolla Games"
+  },
+  {
+    "puzzle_num": 226,
+    "answer": "Spec Ops: The Line",
+    "release_year": "2012",
+    "developer": "Yager Development"
+  },
+  {
+    "puzzle_num": 227,
+    "answer": "For Honor",
+    "release_year": "2017",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 228,
+    "answer": "Tom Clancy's Rainbow Six Siege",
+    "release_year": "2015",
+    "developer": "Ubisoft Games"
+  },
+  {
+    "puzzle_num": 229,
+    "answer": "Star Wars Jedi: Fallen Order",
+    "release_year": "2019",
+    "developer": "Respawn Entertainment"
+  },
+  {
+    "puzzle_num": 230,
+    "answer": "Into The Breach",
+    "release_year": "2018",
+    "developer": "Subset Games"
+  },
+  {
+    "puzzle_num": 231,
+    "answer": "Mirror's Edge",
+    "release_year": "2008",
+    "developer": "DICE"
+  },
+  {
+    "puzzle_num": 232,
+    "answer": "Sonic Frontiers",
+    "release_year": "2022",
+    "developer": "Sonic Team"
+  },
+  {
+    "puzzle_num": 233,
+    "answer": "Darksiders",
+    "release_year": "2010",
+    "developer": "Vigil Games"
+  },
+  {
+    "puzzle_num": 234,
+    "answer": "Deus Ex",
+    "release_year": "2000",
+    "developer": "Ion Storm"
+  },
+  {
+    "puzzle_num": 235,
+    "answer": "Nuclear Throne",
+    "release_year": "2015",
+    "developer": "Vlambeer"
+  },
+  {
+    "puzzle_num": 236,
+    "answer": "Command & Conquer: Red Alert 2",
+    "release_year": "2000",
+    "developer": "Westwood Pacific"
+  },
+  {
+    "puzzle_num": 237,
+    "answer": "Silent Hill 4: The Room",
+    "release_year": "2004",
+    "developer": "Team Silent"
+  },
+  {
+    "puzzle_num": 238,
+    "answer": "Tom Clancy's The Division 2",
+    "release_year": "2019",
+    "developer": "Massive Entertainment"
+  },
+  {
+    "puzzle_num": 239,
+    "answer": "Fallout 4",
+    "release_year": "2015",
+    "developer": "Bethesda Game Studios"
+  },
+  {
+    "puzzle_num": 240,
+    "answer": "Alan Wake",
+    "release_year": "2010",
+    "developer": "Remedy Entertainment"
+  },
+  {
+    "puzzle_num": 241,
+    "answer": "Grand Theft Auto IV",
+    "release_year": "2008",
+    "developer": "Rockstar North"
+  },
+  {
+    "puzzle_num": 242,
+    "answer": "Cyberpunk 2077",
+    "release_year": "2020",
+    "developer": "CD Projekt Red"
+  },
+  {
+    "puzzle_num": 243,
+    "answer": "Warframe",
+    "release_year": "2013",
+    "developer": "Digital Extremes"
+  },
+  {
+    "puzzle_num": 244,
+    "answer": "Need For Speed: Most Wanted",
+    "release_year": "2005",
+    "developer": "EA Canada & EA Black Box"
+  },
+  {
+    "puzzle_num": 245,
+    "answer": "Beat Saber",
+    "release_year": "2019",
+    "developer": "Beat Games"
+  },
+  {
+    "puzzle_num": 246,
+    "answer": "Monument Valley",
+    "release_year": "2014",
+    "developer": "Ustwo Games"
+  },
+  {
+    "puzzle_num": 247,
+    "answer": "Soulcalibur",
+    "release_year": "1998",
+    "developer": "Project Soul"
+  },
+  {
+    "puzzle_num": 248,
+    "answer": "Bugsnax",
+    "release_year": "2020",
+    "developer": "Young Horses"
+  },
+  {
+    "puzzle_num": 249,
+    "answer": "Satisfactory",
+    "release_year": "2019 (Early Access, and still is)",
+    "developer": "Coffee Stain Studios"
+  },
+  {
+    "puzzle_num": 250,
+    "answer": "No More Heroes",
+    "release_year": "2007",
+    "developer": "Grasshopper Manufacture"
+  },
+  {
+    "puzzle_num": 251,
+    "answer": "Diddy Kong Racing",
+    "release_year": "1997",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 252,
+    "answer": "Slime Rancher",
+    "release_year": "2017",
+    "developer": "Monomi Park"
+  },
+  {
+    "puzzle_num": 253,
+    "answer": "MultiVersus",
+    "release_year": "2022",
+    "developer": "Player First Games"
+  },
+  {
+    "puzzle_num": 254,
+    "answer": "Superhot",
+    "release_year": "2016",
+    "developer": "Superhot Team"
+  },
+  {
+    "puzzle_num": 255,
+    "answer": "Brutal Legend",
+    "release_year": "2009",
+    "developer": "Double Fine Productions"
+  },
+  {
+    "puzzle_num": 256,
+    "answer": "Mortal Kombat 11",
+    "release_year": "2019",
+    "developer": "NetherRealm Studios"
+  },
+  {
+    "puzzle_num": 257,
+    "answer": "A Plague Tale: Requiem",
+    "release_year": "2022",
+    "developer": "Asobo Studio"
+  },
+  {
+    "puzzle_num": 258,
+    "answer": "Valheim",
+    "release_year": "2021 (Early Access)",
+    "developer": "Iron Gate Studio"
+  },
+  {
+    "puzzle_num": 259,
+    "answer": "Warcraft III: Reign of Chaos",
+    "release_year": "2002",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 260,
+    "answer": "Sekiro: Shadows Die Twice",
+    "release_year": "2019",
+    "developer": "FromSoftware"
+  },
+  {
+    "puzzle_num": 261,
+    "answer": "Ghost Trick: Phantom Detective",
+    "release_year": "2010 (JP), 2011 (US)",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 262,
+    "answer": "Horizon Forbidden West",
+    "release_year": "2022",
+    "developer": "Guerrilla Games"
+  },
+  {
+    "puzzle_num": 263,
+    "answer": "Mafia",
+    "release_year": "2002",
+    "developer": "Illusion Softworks"
+  },
+  {
+    "puzzle_num": 264,
+    "answer": "Bayonetta 2",
+    "release_year": "2014",
+    "developer": "PlatinumGames"
+  },
+  {
+    "puzzle_num": 265,
+    "answer": "Wolfenstein 3D",
+    "release_year": "1992",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 266,
+    "answer": "Astroneer",
+    "release_year": "2019",
+    "developer": "System Era Softworks"
+  },
+  {
+    "puzzle_num": 267,
+    "answer": "Spider-Man",
+    "release_year": "2000",
+    "developer": "Neversoft"
+  },
+  {
+    "puzzle_num": 268,
+    "answer": "Pikmin",
+    "release_year": "2001",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 269,
+    "answer": "Donkey Kong Country",
+    "release_year": "1994",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 270,
+    "answer": "Unrailed!",
+    "release_year": "2020",
+    "developer": "Indoor Astronaut"
+  },
+  {
+    "puzzle_num": 271,
+    "answer": "NBA Jam",
+    "release_year": "1993",
+    "developer": "Midway"
+  },
+  {
+    "puzzle_num": 272,
+    "answer": "Final Fantasy VII Remake",
+    "release_year": "2020",
+    "developer": "Square Enix Business Division 1"
+  },
+  {
+    "puzzle_num": 273,
+    "answer": "Medal of Honor",
+    "release_year": "1999",
+    "developer": "DreamWorks Interactive"
+  },
+  {
+    "puzzle_num": 274,
+    "answer": "Assassin's Creed Odyssey",
+    "release_year": "2018",
+    "developer": "Ubisoft Quebec"
+  },
+  {
+    "puzzle_num": 275,
+    "answer": "Dark Souls II",
+    "release_year": "2014",
+    "developer": "FromSoftware"
+  },
+  {
+    "puzzle_num": 276,
+    "answer": "Halo Wars",
+    "release_year": "2009",
+    "developer": "Ensemble Studios"
+  },
+  {
+    "puzzle_num": 277,
+    "answer": "Hyper Demon",
+    "release_year": "2022",
+    "developer": "Sorath"
+  },
+  {
+    "puzzle_num": 278,
+    "answer": "Gears of War",
+    "release_year": "2006",
+    "developer": "Epic Games"
+  },
+  {
+    "puzzle_num": 279,
+    "answer": "Nioh",
+    "release_year": "2017",
+    "developer": "Team Ninja"
+  },
+  {
+    "puzzle_num": 280,
+    "answer": "Portal",
+    "release_year": "2007",
+    "developer": "Valve"
+  },
+  {
+    "puzzle_num": 281,
+    "answer": "Battlefield 3",
+    "release_year": "2011",
+    "developer": "DICE"
+  },
+  {
+    "puzzle_num": 282,
+    "answer": "Bastion",
+    "release_year": "2011",
+    "developer": "Supergiant Games"
+  },
+  {
+    "puzzle_num": 283,
+    "answer": "Saints Row",
+    "release_year": "2006",
+    "developer": "Volition"
+  },
+  {
+    "puzzle_num": 284,
+    "answer": "Dreams",
+    "release_year": "2020",
+    "developer": "Media Molecule"
+  },
+  {
+    "puzzle_num": 285,
+    "answer": "Dance Central",
+    "release_year": "2010",
+    "developer": "Harmonix"
+  },
+  {
+    "puzzle_num": 286,
+    "answer": "Dead Island",
+    "release_year": "2011",
+    "developer": "Techland"
+  },
+  {
+    "puzzle_num": 287,
+    "answer": "South Park: The Stick of Truth",
+    "release_year": "2014",
+    "developer": "Obsidian Entertainment"
+  },
+  {
+    "puzzle_num": 288,
+    "answer": "Titanfall",
+    "release_year": "2014",
+    "developer": "Respawn Entertainment"
+  },
+  {
+    "puzzle_num": 289,
+    "answer": "The Banner Saga",
+    "release_year": "2014",
+    "developer": "Stoic Studio"
+  },
+  {
+    "puzzle_num": 290,
+    "answer": "The Last Guardian",
+    "release_year": "2016",
+    "developer": "Japan Studio, GenDesign"
+  },
+  {
+    "puzzle_num": 291,
+    "answer": "Super Mario Maker",
+    "release_year": "2015",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 292,
+    "answer": "Sleeping Dogs",
+    "release_year": "2012",
+    "developer": "United Front Games"
+  },
+  {
+    "puzzle_num": 293,
+    "answer": "Crackdown",
+    "release_year": "2007",
+    "developer": "Realtime Worlds"
+  },
+  {
+    "puzzle_num": 294,
+    "answer": "Halo 2",
+    "release_year": "2004",
+    "developer": "Bungie"
+  },
+  {
+    "puzzle_num": 295,
+    "answer": "Firewatch",
+    "release_year": "2016",
+    "developer": "Campo Santo"
+  },
+  {
+    "puzzle_num": 296,
+    "answer": "Star Wars Battlefront (2004)",
+    "release_year": "2004",
+    "developer": "Pandemic Studios"
+  },
+  {
+    "puzzle_num": 297,
+    "answer": "Hitman: Absolution",
+    "release_year": "2012",
+    "developer": "IO Interactive"
+  },
+  {
+    "puzzle_num": 298,
+    "answer": "Pokemon Legends: Arceus",
+    "release_year": "2022",
+    "developer": "Game Freak"
+  },
+  {
+    "puzzle_num": 299,
+    "answer": "Dark Souls III",
+    "release_year": "2016",
+    "developer": "FromSoftware, Inc."
+  },
+  {
+    "puzzle_num": 300,
+    "answer": "Beyond Good & Evil",
+    "release_year": "2003",
+    "developer": "Ubisoft Pictures SAS, Ubisoft, Inc."
+  },
+  {
+    "puzzle_num": 301,
+    "answer": "Battletoads",
+    "release_year": "1991",
+    "developer": "Rare Limited"
+  },
+  {
+    "puzzle_num": 302,
+    "answer": "Dragon Age II",
+    "release_year": "2011",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 303,
+    "answer": "Red Dead Redemption 2",
+    "release_year": "2018",
+    "developer": "Rockstar Studios"
+  },
+  {
+    "puzzle_num": 304,
+    "answer": "Crash Bandicoot",
+    "release_year": "1996",
+    "developer": "Naughty Dog, Inc."
+  },
+  {
+    "puzzle_num": 305,
+    "answer": "Ultimate Marvel vs. Capcom 3",
+    "release_year": "2011",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 306,
+    "answer": "Psychonauts",
+    "release_year": "2005",
+    "developer": "Double Fine Productions"
+  },
+  {
+    "puzzle_num": 307,
+    "answer": "Super Mario World 2: Yoshi's Island",
+    "release_year": "1995",
+    "developer": "Nintendo R&D2"
+  },
+  {
+    "puzzle_num": 308,
+    "answer": "inFAMOUS",
+    "release_year": "2009",
+    "developer": "Sucker Punch Productions"
+  },
+  {
+    "puzzle_num": 309,
+    "answer": "Bulletstorm",
+    "release_year": "2011",
+    "developer": "People Can Fly, Epic Games"
+  },
+  {
+    "puzzle_num": 310,
+    "answer": "Age of Conan: Hyborian Adventures",
+    "release_year": "2008",
+    "developer": "Funcom"
+  },
+  {
+    "puzzle_num": 311,
+    "answer": "Heroes of the Storm",
+    "release_year": "2015",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 312,
+    "answer": "Mark of the Ninja",
+    "release_year": "2012",
+    "developer": "Klei Entertainment"
+  },
+  {
+    "puzzle_num": 313,
+    "answer": "Pillars of Eternity II: Deadfire",
+    "release_year": "2018",
+    "developer": "Obsidian Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 314,
+    "answer": "Binding Of Isaac",
+    "release_year": "2011",
+    "developer": "Edmund McMillen"
+  },
+  {
+    "puzzle_num": 315,
+    "answer": "Factorio",
+    "release_year": "2016",
+    "developer": "Wube Software"
+  },
+  {
+    "puzzle_num": 316,
+    "answer": "Dishonored",
+    "release_year": "2012",
+    "developer": "Arkane Studios"
+  },
+  {
+    "puzzle_num": 317,
+    "answer": "Cookie Clicker",
+    "release_year": "2013",
+    "developer": "Orteil, DashNet"
+  },
+  {
+    "puzzle_num": 318,
+    "answer": "PaRappa The Rapper",
+    "release_year": "1997",
+    "developer": "NanaOn-Sha"
+  },
+  {
+    "puzzle_num": 319,
+    "answer": "Machinarium",
+    "release_year": "2009",
+    "developer": "Amanita Design"
+  },
+  {
+    "puzzle_num": 320,
+    "answer": "Terraria",
+    "release_year": "2011",
+    "developer": "Re-Logic"
+  },
+  {
+    "puzzle_num": 321,
+    "answer": "The Outer Worlds",
+    "release_year": "2019",
+    "developer": "Obsidian Entertainment"
+  },
+  {
+    "puzzle_num": 322,
+    "answer": "GuessThe.Game",
+    "release_year": "2022",
+    "developer": "Samuel Stiles"
+  },
+  {
+    "puzzle_num": 323,
+    "answer": "Freedom Fighters",
+    "release_year": "2003",
+    "developer": "IO Interactive"
+  },
+  {
+    "puzzle_num": 324,
+    "answer": "Soulcalibur IV",
+    "release_year": "2008",
+    "developer": "Project Soul"
+  },
+  {
+    "puzzle_num": 325,
+    "answer": "Pikmin 3",
+    "release_year": "2013",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 326,
+    "answer": "Dying Light",
+    "release_year": "2015",
+    "developer": "Techland"
+  },
+  {
+    "puzzle_num": 327,
+    "answer": "Divinity: Original Sin",
+    "release_year": "2014",
+    "developer": "Larian Studios"
+  },
+  {
+    "puzzle_num": 328,
+    "answer": "Rayman Legends",
+    "release_year": "2013",
+    "developer": "Ubisoft Montpellier"
+  },
+  {
+    "puzzle_num": 329,
+    "answer": "Xenogears",
+    "release_year": "1998",
+    "developer": "Square Enix"
+  },
+  {
+    "puzzle_num": 330,
+    "answer": "The Long Dark",
+    "release_year": "2017",
+    "developer": "Hinterland Studio"
+  },
+  {
+    "puzzle_num": 331,
+    "answer": "Runescape",
+    "release_year": "2001",
+    "developer": "Jagex"
+  },
+  {
+    "puzzle_num": 332,
+    "answer": "Baba Is You",
+    "release_year": "2019",
+    "developer": "Hempuli"
+  },
+  {
+    "puzzle_num": 333,
+    "answer": "Final Fantasy Tactics",
+    "release_year": "1997",
+    "developer": "Squaresoft"
+  },
+  {
+    "puzzle_num": 334,
+    "answer": "Escape from Tarkov",
+    "release_year": "2017",
+    "developer": "Battlestate Games"
+  },
+  {
+    "puzzle_num": 335,
+    "answer": "Guild Wars 2",
+    "release_year": "2012",
+    "developer": "ArenaNet"
+  },
+  {
+    "puzzle_num": 336,
+    "answer": "Evil Genius",
+    "release_year": "2004",
+    "developer": "Elixir Studios"
+  },
+  {
+    "puzzle_num": 337,
+    "answer": "Untitled Goose Game",
+    "release_year": "2019",
+    "developer": "House House Games"
+  },
+  {
+    "puzzle_num": 338,
+    "answer": "The Legend of Zelda: Twilight Princess",
+    "release_year": "2006",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 339,
+    "answer": "Fire Emblem Awakening",
+    "release_year": "2012",
+    "developer": "Intelligent Systems"
+  },
+  {
+    "puzzle_num": 340,
+    "answer": "Skate",
+    "release_year": "2007",
+    "developer": "Electronic Arts Black Box"
+  },
+  {
+    "puzzle_num": 341,
+    "answer": "Borderlands 2",
+    "release_year": "2012",
+    "developer": "Gearbox Software"
+  },
+  {
+    "puzzle_num": 342,
+    "answer": "Duck Hunt",
+    "release_year": "1984",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 343,
+    "answer": "Rock of Ages",
+    "release_year": "2011",
+    "developer": "ACE Team"
+  },
+  {
+    "puzzle_num": 344,
+    "answer": "Dandara",
+    "release_year": "2018",
+    "developer": "Long Hat House"
+  },
+  {
+    "puzzle_num": 345,
+    "answer": "Goat Simulator",
+    "release_year": "2014",
+    "developer": "Coffee Stain Studios"
+  },
+  {
+    "puzzle_num": 346,
+    "answer": "Anno 1800",
+    "release_year": "2019",
+    "developer": "Ubisoft Blue Byte"
+  },
+  {
+    "puzzle_num": 347,
+    "answer": "Sonic Adventure 2",
+    "release_year": "2001",
+    "developer": "Sonic Team USA"
+  },
+  {
+    "puzzle_num": 348,
+    "answer": "Planet Zoo",
+    "release_year": "2019",
+    "developer": "Frontier Developments"
+  },
+  {
+    "puzzle_num": 349,
+    "answer": "Baldur's Gate II: Shadows of Amn",
+    "release_year": "2000",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 350,
+    "answer": "Cry of Fear",
+    "release_year": "2012",
+    "developer": "Team Psykskallar"
+  },
+  {
+    "puzzle_num": 351,
+    "answer": "Mercenaries: Playground of Destruction",
+    "release_year": "2005",
+    "developer": "Pandemic Studios"
+  },
+  {
+    "puzzle_num": 352,
+    "answer": "Among Us",
+    "release_year": "2018",
+    "developer": "Innersloth"
+  },
+  {
+    "puzzle_num": 353,
+    "answer": "Killer 7",
+    "release_year": "2005",
+    "developer": "Grasshopper Manufacture, Capcom Production Studio 4"
+  },
+  {
+    "puzzle_num": 354,
+    "answer": "Star Wars Episode I: Racer",
+    "release_year": "1999",
+    "developer": "LucasArts"
+  },
+  {
+    "puzzle_num": 355,
+    "answer": "ULTRAKILL",
+    "release_year": "2020 (Early Access)",
+    "developer": "Arsi \"Hakita\" Patala"
+  },
+  {
+    "puzzle_num": 356,
+    "answer": "GunZ: The Duel",
+    "release_year": "2006",
+    "developer": "MAIET Entertainment"
+  },
+  {
+    "puzzle_num": 357,
+    "answer": "Nobody Saves The World",
+    "release_year": "2022",
+    "developer": "DrinkBox Studios Inc."
+  },
+  {
+    "puzzle_num": 358,
+    "answer": "Viewtiful Joe",
+    "release_year": "2003",
+    "developer": "Capcom Production Studio 4"
+  },
+  {
+    "puzzle_num": 359,
+    "answer": "God of War: Ragnarok",
+    "release_year": "2022",
+    "developer": "Santa Monica"
+  },
+  {
+    "puzzle_num": 360,
+    "answer": "Bayonetta",
+    "release_year": "2009",
+    "developer": "Platinum Games Inc."
+  },
+  {
+    "puzzle_num": 361,
+    "answer": "Marvel Snap",
+    "release_year": "2022",
+    "developer": "Second Dinner Studios, Inc."
+  },
+  {
+    "puzzle_num": 362,
+    "answer": "Metal Gear Solid",
+    "release_year": "1998",
+    "developer": "Konami Computer Entertainment Japan, Inc"
+  },
+  {
+    "puzzle_num": 363,
+    "answer": "Prototype",
+    "release_year": "2009",
+    "developer": "Radical Entertainment Inc."
+  },
+  {
+    "puzzle_num": 364,
+    "answer": "Danganronpa 2: Goodbye Despair",
+    "release_year": "2012",
+    "developer": "Spike Chunsoft"
+  },
+  {
+    "puzzle_num": 365,
+    "answer": "Garry's Mod",
+    "release_year": "2005",
+    "developer": "Facepunch Studios"
+  },
+  {
+    "puzzle_num": 366,
+    "answer": "The Walking Dead",
+    "release_year": "2012",
+    "developer": "Telltale, Inc."
+  },
+  {
+    "puzzle_num": 367,
+    "answer": "Hearthstone",
+    "release_year": "2014",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 368,
+    "answer": "Streets of Rage 4",
+    "release_year": "2020",
+    "developer": "DotEmu SAS, Guard Crush Games Inc., Lizardcube"
+  },
+  {
+    "puzzle_num": 369,
+    "answer": "Mike Tyson's Punch-Out!!",
+    "release_year": "1987",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 370,
+    "answer": "Flight Simulator",
+    "release_year": "2020",
+    "developer": "Asobo Studio S.A.R.L."
+  },
+  {
+    "puzzle_num": 371,
+    "answer": "Spiritfarer",
+    "release_year": "2020",
+    "developer": "Thunder Lotus Games"
+  },
+  {
+    "puzzle_num": 372,
+    "answer": "And Yet It Moves",
+    "release_year": "2009",
+    "developer": "Broken Rules"
+  },
+  {
+    "puzzle_num": 373,
+    "answer": "Dragon Age: Origins",
+    "release_year": "2009",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 374,
+    "answer": "Ico",
+    "release_year": "2001",
+    "developer": "Japan Studio, Team Ico"
+  },
+  {
+    "puzzle_num": 375,
+    "answer": "Limbo",
+    "release_year": "2010",
+    "developer": "Playdead"
+  },
+  {
+    "puzzle_num": 376,
+    "answer": "Lemmings",
+    "release_year": "1991",
+    "developer": "DMA Design"
+  },
+  {
+    "puzzle_num": 377,
+    "answer": "Spider-Man",
+    "release_year": "2018",
+    "developer": "Insomniac Games"
+  },
+  {
+    "puzzle_num": 378,
+    "answer": "Loop Hero",
+    "release_year": "2021",
+    "developer": "Four Quarters"
+  },
+  {
+    "puzzle_num": 379,
+    "answer": "Dust: An Elysian Tail",
+    "release_year": "2012",
+    "developer": "Humble Hearts"
+  },
+  {
+    "puzzle_num": 380,
+    "answer": "Guitar Hero",
+    "release_year": "2005",
+    "developer": "Harmonix"
+  },
+  {
+    "puzzle_num": 381,
+    "answer": "Star Fox 64",
+    "release_year": "1997",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 382,
+    "answer": "Xenoblade Chronicles",
+    "release_year": "2010 (Japan)",
+    "developer": "Monolith Soft"
+  },
+  {
+    "puzzle_num": 383,
+    "answer": "Perfect Dark",
+    "release_year": "2000",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 384,
+    "answer": "Myst",
+    "release_year": "1993",
+    "developer": "Cyan"
+  },
+  {
+    "puzzle_num": 385,
+    "answer": "Unpacking",
+    "release_year": "2021",
+    "developer": "Witch Beam"
+  },
+  {
+    "puzzle_num": 386,
+    "answer": "Black & White",
+    "release_year": "2001",
+    "developer": "Lionhead Studios Ltd."
+  },
+  {
+    "puzzle_num": 387,
+    "answer": "Redfall",
+    "release_year": "2023",
+    "developer": "Arkane Studios LLC"
+  },
+  {
+    "puzzle_num": 388,
+    "answer": "Phoenix Wright: Ace Attorney",
+    "release_year": "2001 (GBA), 2005 (DS)",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 389,
+    "answer": "Sly 2: Band of Thieves",
+    "release_year": "2004",
+    "developer": "Sucker Punch Productions LLC"
+  },
+  {
+    "puzzle_num": 390,
+    "answer": "Silent Hill",
+    "release_year": "1999",
+    "developer": "Team Silent"
+  },
+  {
+    "puzzle_num": 391,
+    "answer": "Half-Life: Alyx",
+    "release_year": "2020",
+    "developer": "Valve Corporation"
+  },
+  {
+    "puzzle_num": 392,
+    "answer": "Risk of Rain",
+    "release_year": "2013",
+    "developer": "Hopoo Games, LLC"
+  },
+  {
+    "puzzle_num": 393,
+    "answer": "Peggle",
+    "release_year": "2007",
+    "developer": "PopCap Games, Inc."
+  },
+  {
+    "puzzle_num": 394,
+    "answer": "Hogwarts Legacy",
+    "release_year": "2023",
+    "developer": "WB Games | Avalanche"
+  },
+  {
+    "puzzle_num": 395,
+    "answer": "Super Mario Sunshine",
+    "release_year": "2002",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 396,
+    "answer": "Darksiders 2",
+    "release_year": "2012",
+    "developer": "Vigil Games"
+  },
+  {
+    "puzzle_num": 397,
+    "answer": "Tomb Raider",
+    "release_year": "1996",
+    "developer": "Core Design Ltd."
+  },
+  {
+    "puzzle_num": 398,
+    "answer": "It Takes Two",
+    "release_year": "2021",
+    "developer": "Hazelight studios AB"
+  },
+  {
+    "puzzle_num": 399,
+    "answer": "The Red Lantern",
+    "release_year": "2020",
+    "developer": "Timberline Studio"
+  },
+  {
+    "puzzle_num": 400,
+    "answer": "Kirby's Adventure",
+    "release_year": "1993",
+    "developer": "HAL Laboratory"
+  },
+  {
+    "puzzle_num": 401,
+    "answer": "Destiny",
+    "release_year": "2014",
+    "developer": "Bungie"
+  },
+  {
+    "puzzle_num": 402,
+    "answer": "PuzzleQuest: Challenge of the Warlords",
+    "release_year": "2007",
+    "developer": "Infinite Interactive, 1st Playable Productions"
+  },
+  {
+    "puzzle_num": 403,
+    "answer": "Shadow Complex",
+    "release_year": "2009",
+    "developer": "Chair Entertainment"
+  },
+  {
+    "puzzle_num": 404,
+    "answer": "Wave Race 64",
+    "release_year": "1996",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 405,
+    "answer": "Mario Golf: Super Rush",
+    "release_year": "2021",
+    "developer": "Camelot Software Planning"
+  },
+  {
+    "puzzle_num": 406,
+    "answer": "The Big Con",
+    "release_year": "2021",
+    "developer": "Mighty Yell"
+  },
+  {
+    "puzzle_num": 407,
+    "answer": "Virtua Racing",
+    "release_year": "1992",
+    "developer": "Sega AM2"
+  },
+  {
+    "puzzle_num": 408,
+    "answer": "Metal Gear Solid V: The Phantom Pain",
+    "release_year": "2015",
+    "developer": "Kojima Productions"
+  },
+  {
+    "puzzle_num": 409,
+    "answer": "Oxenfree",
+    "release_year": "2016",
+    "developer": "Night School Studio"
+  },
+  {
+    "puzzle_num": 410,
+    "answer": "Luigi's Mansion: Dark Moon",
+    "release_year": "2013",
+    "developer": "Next Level Games"
+  },
+  {
+    "puzzle_num": 411,
+    "answer": "BurgerTime",
+    "release_year": "1982",
+    "developer": "Data East"
+  },
+  {
+    "puzzle_num": 412,
+    "answer": "The Lord of the Rings: Gollum",
+    "release_year": "2023",
+    "developer": "Daedalic Entertainment"
+  },
+  {
+    "puzzle_num": 413,
+    "answer": "Dredge",
+    "release_year": "2023",
+    "developer": "Black Salt Games"
+  },
+  {
+    "puzzle_num": 414,
+    "answer": "The Neverhood",
+    "release_year": "1996",
+    "developer": "Same as game title"
+  },
+  {
+    "puzzle_num": 415,
+    "answer": "Super Smash Bros. Melee",
+    "release_year": "2001",
+    "developer": "HAL Laboratory, Inc."
+  },
+  {
+    "puzzle_num": 416,
+    "answer": "Skate 2",
+    "release_year": "2009",
+    "developer": "Electronic Arts Black Box"
+  },
+  {
+    "puzzle_num": 417,
+    "answer": "One Piece Odyssey",
+    "release_year": "2023",
+    "developer": "ILCA, Inc."
+  },
+  {
+    "puzzle_num": 418,
+    "answer": "Jet Set Radio",
+    "release_year": "2000",
+    "developer": "Smilebit"
+  },
+  {
+    "puzzle_num": 419,
+    "answer": "Halo: Reach",
+    "release_year": "2010",
+    "developer": "Bungie Studios"
+  },
+  {
+    "puzzle_num": 420,
+    "answer": "Smite: Battleground of the Gods",
+    "release_year": "2014",
+    "developer": "Hi-Rez Studios, Inc."
+  },
+  {
+    "puzzle_num": 421,
+    "answer": "The Elder Scrolls II : Daggerfall",
+    "release_year": "1996",
+    "developer": "Bethesda Softworks LLC"
+  },
+  {
+    "puzzle_num": 422,
+    "answer": "High on Life",
+    "release_year": "2022",
+    "developer": "Squanch Games, Inc."
+  },
+  {
+    "puzzle_num": 423,
+    "answer": "Rez Infinite",
+    "release_year": "2016",
+    "developer": "Monstars Inc., Resonair Inc."
+  },
+  {
+    "puzzle_num": 424,
+    "answer": "WHAT THE GOLF?",
+    "release_year": "2019",
+    "developer": "Triband Production ApS"
+  },
+  {
+    "puzzle_num": 425,
+    "answer": "Age of Empires",
+    "release_year": "1997",
+    "developer": "Ensemble Studios Corporation"
+  },
+  {
+    "puzzle_num": 426,
+    "answer": "Mario Party",
+    "release_year": "1998",
+    "developer": "Hudson Soft Company, Ltd."
+  },
+  {
+    "puzzle_num": 427,
+    "answer": "Sable",
+    "release_year": "2021",
+    "developer": "Shedworks"
+  },
+  {
+    "puzzle_num": 428,
+    "answer": "Team Fortress Classic",
+    "release_year": "1999",
+    "developer": "Valve"
+  },
+  {
+    "puzzle_num": 429,
+    "answer": "Nintendogs",
+    "release_year": "2005",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 430,
+    "answer": "Owlboy",
+    "release_year": "2016",
+    "developer": "D-Pad Studio"
+  },
+  {
+    "puzzle_num": 431,
+    "answer": "Spelunky 2",
+    "release_year": "2020",
+    "developer": "Mossmouth, BlitWorks"
+  },
+  {
+    "puzzle_num": 432,
+    "answer": "Breakout",
+    "release_year": "1976",
+    "developer": "Atari, Inc."
+  },
+  {
+    "puzzle_num": 433,
+    "answer": "Assassin's Creed",
+    "release_year": "2007",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 434,
+    "answer": "Inscryption",
+    "release_year": "2021",
+    "developer": "Daniel Mullins Games"
+  },
+  {
+    "puzzle_num": 435,
+    "answer": "f-zero",
+    "release_year": "1990",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 436,
+    "answer": "Wii Play",
+    "release_year": "2006",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 437,
+    "answer": "Monster Hunter Tri",
+    "release_year": "2009",
+    "developer": "Capcom Production Studio 1"
+  },
+  {
+    "puzzle_num": 438,
+    "answer": "Windjammers 2",
+    "release_year": "2022",
+    "developer": "Dotemu"
+  },
+  {
+    "puzzle_num": 439,
+    "answer": "Sanitarium",
+    "release_year": "1998",
+    "developer": "DreamForge Intertainment"
+  },
+  {
+    "puzzle_num": 440,
+    "answer": "Grand Theft Auto: Vice City",
+    "release_year": "2002",
+    "developer": "Rockstar North"
+  },
+  {
+    "puzzle_num": 441,
+    "answer": "Project Zomboid",
+    "release_year": "2011",
+    "developer": "The Indie Stone"
+  },
+  {
+    "puzzle_num": 442,
+    "answer": "Far Cry 3: Blood Dragon",
+    "release_year": "2013",
+    "developer": "Ubisoft Entertainment Inc."
+  },
+  {
+    "puzzle_num": 443,
+    "answer": "Prey",
+    "release_year": "2017",
+    "developer": "Arkane Studios LLC"
+  },
+  {
+    "puzzle_num": 444,
+    "answer": "Anthem",
+    "release_year": "2019",
+    "developer": "BioWare Edmonton, BioWare Austin, LLC"
+  },
+  {
+    "puzzle_num": 445,
+    "answer": "Only Up!",
+    "release_year": "2023",
+    "developer": "SCKR Games"
+  },
+  {
+    "puzzle_num": 446,
+    "answer": "Day of the Tentacle",
+    "release_year": "1993",
+    "developer": "LucasArts Entertainment Company LLC"
+  },
+  {
+    "puzzle_num": 447,
+    "answer": "Splatoon 3",
+    "release_year": "2022",
+    "developer": "Nintendo EPD"
+  },
+  {
+    "puzzle_num": 448,
+    "answer": "Friday the 13th: The Game",
+    "release_year": "2017",
+    "developer": "IllFonic LLC"
+  },
+  {
+    "puzzle_num": 449,
+    "answer": "Pentiment",
+    "release_year": "2022",
+    "developer": "Obsidian Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 450,
+    "answer": "Dance Dance Revolution",
+    "release_year": "1998, 1999",
+    "developer": "Konami Co., Ltd., KCE Tokyo, Inc."
+  },
+  {
+    "puzzle_num": 451,
+    "answer": "Castle Crashers",
+    "release_year": "2008",
+    "developer": "The Behemoth"
+  },
+  {
+    "puzzle_num": 452,
+    "answer": "Ryse: Son of Rome",
+    "release_year": "2013",
+    "developer": "Crytek GmbH"
+  },
+  {
+    "puzzle_num": 453,
+    "answer": "Fallout",
+    "release_year": "1997",
+    "developer": "Interplay Productions, Inc., Black Isle Studios"
+  },
+  {
+    "puzzle_num": 454,
+    "answer": "Star Wars Jedi: Survivor",
+    "release_year": "2023",
+    "developer": "Respawn Entertainment LLC"
+  },
+  {
+    "puzzle_num": 455,
+    "answer": "Killing Floor 2",
+    "release_year": "2016",
+    "developer": "Tripwire Interactive"
+  },
+  {
+    "puzzle_num": 456,
+    "answer": "Bully",
+    "release_year": "2006",
+    "developer": "Rockstar Vancouver"
+  },
+  {
+    "puzzle_num": 457,
+    "answer": "Bioshock 2",
+    "release_year": "2010",
+    "developer": "2K Marin"
+  },
+  {
+    "puzzle_num": 458,
+    "answer": "Killzone",
+    "release_year": "2004",
+    "developer": "Guerrilla Games"
+  },
+  {
+    "puzzle_num": 459,
+    "answer": "Shadow of the Tomb Raider",
+    "release_year": "2018",
+    "developer": "Eidos-Montréal"
+  },
+  {
+    "puzzle_num": 460,
+    "answer": "Warcraft: Orcs & Humans",
+    "release_year": "1994",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 461,
+    "answer": "Titan Quest",
+    "release_year": "2006",
+    "developer": "Iron Lore Entertainment"
+  },
+  {
+    "puzzle_num": 462,
+    "answer": "Crab Game",
+    "release_year": "2021",
+    "developer": "Daniel Sooman"
+  },
+  {
+    "puzzle_num": 463,
+    "answer": "American McGee's Grimm",
+    "release_year": "2008",
+    "developer": "Spicy Horse"
+  },
+  {
+    "puzzle_num": 464,
+    "answer": "The Last of Us Part II",
+    "release_year": "2020",
+    "developer": "Naughty Dog"
+  },
+  {
+    "puzzle_num": 465,
+    "answer": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "release_year": "2007",
+    "developer": "GSC Game World"
+  },
+  {
+    "puzzle_num": 466,
+    "answer": "Psychonauts 2",
+    "release_year": "2021",
+    "developer": "Double Fine Productions, Inc."
+  },
+  {
+    "puzzle_num": 467,
+    "answer": "Gauntlet",
+    "release_year": "1985",
+    "developer": "Atari Games"
+  },
+  {
+    "puzzle_num": 468,
+    "answer": "Mortal Kombat",
+    "release_year": "1992",
+    "developer": "Midway"
+  },
+  {
+    "puzzle_num": 469,
+    "answer": "BeamNG.drive",
+    "release_year": "2013 as Tech Demo, 2015 on Steam",
+    "developer": "BeamNG GmbH"
+  },
+  {
+    "puzzle_num": 470,
+    "answer": "Exoprimal",
+    "release_year": "2023",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 471,
+    "answer": "Diablo IV",
+    "release_year": "2023",
+    "developer": "Blizzard Entertainment Inc."
+  },
+  {
+    "puzzle_num": 472,
+    "answer": "Dante’s Inferno",
+    "release_year": "2010",
+    "developer": "Visceral Games (Redwood Shores), Artificial Mind & Movement"
+  },
+  {
+    "puzzle_num": 473,
+    "answer": "Vampyr",
+    "release_year": "2018",
+    "developer": "DONT NOD Entertainment SA"
+  },
+  {
+    "puzzle_num": 474,
+    "answer": "SOMA",
+    "release_year": "2015",
+    "developer": "Frictional Games AB"
+  },
+  {
+    "puzzle_num": 475,
+    "answer": "Candy Crush Saga",
+    "release_year": "2012",
+    "developer": "Midasplayer AB"
+  },
+  {
+    "puzzle_num": 476,
+    "answer": "Dave the Diver",
+    "release_year": "2022",
+    "developer": "MINTROCKET"
+  },
+  {
+    "puzzle_num": 477,
+    "answer": "BattleBit Remastered",
+    "release_year": "2023",
+    "developer": "SgtOkiDoki, Vilaskis, TheLiquidHorse"
+  },
+  {
+    "puzzle_num": 478,
+    "answer": "Pacman",
+    "release_year": "1980",
+    "developer": "Namco Limited, Namco Bandai Games Inc., Namco Networks America Inc., Piko Interactive LLC"
+  },
+  {
+    "puzzle_num": 479,
+    "answer": "Signalis",
+    "release_year": "2022",
+    "developer": "rose-engine GbR"
+  },
+  {
+    "puzzle_num": 480,
+    "answer": "Hotline Miami 2: Wrong Number",
+    "release_year": "2015",
+    "developer": "Dennaton Games"
+  },
+  {
+    "puzzle_num": 481,
+    "answer": "Legacy of Kain: Soul Reaver",
+    "release_year": "1999",
+    "developer": "Crystal Dynamics, Inc."
+  },
+  {
+    "puzzle_num": 482,
+    "answer": "Hi-Fi Rush",
+    "release_year": "2023",
+    "developer": "Tango Gameworks"
+  },
+  {
+    "puzzle_num": 483,
+    "answer": "Destroy All Humans!",
+    "release_year": "2005. Remake 2020",
+    "developer": "Pandemic Studios"
+  },
+  {
+    "puzzle_num": 484,
+    "answer": "Assassin's Creed Unity",
+    "release_year": "2014",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 485,
+    "answer": "Resident Evil",
+    "release_year": "1996",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 486,
+    "answer": "Rec Room",
+    "release_year": "2016",
+    "developer": "Rec Room Inc."
+  },
+  {
+    "puzzle_num": 487,
+    "answer": "Ghost of Tsushima",
+    "release_year": "2020",
+    "developer": "Sucker Punch Productions"
+  },
+  {
+    "puzzle_num": 488,
+    "answer": "Contra",
+    "release_year": "1985",
+    "developer": "Konami"
+  },
+  {
+    "puzzle_num": 489,
+    "answer": "Burnout Paradise",
+    "release_year": "2008",
+    "developer": "Criterion Games"
+  },
+  {
+    "puzzle_num": 490,
+    "answer": "Totally Accurate Battle Simulator",
+    "release_year": "2016",
+    "developer": "Landfall Games"
+  },
+  {
+    "puzzle_num": 491,
+    "answer": "Grand Theft Auto: Chinatown Wars",
+    "release_year": "2009",
+    "developer": "Rockstar Leeds, Rockstar North"
+  },
+  {
+    "puzzle_num": 492,
+    "answer": "Banjo-Kazooie",
+    "release_year": "1998",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 493,
+    "answer": "Infamous 2",
+    "release_year": "2011",
+    "developer": "Sucker Punch Productions"
+  },
+  {
+    "puzzle_num": 494,
+    "answer": "Duke Nukem 3D",
+    "release_year": "1996",
+    "developer": "3D Realms"
+  },
+  {
+    "puzzle_num": 495,
+    "answer": "Detroit: Become Human",
+    "release_year": "2018",
+    "developer": "Quantic Dream"
+  },
+  {
+    "puzzle_num": 496,
+    "answer": "Mega Man 2",
+    "release_year": "1988",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 497,
+    "answer": "Tinykin",
+    "release_year": "2022",
+    "developer": "Splashteam"
+  },
+  {
+    "puzzle_num": 498,
+    "answer": "Tales of Arise",
+    "release_year": "2021",
+    "developer": "BANDAI NAMCO Studios Inc."
+  },
+  {
+    "puzzle_num": 499,
+    "answer": "Roblox",
+    "release_year": "2005",
+    "developer": "Roblox Corporation"
+  },
+  {
+    "puzzle_num": 500,
+    "answer": "Golden Sun",
+    "release_year": "2001",
+    "developer": "Camelot Software Planning"
+  },
+  {
+    "puzzle_num": 501,
+    "answer": "Gotham Knights",
+    "release_year": "2022",
+    "developer": "WB Games Montréal Inc."
+  },
+  {
+    "puzzle_num": 502,
+    "answer": "Sonic Adventure",
+    "release_year": "1999",
+    "developer": "Sonic Team"
+  },
+  {
+    "puzzle_num": 503,
+    "answer": "The Elder Scrolls III: Morrowind",
+    "release_year": "2002",
+    "developer": "Bethesda Game Studios"
+  },
+  {
+    "puzzle_num": 504,
+    "answer": "Until Dawn",
+    "release_year": "2015",
+    "developer": "Supermassive Games Ltd."
+  },
+  {
+    "puzzle_num": 505,
+    "answer": "Jazz Jackrabbit",
+    "release_year": "1994",
+    "developer": "Epic MegaGames, Inc."
+  },
+  {
+    "puzzle_num": 506,
+    "answer": "Tears of The Kingdom",
+    "release_year": "2023",
+    "developer": "Nintendo EPD"
+  },
+  {
+    "puzzle_num": 507,
+    "answer": "Bloons TD 6",
+    "release_year": "2018",
+    "developer": "Ninja Kiwi"
+  },
+  {
+    "puzzle_num": 508,
+    "answer": "Mario and Luigi Partners in Time",
+    "release_year": "2005",
+    "developer": "AlphaDream Corporation, Ltd."
+  },
+  {
+    "puzzle_num": 509,
+    "answer": "Thief: The Dark Project",
+    "release_year": "1998",
+    "developer": "Looking Glass Studios, Inc."
+  },
+  {
+    "puzzle_num": 510,
+    "answer": "Mortal Kombat 1",
+    "release_year": "2023",
+    "developer": "NetherRealm Studios"
+  },
+  {
+    "puzzle_num": 511,
+    "answer": "EverQuest",
+    "release_year": "1999",
+    "developer": "Verant Interactive, 989 Studios"
+  },
+  {
+    "puzzle_num": 512,
+    "answer": "Super Monkey Ball 2",
+    "release_year": "2002",
+    "developer": "Amusement Vision, Ltd."
+  },
+  {
+    "puzzle_num": 513,
+    "answer": "Assassin's Creed Valhalla",
+    "release_year": "2020",
+    "developer": "Ubisoft Entertainment Inc."
+  },
+  {
+    "puzzle_num": 514,
+    "answer": "Atomic Heart",
+    "release_year": "2023",
+    "developer": "Mundfish LLC"
+  },
+  {
+    "puzzle_num": 515,
+    "answer": "Orcs Must Die!",
+    "release_year": "2011",
+    "developer": "Robot Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 516,
+    "answer": "Age of Mythology",
+    "release_year": "2002",
+    "developer": "Ensemble Studios Corporation"
+  },
+  {
+    "puzzle_num": 517,
+    "answer": "Tetris",
+    "release_year": "1985",
+    "developer": "Alexey Pajitnov"
+  },
+  {
+    "puzzle_num": 518,
+    "answer": "Surgeon Simulator 2",
+    "release_year": "2020",
+    "developer": "Bossa Studios Ltd."
+  },
+  {
+    "puzzle_num": 519,
+    "answer": "Civilization II",
+    "release_year": "1996",
+    "developer": "Microprose"
+  },
+  {
+    "puzzle_num": 520,
+    "answer": "7 Days to Die",
+    "release_year": "2013",
+    "developer": "The Fun Pimps Entertainment LLC"
+  },
+  {
+    "puzzle_num": 521,
+    "answer": "Heavy Rain",
+    "release_year": "2010",
+    "developer": "Quantic Dream SA"
+  },
+  {
+    "puzzle_num": 522,
+    "answer": "Fable II",
+    "release_year": "2008",
+    "developer": "Lionhead Studios Ltd."
+  },
+  {
+    "puzzle_num": 523,
+    "answer": "Q*bert",
+    "release_year": "1982",
+    "developer": "D. Gottlieb & Co., Western Technologies Inc."
+  },
+  {
+    "puzzle_num": 524,
+    "answer": "Tony Hawk's Pro Skater 2",
+    "release_year": "2000",
+    "developer": "Neversoft Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 525,
+    "answer": "Guild Wars",
+    "release_year": "2005",
+    "developer": "ArenaNet, LLC"
+  },
+  {
+    "puzzle_num": 526,
+    "answer": "Armored Core VI: Fires of Rubicon",
+    "release_year": "2023",
+    "developer": "FromSoftware, Inc."
+  },
+  {
+    "puzzle_num": 527,
+    "answer": "TimeSplitters 2",
+    "release_year": "2002",
+    "developer": "Free Radical Design Ltd."
+  },
+  {
+    "puzzle_num": 528,
+    "answer": "The Wolf Among Us",
+    "release_year": "2013",
+    "developer": "Telltale Games"
+  },
+  {
+    "puzzle_num": 529,
+    "answer": "Eye of the Beholder",
+    "release_year": "1991",
+    "developer": "Westwood Associates"
+  },
+  {
+    "puzzle_num": 530,
+    "answer": "Sea of Stars",
+    "release_year": "2023",
+    "developer": "Sabotage Studio Inc."
+  },
+  {
+    "puzzle_num": 531,
+    "answer": "Keep Talking and Nobody Explodes",
+    "release_year": "2015",
+    "developer": "Steel Crate Games, Inc."
+  },
+  {
+    "puzzle_num": 532,
+    "answer": "Toontown Online",
+    "release_year": "2003",
+    "developer": "Disney Interactive, Inc."
+  },
+  {
+    "puzzle_num": 533,
+    "answer": "Lies of P",
+    "release_year": "2023",
+    "developer": "Neowiz Corporation, Round 8 Studio"
+  },
+  {
+    "puzzle_num": 534,
+    "answer": "Kirby Air Ride",
+    "release_year": "2003",
+    "developer": "HAL Laboratory, Inc."
+  },
+  {
+    "puzzle_num": 535,
+    "answer": "We Love Katamari",
+    "release_year": "2005",
+    "developer": "Namco Limited"
+  },
+  {
+    "puzzle_num": 536,
+    "answer": "PowerWash Simulator",
+    "release_year": "2021",
+    "developer": "Futurlab Ltd."
+  },
+  {
+    "puzzle_num": 537,
+    "answer": "The World Ends with You",
+    "release_year": "2007",
+    "developer": "Jupiter Corp., Square Enix Co., Ltd."
+  },
+  {
+    "puzzle_num": 538,
+    "answer": "Ring Fit Adventure",
+    "release_year": "2019",
+    "developer": "Nintendo EPD"
+  },
+  {
+    "puzzle_num": 539,
+    "answer": "Frostpunk",
+    "release_year": "2018",
+    "developer": "11 bit studios"
+  },
+  {
+    "puzzle_num": 540,
+    "answer": "Ultima Online",
+    "release_year": "1997",
+    "developer": "Origin Systems"
+  },
+  {
+    "puzzle_num": 541,
+    "answer": "Diablo III",
+    "release_year": "2012",
+    "developer": "Blizzard Team 3"
+  },
+  {
+    "puzzle_num": 542,
+    "answer": "Sunset Overdrive",
+    "release_year": "2014",
+    "developer": "Insomniac Games"
+  },
+  {
+    "puzzle_num": 543,
+    "answer": "Gears 5",
+    "release_year": "2019",
+    "developer": "Coalition, The"
+  },
+  {
+    "puzzle_num": 544,
+    "answer": "Galaga",
+    "release_year": "1981",
+    "developer": "Namco"
+  },
+  {
+    "puzzle_num": 545,
+    "answer": "Grand Theft Auto V",
+    "release_year": "2013",
+    "developer": "Rockstar North Ltd."
+  },
+  {
+    "puzzle_num": 546,
+    "answer": "Artifact",
+    "release_year": "2018",
+    "developer": "Valve"
+  },
+  {
+    "puzzle_num": 547,
+    "answer": "Twisted Metal 2",
+    "release_year": "1996",
+    "developer": "Sony Interactive Studios America"
+  },
+  {
+    "puzzle_num": 548,
+    "answer": "Pokemon Sword",
+    "release_year": "2019",
+    "developer": "Game Freak"
+  },
+  {
+    "puzzle_num": 549,
+    "answer": "Fallout 3",
+    "release_year": "2008",
+    "developer": "Bethesda Game Studios"
+  },
+  {
+    "puzzle_num": 550,
+    "answer": "The Sims 3",
+    "release_year": "2009",
+    "developer": "Maxis, EA Mobile, Edge of Reality"
+  },
+  {
+    "puzzle_num": 551,
+    "answer": "The Oregon Trail",
+    "release_year": "1971 (Re-made in 1985 - Screenshots taken from this version)",
+    "developer": "Don Rawitsch, Bill Heinemann, and Paul Dillenberger"
+  },
+  {
+    "puzzle_num": 552,
+    "answer": "Pikmin 4",
+    "release_year": "2023",
+    "developer": "Nintendo EPD"
+  },
+  {
+    "puzzle_num": 553,
+    "answer": "Mario Time Machine",
+    "release_year": "1993",
+    "developer": "The Software Toolworks, Inc."
+  },
+  {
+    "puzzle_num": 554,
+    "answer": "Patapon",
+    "release_year": "2008",
+    "developer": "Sony Computer Entertainment Japan, Pyramid, Inc."
+  },
+  {
+    "puzzle_num": 555,
+    "answer": "Paper Mario: The Origami King",
+    "release_year": "2020",
+    "developer": "Intelligent Systems Co., Ltd."
+  },
+  {
+    "puzzle_num": 556,
+    "answer": "Jak II",
+    "release_year": "2003",
+    "developer": "Naughty Dog, Inc."
+  },
+  {
+    "puzzle_num": 557,
+    "answer": "Saints Row: The Third",
+    "release_year": "2011, Remastered in 2020",
+    "developer": "Volition, Inc."
+  },
+  {
+    "puzzle_num": 558,
+    "answer": "Dynasty Warriors",
+    "release_year": "1997",
+    "developer": "Omega Force"
+  },
+  {
+    "puzzle_num": 559,
+    "answer": "Pokemon Ruby",
+    "release_year": "2002 (Japan)",
+    "developer": "Game Freak, Inc., Creatures, Inc."
+  },
+  {
+    "puzzle_num": 560,
+    "answer": "Omori",
+    "release_year": "2020",
+    "developer": "OMOCAT, LLC"
+  },
+  {
+    "puzzle_num": 561,
+    "answer": "Lineage II",
+    "release_year": "2004",
+    "developer": "NCsoft Corporation"
+  },
+  {
+    "puzzle_num": 562,
+    "answer": "Mass Effect",
+    "release_year": "2007",
+    "developer": "BioWare Corporation"
+  },
+  {
+    "puzzle_num": 563,
+    "answer": "Vanquish",
+    "release_year": "2010",
+    "developer": "Platinum Games Inc."
+  },
+  {
+    "puzzle_num": 564,
+    "answer": "Batman: Arkham Knight",
+    "release_year": "2015",
+    "developer": "Rocksteady Studios Ltd"
+  },
+  {
+    "puzzle_num": 565,
+    "answer": "Super Mario Bros",
+    "release_year": "1985",
+    "developer": "Nintendo Co., Ltd."
+  },
+  {
+    "puzzle_num": 566,
+    "answer": "RollerCoaster Tycoon",
+    "release_year": "1999",
+    "developer": "Chris Sawyer Productions"
+  },
+  {
+    "puzzle_num": 567,
+    "answer": "A Hat in Time",
+    "release_year": "2017",
+    "developer": "Gears for Breakfast"
+  },
+  {
+    "puzzle_num": 568,
+    "answer": "NBA Street",
+    "release_year": "2001",
+    "developer": "NuFX, EA Canada"
+  },
+  {
+    "puzzle_num": 569,
+    "answer": "Luigi's Mansion 3",
+    "release_year": "2019",
+    "developer": "Next Level Games"
+  },
+  {
+    "puzzle_num": 570,
+    "answer": "Lego Star Wars II: The Original Trilogy",
+    "release_year": "2006",
+    "developer": "Travellers Tales"
+  },
+  {
+    "puzzle_num": 571,
+    "answer": "WarioWare: Touched!",
+    "release_year": "2004",
+    "developer": "Nintendo SPD, Intelligent Systems"
+  },
+  {
+    "puzzle_num": 572,
+    "answer": "Borderlands 3",
+    "release_year": "2019",
+    "developer": "Gearbox Software"
+  },
+  {
+    "puzzle_num": 573,
+    "answer": "Remnant 2",
+    "release_year": "2023",
+    "developer": "Gunfire Games"
+  },
+  {
+    "puzzle_num": 574,
+    "answer": "The Forest",
+    "release_year": "2018",
+    "developer": "Endnight Games"
+  },
+  {
+    "puzzle_num": 575,
+    "answer": "Company of Heroes",
+    "release_year": "2006",
+    "developer": "Relic Entertainment"
+  },
+  {
+    "puzzle_num": 576,
+    "answer": "LittleBigPlanet 2",
+    "release_year": "2011",
+    "developer": "Media Molecule"
+  },
+  {
+    "puzzle_num": 577,
+    "answer": "Gran Turismo",
+    "release_year": "1997",
+    "developer": "Japan Studio"
+  },
+  {
+    "puzzle_num": 578,
+    "answer": "SSX 3",
+    "release_year": "2003",
+    "developer": "EA Canada"
+  },
+  {
+    "puzzle_num": 579,
+    "answer": "Virtua Tennis",
+    "release_year": "1999",
+    "developer": "Sega AM3"
+  },
+  {
+    "puzzle_num": 580,
+    "answer": "Quantum Break",
+    "release_year": "2016",
+    "developer": "Remedy Entertainment"
+  },
+  {
+    "puzzle_num": 581,
+    "answer": "Lost Ark",
+    "release_year": "2018",
+    "developer": "Smilegate RPG, Inc., Tripod Studio"
+  },
+  {
+    "puzzle_num": 582,
+    "answer": "House Flipper",
+    "release_year": "2018",
+    "developer": "Red Dot Games, Empyrean Games"
+  },
+  {
+    "puzzle_num": 583,
+    "answer": "Half-Life",
+    "release_year": "1998",
+    "developer": "Valve L.L.C."
+  },
+  {
+    "puzzle_num": 584,
+    "answer": "RoboCop: Rogue City",
+    "release_year": "2023",
+    "developer": "Teyon S.A."
+  },
+  {
+    "puzzle_num": 585,
+    "answer": "Cave Story",
+    "release_year": "2005",
+    "developer": "Studio Pixel, Nicalis, Inc."
+  },
+  {
+    "puzzle_num": 586,
+    "answer": "X-Squad",
+    "release_year": "2000",
+    "developer": "Electronic Arts Square, K.K."
+  },
+  {
+    "puzzle_num": 587,
+    "answer": "Lords of the Fallen",
+    "release_year": "2023",
+    "developer": "Hexworks"
+  },
+  {
+    "puzzle_num": 588,
+    "answer": "Fire Emblem Heroes",
+    "release_year": "2017",
+    "developer": "Intelligent Systems Co., Ltd.,  Nintendo EPD, DeNA Co., Ltd."
+  },
+  {
+    "puzzle_num": 589,
+    "answer": "theHunter: Call of the Wild",
+    "release_year": "2017",
+    "developer": "Expansive Worlds AB"
+  },
+  {
+    "puzzle_num": 590,
+    "answer": "Super Mario Bros. Wonder",
+    "release_year": "2023",
+    "developer": "Nintendo LLC"
+  },
+  {
+    "puzzle_num": 591,
+    "answer": "Hellblade: Senua's Sacrifice",
+    "release_year": "2017",
+    "developer": "Ninja Theory Ltd."
+  },
+  {
+    "puzzle_num": 592,
+    "answer": "Resistance 3",
+    "release_year": "2011",
+    "developer": "Insomniac Games, Inc."
+  },
+  {
+    "puzzle_num": 593,
+    "answer": "Homeworld: Cataclysm",
+    "release_year": "2000",
+    "developer": "Barking Dog Studios, Ltd."
+  },
+  {
+    "puzzle_num": 594,
+    "answer": "Cities: Skylines II",
+    "release_year": "2023",
+    "developer": "Colossal Order Ltd."
+  },
+  {
+    "puzzle_num": 595,
+    "answer": "Boneworks",
+    "release_year": "2019",
+    "developer": "Stress Level Zero"
+  },
+  {
+    "puzzle_num": 596,
+    "answer": "Ninja Blade",
+    "release_year": "2009",
+    "developer": "FromSoftware"
+  },
+  {
+    "puzzle_num": 597,
+    "answer": "Advance Wars",
+    "release_year": "2001",
+    "developer": "Intelligent Systems"
+  },
+  {
+    "puzzle_num": 598,
+    "answer": "Halo 3",
+    "release_year": "2007",
+    "developer": "Bungie"
+  },
+  {
+    "puzzle_num": 599,
+    "answer": "Yakuza: Like a Dragon",
+    "release_year": "2020",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  {
+    "puzzle_num": 600,
+    "answer": "Dead or Alive",
+    "release_year": "1996",
+    "developer": "Team Ninja"
+  },
+  {
+    "puzzle_num": 601,
+    "answer": "Assassin's Creed: Brotherhood",
+    "release_year": "2010",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 602,
+    "answer": "Rain World",
+    "release_year": "2017",
+    "developer": "Videocult"
+  },
+  {
+    "puzzle_num": 603,
+    "answer": "Muse Dash",
+    "release_year": "2018",
+    "developer": "PeroPeroGames"
+  },
+  {
+    "puzzle_num": 604,
+    "answer": "PlanetSide 2",
+    "release_year": "2012",
+    "developer": "Rogue Planet Games"
+  },
+  {
+    "puzzle_num": 605,
+    "answer": "Resident Evil Village",
+    "release_year": "2021",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 606,
+    "answer": "Prince of Persia: Warrior Within",
+    "release_year": "2004",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 607,
+    "answer": "Dungeon Keeper",
+    "release_year": "1997",
+    "developer": "Bullfrog Productions"
+  },
+  {
+    "puzzle_num": 608,
+    "answer": "Gravity Rush 2",
+    "release_year": "2017",
+    "developer": "Japan Studio"
+  },
+  {
+    "puzzle_num": 609,
+    "answer": "Lethal Company",
+    "release_year": "2023",
+    "developer": "Zeekerss"
+  },
+  {
+    "puzzle_num": 610,
+    "answer": "Outlast",
+    "release_year": "2013",
+    "developer": "Red Barrels Inc."
+  },
+  {
+    "puzzle_num": 611,
+    "answer": "Starfield",
+    "release_year": "2023",
+    "developer": "Bethesda Game Studios"
+  },
+  {
+    "puzzle_num": 612,
+    "answer": "Valiant Hearts: The Great War",
+    "release_year": "2014",
+    "developer": "Ubisoft Montpellier SAS"
+  },
+  {
+    "puzzle_num": 613,
+    "answer": "Wasteland 3",
+    "release_year": "2020",
+    "developer": "inXile Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 614,
+    "answer": "Tekken",
+    "release_year": "1994",
+    "developer": "Namco Limited"
+  },
+  {
+    "puzzle_num": 615,
+    "answer": "SimCity 2000",
+    "release_year": "1993",
+    "developer": "Maxis Software Inc."
+  },
+  {
+    "puzzle_num": 616,
+    "answer": "Riders Republic",
+    "release_year": "2021",
+    "developer": "Ubisoft Annecy SAS"
+  },
+  {
+    "puzzle_num": 617,
+    "answer": "Pizza Tower",
+    "release_year": "2023",
+    "developer": "Tour De Pizza"
+  },
+  {
+    "puzzle_num": 618,
+    "answer": "Final Fantasy VI",
+    "release_year": "1994",
+    "developer": "Square Co., Ltd., Square Enix Co., Ltd."
+  },
+  {
+    "puzzle_num": 619,
+    "answer": "Captain Toad: Treasure Tracker",
+    "release_year": "2014",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 620,
+    "answer": "A Space for the Unbound",
+    "release_year": "2023",
+    "developer": "Mojiken Studio"
+  },
+  {
+    "puzzle_num": 621,
+    "answer": "Wipeout 3",
+    "release_year": "1999",
+    "developer": "Psygnosis Limited"
+  },
+  {
+    "puzzle_num": 622,
+    "answer": "Fable III",
+    "release_year": "2010",
+    "developer": "Lionhead Studios Ltd."
+  },
+  {
+    "puzzle_num": 623,
+    "answer": "Flower",
+    "release_year": "2009",
+    "developer": "Thatgamecompany"
+  },
+  {
+    "puzzle_num": 624,
+    "answer": "Starbound",
+    "release_year": "2016",
+    "developer": "Chucklefish"
+  },
+  {
+    "puzzle_num": 625,
+    "answer": "Uncharted 2: Among Thieves",
+    "release_year": "2009",
+    "developer": "Naughty Dog"
+  },
+  {
+    "puzzle_num": 626,
+    "answer": "Kirby and the Forgotten Land",
+    "release_year": "2022",
+    "developer": "HAL Laboratory"
+  },
+  {
+    "puzzle_num": 627,
+    "answer": "Killzone 3",
+    "release_year": "2011",
+    "developer": "Guerrilla Games"
+  },
+  {
+    "puzzle_num": 628,
+    "answer": "Tomb Raider II",
+    "release_year": "1997",
+    "developer": "Core Design"
+  },
+  {
+    "puzzle_num": 629,
+    "answer": "Grand Theft Auto: San Andreas",
+    "release_year": "2004",
+    "developer": "Rockstar North"
+  },
+  {
+    "puzzle_num": 630,
+    "answer": "Golden Axe",
+    "release_year": "1989",
+    "developer": "Sega"
+  },
+  {
+    "puzzle_num": 631,
+    "answer": "Age of Empires III",
+    "release_year": "2005",
+    "developer": "Ensemble Studios"
+  },
+  {
+    "puzzle_num": 632,
+    "answer": "Mass Effect 2",
+    "release_year": "2010",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 633,
+    "answer": "Far Cry 6",
+    "release_year": "2021",
+    "developer": "Ubisoft Toronto"
+  },
+  {
+    "puzzle_num": 634,
+    "answer": "Scott Pilgrim vs. The World: The Game",
+    "release_year": "2010",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 635,
+    "answer": "Wipeout",
+    "release_year": "1995",
+    "developer": "Psygnosis"
+  },
+  {
+    "puzzle_num": 636,
+    "answer": "Shin Megami Tensei: Persona 4",
+    "release_year": "2008",
+    "developer": "Atlus"
+  },
+  {
+    "puzzle_num": 637,
+    "answer": "Fruit Ninja",
+    "release_year": "2010",
+    "developer": "Halfbrick Studios Pty Ltd, Big Ant Studios Pty Ltd"
+  },
+  {
+    "puzzle_num": 638,
+    "answer": "Tibia",
+    "release_year": "1997",
+    "developer": "CIP Productions"
+  },
+  {
+    "puzzle_num": 639,
+    "answer": "Kingdom Hearts",
+    "release_year": "2002",
+    "developer": "Square Co., Ltd."
+  },
+  {
+    "puzzle_num": 640,
+    "answer": "Sniper Elite",
+    "release_year": "2005",
+    "developer": "Rebellion Developments Ltd."
+  },
+  {
+    "puzzle_num": 641,
+    "answer": "Deathloop",
+    "release_year": "2021",
+    "developer": "Arkane Studios SASU"
+  },
+  {
+    "puzzle_num": 642,
+    "answer": "Rick Dangerous 2",
+    "release_year": "1990",
+    "developer": "Core Design Ltd."
+  },
+  {
+    "puzzle_num": 643,
+    "answer": "Geometry Dash",
+    "release_year": "2013",
+    "developer": "RobTop Games AB"
+  },
+  {
+    "puzzle_num": 644,
+    "answer": "LocoRoco",
+    "release_year": "2006",
+    "developer": "Sony Computer Entertainment Japan"
+  },
+  {
+    "puzzle_num": 645,
+    "answer": "Dwarf Fortress",
+    "release_year": "2006",
+    "developer": "Bay 12 Games"
+  },
+  {
+    "puzzle_num": 646,
+    "answer": "The Finals",
+    "release_year": "2023",
+    "developer": "Embark Studios AB"
+  },
+  {
+    "puzzle_num": 647,
+    "answer": "Diablo Immortal",
+    "release_year": "2022",
+    "developer": "NetEase, Inc., Blizzard Entertainment Inc."
+  },
+  {
+    "puzzle_num": 648,
+    "answer": "Barotrauma",
+    "release_year": "2019",
+    "developer": "FakeFish Ltd., Undertow Games"
+  },
+  {
+    "puzzle_num": 649,
+    "answer": "Dino Crisis",
+    "release_year": "1999",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 650,
+    "answer": "Sayonara Wild Hearts",
+    "release_year": "2019",
+    "developer": "Simogo AB"
+  },
+  {
+    "puzzle_num": 651,
+    "answer": "Broforce",
+    "release_year": "2015",
+    "developer": "Free Lives"
+  },
+  {
+    "puzzle_num": 652,
+    "answer": "QWOP",
+    "release_year": "2008",
+    "developer": "Bennett Foddy"
+  },
+  {
+    "puzzle_num": 653,
+    "answer": "Metal Gear Solid 3: Snake Eater",
+    "release_year": "2004",
+    "developer": "Konami Computer Entertainment Japan"
+  },
+  {
+    "puzzle_num": 654,
+    "answer": "The Witcher 2: Assassins of Kings",
+    "release_year": "2011",
+    "developer": "CD Projekt Red"
+  },
+  {
+    "puzzle_num": 655,
+    "answer": "Don't Starve",
+    "release_year": "2013",
+    "developer": "Klei Entertainment"
+  },
+  {
+    "puzzle_num": 656,
+    "answer": "Doom II",
+    "release_year": "1994",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 657,
+    "answer": "Clash Royale",
+    "release_year": "2016",
+    "developer": "Supercell"
+  },
+  {
+    "puzzle_num": 658,
+    "answer": "Rogue Legacy",
+    "release_year": "2013",
+    "developer": "Cellar Door Games"
+  },
+  {
+    "puzzle_num": 659,
+    "answer": "Super Hexagon",
+    "release_year": "2012",
+    "developer": "Terry Cavanagh"
+  },
+  {
+    "puzzle_num": 660,
+    "answer": "Fire Emblem Warriors",
+    "release_year": "2017",
+    "developer": "Omega Force, Team Ninja"
+  },
+  {
+    "puzzle_num": 661,
+    "answer": "Tekken 3",
+    "release_year": "1997",
+    "developer": "Namco"
+  },
+  {
+    "puzzle_num": 662,
+    "answer": "Thumper",
+    "release_year": "2016",
+    "developer": "Drool"
+  },
+  {
+    "puzzle_num": 663,
+    "answer": "Dragon Quest Builders",
+    "release_year": "2016",
+    "developer": "Square Enix"
+  },
+  {
+    "puzzle_num": 664,
+    "answer": "Ice Climber",
+    "release_year": "1985",
+    "developer": "Nintendo"
+  },
+  {
+    "puzzle_num": 665,
+    "answer": "Velocity 2X",
+    "release_year": "2014",
+    "developer": "Futurlab Ltd."
+  },
+  {
+    "puzzle_num": 666,
+    "answer": "Pokémon Sleep",
+    "release_year": "2023",
+    "developer": "SELECT BUTTON Inc."
+  },
+  {
+    "puzzle_num": 667,
+    "answer": "Like a Dragon: Infinite Wealth",
+    "release_year": "2024",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  {
+    "puzzle_num": 668,
+    "answer": "Wolfenstein II: The New Colossus",
+    "release_year": "2017",
+    "developer": "ZeniMax Sweden AB/MachineGames"
+  },
+  {
+    "puzzle_num": 669,
+    "answer": "Blood Bowl III",
+    "release_year": "2023",
+    "developer": "Cyanide S.A."
+  },
+  {
+    "puzzle_num": 670,
+    "answer": "Warcraft II: Tides of Darkness",
+    "release_year": "1995",
+    "developer": "Blizzard Entertainment Inc."
+  },
+  {
+    "puzzle_num": 671,
+    "answer": "Fire Emblem Engage",
+    "release_year": "2023",
+    "developer": "Intelligent Systems Co., Ltd."
+  },
+  {
+    "puzzle_num": 672,
+    "answer": "Star Wars: Lethal Alliance",
+    "release_year": "2006",
+    "developer": "Ubisoft Entertainment Inc."
+  },
+  {
+    "puzzle_num": 673,
+    "answer": "Super Auto Pets",
+    "release_year": "2021",
+    "developer": "Team Wood Games ApS"
+  },
+  {
+    "puzzle_num": 674,
+    "answer": "Prince of Persia: The Lost Crown",
+    "release_year": "2024",
+    "developer": "Ubisoft Montpellier SAS"
+  },
+  {
+    "puzzle_num": 675,
+    "answer": "Brink",
+    "release_year": "2011",
+    "developer": "Splash Damage, Ltd"
+  },
+  {
+    "puzzle_num": 676,
+    "answer": "Tony Hawk's American Wasteland",
+    "release_year": "2005",
+    "developer": "Neversoft Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 677,
+    "answer": "Fallout 2",
+    "release_year": "1998",
+    "developer": "Black Isle Studios"
+  },
+  {
+    "puzzle_num": 678,
+    "answer": "The Forgotten City",
+    "release_year": "2021",
+    "developer": "Modern Storyteller Pty Ltd"
+  },
+  {
+    "puzzle_num": 679,
+    "answer": "Pacific Drive",
+    "release_year": "2024",
+    "developer": "Ironwood Studios LLC"
+  },
+  {
+    "puzzle_num": 680,
+    "answer": "Splitgate",
+    "release_year": "2022",
+    "developer": "1047 Games"
+  },
+  {
+    "puzzle_num": 681,
+    "answer": "Hitman: Blood Money",
+    "release_year": "2006",
+    "developer": "IO Interactive"
+  },
+  {
+    "puzzle_num": 682,
+    "answer": "Splatoon",
+    "release_year": "2015",
+    "developer": "Nintendo EPD"
+  },
+  {
+    "puzzle_num": 683,
+    "answer": "Robotron 64",
+    "release_year": "1998",
+    "developer": "Player 1"
+  },
+  {
+    "puzzle_num": 684,
+    "answer": "Goat Simulator 3",
+    "release_year": "2022",
+    "developer": "Coffee Stain North"
+  },
+  {
+    "puzzle_num": 685,
+    "answer": "Donkey Kong",
+    "release_year": "1981",
+    "developer": "Nintendo R&D1, Nintendo Co., Ltd."
+  },
+  {
+    "puzzle_num": 686,
+    "answer": "Cocoon",
+    "release_year": "2023",
+    "developer": "Geometric Interactive"
+  },
+  {
+    "puzzle_num": 687,
+    "answer": "Golf Story",
+    "release_year": "2017",
+    "developer": "Sidebar Games"
+  },
+  {
+    "puzzle_num": 688,
+    "answer": "The Murder of Sonic the Hedgehog",
+    "release_year": "2023 (Specifically April 1st, 2023)",
+    "developer": "Sega"
+  },
+  {
+    "puzzle_num": 689,
+    "answer": "Thief",
+    "release_year": "2014",
+    "developer": "Eidos Montréal"
+  },
+  {
+    "puzzle_num": 690,
+    "answer": "Astral Chain",
+    "release_year": "2019",
+    "developer": "Platinum Games Inc."
+  },
+  {
+    "puzzle_num": 691,
+    "answer": "Frogger",
+    "release_year": "1981",
+    "developer": "Konami Industry Co. Ltd."
+  },
+  {
+    "puzzle_num": 692,
+    "answer": "Animal Crossing: New Leaf",
+    "release_year": "2012",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 693,
+    "answer": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_year": "2002",
+    "developer": "WXP, Inc."
+  },
+  {
+    "puzzle_num": 694,
+    "answer": "Barnyard",
+    "release_year": "2006",
+    "developer": "Blue Tongue Entertainment Pty, Ltd."
+  },
+  {
+    "puzzle_num": 695,
+    "answer": "Teamfight Tactics",
+    "release_year": "2019",
+    "developer": "Riot Games, Inc."
+  },
+  {
+    "puzzle_num": 696,
+    "answer": "Banishers: Ghosts of New Eden",
+    "release_year": "2024",
+    "developer": "DON'T NOD Entertainment SA"
+  },
+  {
+    "puzzle_num": 697,
+    "answer": "No More Heroes 2: Desperate Struggle",
+    "release_year": "2010",
+    "developer": "Grasshopper Manufacture Inc."
+  },
+  {
+    "puzzle_num": 698,
+    "answer": "Klonoa: Door to Phantomile",
+    "release_year": "1997",
+    "developer": "Namco Limited"
+  },
+  {
+    "puzzle_num": 699,
+    "answer": "Enter the Matrix",
+    "release_year": "2003",
+    "developer": "Shiny Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 700,
+    "answer": "Last Epoch",
+    "release_year": "2019 (Early Access), 2024",
+    "developer": "Eleventh Hour Games"
+  },
+  {
+    "puzzle_num": 701,
+    "answer": "Jurassic Park",
+    "release_year": "1993",
+    "developer": "Ocean of America, Inc."
+  },
+  {
+    "puzzle_num": 702,
+    "answer": "Super Mario Galaxy 2",
+    "release_year": "2010",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 703,
+    "answer": "Halo 4",
+    "release_year": "2012",
+    "developer": "343 Industries, Inc."
+  },
+  {
+    "puzzle_num": 704,
+    "answer": "Alpha Protocol",
+    "release_year": "2010",
+    "developer": "Obsidian Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 705,
+    "answer": "NFS: Unbound",
+    "release_year": "2022",
+    "developer": "Criterion Software Ltd."
+  },
+  {
+    "puzzle_num": 706,
+    "answer": "The Lost Vikings",
+    "release_year": "1993",
+    "developer": "Silicon & Synapse, Inc."
+  },
+  {
+    "puzzle_num": 707,
+    "answer": "Venba",
+    "release_year": "2023",
+    "developer": "Visai Games"
+  },
+  {
+    "puzzle_num": 708,
+    "answer": "NFL Street",
+    "release_year": "2004",
+    "developer": "EA Tiburon"
+  },
+  {
+    "puzzle_num": 709,
+    "answer": "Race Driver: Grid",
+    "release_year": "2008",
+    "developer": "Codemasters"
+  },
+  {
+    "puzzle_num": 710,
+    "answer": "Pikmin 2",
+    "release_year": "2004",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 711,
+    "answer": "Batman: Arkham City",
+    "release_year": "2011",
+    "developer": "Rocksteady Studios"
+  },
+  {
+    "puzzle_num": 712,
+    "answer": "Worms",
+    "release_year": "1995",
+    "developer": "Team17"
+  },
+  {
+    "puzzle_num": 713,
+    "answer": "Metro Exodus",
+    "release_year": "2019",
+    "developer": "4A Games"
+  },
+  {
+    "puzzle_num": 714,
+    "answer": "Content Warning",
+    "release_year": "2024",
+    "developer": "Skog, Zorro, Wilnyl, Philip, thePetHen"
+  },
+  {
+    "puzzle_num": 715,
+    "answer": "Railroad Tycoon",
+    "release_year": "1990",
+    "developer": "MPS Labs"
+  },
+  {
+    "puzzle_num": 716,
+    "answer": "Kirby Star Allies",
+    "release_year": "2018",
+    "developer": "HAL Laboratory"
+  },
+  {
+    "puzzle_num": 717,
+    "answer": "Valkyria Chronicles",
+    "release_year": "2008",
+    "developer": "Sega"
+  },
+  {
+    "puzzle_num": 718,
+    "answer": "Elite Beat Agents",
+    "release_year": "2006",
+    "developer": "iNiS"
+  },
+  {
+    "puzzle_num": 719,
+    "answer": "Dune II",
+    "release_year": "1992",
+    "developer": "Westwood Studios"
+  },
+  {
+    "puzzle_num": 720,
+    "answer": "The Evil Within 2",
+    "release_year": "2017",
+    "developer": "Tango Gameworks"
+  },
+  {
+    "puzzle_num": 721,
+    "answer": "Pummel Party",
+    "release_year": "2018",
+    "developer": "Rebuilt Games"
+  },
+  {
+    "puzzle_num": 722,
+    "answer": "The Saboteur",
+    "release_year": "2009",
+    "developer": "Pandemic Studios, LLC"
+  },
+  {
+    "puzzle_num": 723,
+    "answer": "Mega Man 11",
+    "release_year": "2018",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 724,
+    "answer": "Unicorn Overlord",
+    "release_year": "2024",
+    "developer": "Vanillaware Ltd."
+  },
+  {
+    "puzzle_num": 725,
+    "answer": "Tales of Symphonia",
+    "release_year": "2003",
+    "developer": "Namco Tales Studio Ltd., Production I.G, Inc."
+  },
+  {
+    "puzzle_num": 726,
+    "answer": "Dragon Warrior",
+    "release_year": "1986 (Remastered 2019)",
+    "developer": "Chunsoft Co., Ltd."
+  },
+  {
+    "puzzle_num": 727,
+    "answer": "Her Story",
+    "release_year": "2015",
+    "developer": "Half Mermaid Productions"
+  },
+  {
+    "puzzle_num": 728,
+    "answer": "Gex: Enter the Gecko",
+    "release_year": "1998",
+    "developer": "Crystal Dynamics, Inc."
+  },
+  {
+    "puzzle_num": 729,
+    "answer": "Balatro",
+    "release_year": "2024",
+    "developer": "LocalThunk Inc."
+  },
+  {
+    "puzzle_num": 730,
+    "answer": "Middle-earth: Shadow of War",
+    "release_year": "2017",
+    "developer": "Monolith Productions, Inc."
+  },
+  {
+    "puzzle_num": 731,
+    "answer": "Drakengard 3",
+    "release_year": "2013",
+    "developer": "Access Games Inc."
+  },
+  {
+    "puzzle_num": 732,
+    "answer": "Return to Monkey Island",
+    "release_year": "2022",
+    "developer": "Terrible Toybox, Inc., Bada Games"
+  },
+  {
+    "puzzle_num": 733,
+    "answer": "Populous",
+    "release_year": "1989",
+    "developer": "Bullfrog Productions, Ltd."
+  },
+  {
+    "puzzle_num": 734,
+    "answer": "Skull and Bones",
+    "release_year": "2024",
+    "developer": "Ubisoft Singapore Pte Ltd."
+  },
+  {
+    "puzzle_num": 735,
+    "answer": "Cobalt Core",
+    "release_year": "2023",
+    "developer": "Rocket Rat Games"
+  },
+  {
+    "puzzle_num": 736,
+    "answer": "Company of Heroes 2",
+    "release_year": "2013",
+    "developer": "Relic Entertainment"
+  },
+  {
+    "puzzle_num": 737,
+    "answer": "Wii Fit",
+    "release_year": "2007",
+    "developer": "Nintendo EAD."
+  },
+  {
+    "puzzle_num": 738,
+    "answer": "Resident Evil 2",
+    "release_year": "1998",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 739,
+    "answer": "Gears of War 2",
+    "release_year": "2008",
+    "developer": "Epic Games"
+  },
+  {
+    "puzzle_num": 740,
+    "answer": "Rome: Total War",
+    "release_year": "2004",
+    "developer": "Creative Assembly"
+  },
+  {
+    "puzzle_num": 741,
+    "answer": "Payday 3",
+    "release_year": "2023",
+    "developer": "Starbreeze Studios"
+  },
+  {
+    "puzzle_num": 742,
+    "answer": "Raft",
+    "release_year": "2016 (early access), 2022 (full release)",
+    "developer": "Redbeet Interactive"
+  },
+  {
+    "puzzle_num": 743,
+    "answer": "Gorogoa",
+    "release_year": "2017",
+    "developer": "Jason Roberts"
+  },
+  {
+    "puzzle_num": 744,
+    "answer": "Crusader Kings III",
+    "release_year": "2020",
+    "developer": "Paradox Development Studio"
+  },
+  {
+    "puzzle_num": 745,
+    "answer": "Tekken 5",
+    "release_year": "2004",
+    "developer": "Namco"
+  },
+  {
+    "puzzle_num": 746,
+    "answer": "Jade Empire",
+    "release_year": "2005",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 747,
+    "answer": "Alone in the Dark",
+    "release_year": "1992",
+    "developer": "Infogrames"
+  },
+  {
+    "puzzle_num": 748,
+    "answer": "Super Mario Strikers",
+    "release_year": "2005",
+    "developer": "Next Level Games"
+  },
+  {
+    "puzzle_num": 749,
+    "answer": "Thimbleweed Park",
+    "release_year": "2017",
+    "developer": "Terrible Toybox, Inc."
+  },
+  {
+    "puzzle_num": 750,
+    "answer": "Spyro 2: Season of Flame",
+    "release_year": "2002",
+    "developer": "Digital Eclipse Software, Inc."
+  },
+  {
+    "puzzle_num": 751,
+    "answer": "Street Fighter 6",
+    "release_year": "2023",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 752,
+    "answer": "WarCraft Rumble",
+    "release_year": "2023",
+    "developer": "Blizzard Entertainment Inc."
+  },
+  {
+    "puzzle_num": 753,
+    "answer": "Final Fantasy XV",
+    "release_year": "2016",
+    "developer": "Square Enix Business Division 2"
+  },
+  {
+    "puzzle_num": 754,
+    "answer": "Sam & Max: Hit the Road",
+    "release_year": "1993",
+    "developer": "LucasArts Entertainment Company LLC"
+  },
+  {
+    "puzzle_num": 755,
+    "answer": "God of War II",
+    "release_year": "2007",
+    "developer": "SCE Studio Santa Monica"
+  },
+  {
+    "puzzle_num": 756,
+    "answer": "Thirsty Suitors",
+    "release_year": "2023",
+    "developer": "Outerloop Games LLC"
+  },
+  {
+    "puzzle_num": 757,
+    "answer": "Turnip Boy Robs a Bank",
+    "release_year": "2024",
+    "developer": "Snoozy Kazoo LLC"
+  },
+  {
+    "puzzle_num": 758,
+    "answer": "Dragon's Dogma II",
+    "release_year": "2024",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 759,
+    "answer": "Helldivers",
+    "release_year": "2015",
+    "developer": "Arrowhead Game Studios AB"
+  },
+  {
+    "puzzle_num": 760,
+    "answer": "Kirby's Epic Yarn",
+    "release_year": "2010",
+    "developer": "Good-Feel Co., Ltd."
+  },
+  {
+    "puzzle_num": 761,
+    "answer": "Disney's Aladdin",
+    "release_year": "1993",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 762,
+    "answer": "Brothers: A Tale of Two Sons",
+    "release_year": "2013",
+    "developer": "Starbreeze Studios AB"
+  },
+  {
+    "puzzle_num": 763,
+    "answer": "Norco",
+    "release_year": "2022",
+    "developer": "Geography of Robots"
+  },
+  {
+    "puzzle_num": 764,
+    "answer": "DayZ",
+    "release_year": "2013 (Early Access), 2018",
+    "developer": "Bohemia Interactive Studio s.r.o."
+  },
+  {
+    "puzzle_num": 765,
+    "answer": "Ninja Gaiden",
+    "release_year": "1988",
+    "developer": "Tecmo, Ltd."
+  },
+  {
+    "puzzle_num": 766,
+    "answer": "SingStar Party",
+    "release_year": "2004",
+    "developer": "SCEE Studio London"
+  },
+  {
+    "puzzle_num": 767,
+    "answer": "Neverwinter Nights",
+    "release_year": "2002",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 768,
+    "answer": "Pitfall!",
+    "release_year": "1982",
+    "developer": "Activision, Inc."
+  },
+  {
+    "puzzle_num": 769,
+    "answer": "The Messenger",
+    "release_year": "2018",
+    "developer": "Sabotage Studio Inc."
+  },
+  {
+    "puzzle_num": 770,
+    "answer": "Animal Well",
+    "release_year": "2024",
+    "developer": "Shared Memory LLC"
+  },
+  {
+    "puzzle_num": 771,
+    "answer": "Second Life",
+    "release_year": "2003",
+    "developer": "Linden Research, Inc."
+  },
+  {
+    "puzzle_num": 772,
+    "answer": "Metroid Prime",
+    "release_year": "2002",
+    "developer": "Retro Studios Inc."
+  },
+  {
+    "puzzle_num": 773,
+    "answer": "Clash of Clans",
+    "release_year": "2012",
+    "developer": "Supercell Oy"
+  },
+  {
+    "puzzle_num": 774,
+    "answer": "Grounded",
+    "release_year": "2020 (Early Access), 2022 (Full Release)",
+    "developer": "Obsidian Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 775,
+    "answer": "Baldur's Gate",
+    "release_year": "1998",
+    "developer": "BioWare Corporation"
+  },
+  {
+    "puzzle_num": 776,
+    "answer": "Assassin's Creed Mirage",
+    "release_year": "2023",
+    "developer": "Ubisoft Bordeaux SAS"
+  },
+  {
+    "puzzle_num": 777,
+    "answer": "Children of the Sun",
+    "release_year": "2024",
+    "developer": "René Rother"
+  },
+  {
+    "puzzle_num": 778,
+    "answer": "Fallout 76",
+    "release_year": "2018",
+    "developer": "Bethesda Game Studios"
+  },
+  {
+    "puzzle_num": 779,
+    "answer": "Left 4 Dead 2",
+    "release_year": "2009",
+    "developer": "Valve Corporation"
+  },
+  {
+    "puzzle_num": 780,
+    "answer": "WarioWare, Inc.: Mega Microgame$!",
+    "release_year": "2003",
+    "developer": "Nintendo R&D1"
+  },
+  {
+    "puzzle_num": 781,
+    "answer": "Rise of the Rōnin",
+    "release_year": "2024",
+    "developer": "Team Ninja"
+  },
+  {
+    "puzzle_num": 782,
+    "answer": "Forsaken",
+    "release_year": "1998",
+    "developer": "Probe Entertainment Ltd."
+  },
+  {
+    "puzzle_num": 783,
+    "answer": "Dishonored 2",
+    "release_year": "2016",
+    "developer": "Arkane Studios SASU"
+  },
+  {
+    "puzzle_num": 784,
+    "answer": "SteamWorld Build",
+    "release_year": "2023",
+    "developer": "The Station Game Ltd"
+  },
+  {
+    "puzzle_num": 785,
+    "answer": "The Elder Scrolls Online",
+    "release_year": "2014",
+    "developer": "ZeniMax Online Studios, LLC"
+  },
+  {
+    "puzzle_num": 786,
+    "answer": "Far Cry 2",
+    "release_year": "2008",
+    "developer": "Ubisoft Entertainment Inc."
+  },
+  {
+    "puzzle_num": 787,
+    "answer": "Battlefield 2042",
+    "release_year": "2021",
+    "developer": "EA Digital Illusions CE AB"
+  },
+  {
+    "puzzle_num": 788,
+    "answer": "Pokémon XD: Gale of Darkness",
+    "release_year": "2005",
+    "developer": "Genius Sonority, Inc."
+  },
+  {
+    "puzzle_num": 789,
+    "answer": "Twinsen's Odyssey",
+    "release_year": "1997",
+    "developer": "Adeline Software International"
+  },
+  {
+    "puzzle_num": 790,
+    "answer": "The Legend of Zelda: The Minish Cap",
+    "release_year": "2004",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 791,
+    "answer": "Crow Country",
+    "release_year": "2024",
+    "developer": "SFB Games Ltd."
+  },
+  {
+    "puzzle_num": 792,
+    "answer": "20 Minutes Till Dawn",
+    "release_year": "2022 (early access), 2023 (full)",
+    "developer": "flanne"
+  },
+  {
+    "puzzle_num": 793,
+    "answer": "Uncharted 4: A Thief's End",
+    "release_year": "2016",
+    "developer": "Naughty Dog"
+  },
+  {
+    "puzzle_num": 794,
+    "answer": "Blood Bowl",
+    "release_year": "2009",
+    "developer": "Cyanide"
+  },
+  {
+    "puzzle_num": 795,
+    "answer": "Starcraft 2",
+    "release_year": "2010",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 796,
+    "answer": "Sid Meier's Pirates!",
+    "release_year": "1987",
+    "developer": "MicroProse"
+  },
+  {
+    "puzzle_num": 797,
+    "answer": "BattleTech",
+    "release_year": "2018",
+    "developer": "Harebrained Schemes"
+  },
+  {
+    "puzzle_num": 798,
+    "answer": "Indika",
+    "release_year": "2024",
+    "developer": "Odd-Meter"
+  },
+  {
+    "puzzle_num": 799,
+    "answer": "MapleStory",
+    "release_year": "2003",
+    "developer": "Wizet"
+  },
+  {
+    "puzzle_num": 800,
+    "answer": "A Way Out",
+    "release_year": "2018",
+    "developer": "Hazelight Studios"
+  },
+  {
+    "puzzle_num": 801,
+    "answer": "TowerFall",
+    "release_year": "2013",
+    "developer": "Maddy Makes Games"
+  },
+  {
+    "puzzle_num": 802,
+    "answer": "Wartales",
+    "release_year": "2021 (Early Access), 2023",
+    "developer": "Shiro Games"
+  },
+  {
+    "puzzle_num": 803,
+    "answer": "Super Monkey Ball",
+    "release_year": "2001",
+    "developer": "Amusement Vision"
+  },
+  {
+    "puzzle_num": 804,
+    "answer": "Space Invaders",
+    "release_year": "1978",
+    "developer": "Taito"
+  },
+  {
+    "puzzle_num": 805,
+    "answer": "Command & Conquer: Red Alert",
+    "release_year": "1996",
+    "developer": "Westwood Studios, Inc."
+  },
+  {
+    "puzzle_num": 806,
+    "answer": "Buckshot Roulette",
+    "release_year": "2023",
+    "developer": "Mike Klubnika"
+  },
+  {
+    "puzzle_num": 807,
+    "answer": "Kingdom Come: Deliverance",
+    "release_year": "2018",
+    "developer": "Warhorse Studios s.r.o."
+  },
+  {
+    "puzzle_num": 808,
+    "answer": "Need for Speed: Underground",
+    "release_year": "2003",
+    "developer": "Electronic Arts Black Box"
+  },
+  {
+    "puzzle_num": 809,
+    "answer": "Party Animals",
+    "release_year": "2023",
+    "developer": "Recreate Games"
+  },
+  {
+    "puzzle_num": 810,
+    "answer": "River City Ransom",
+    "release_year": "1989",
+    "developer": "Technos Japan Corp."
+  },
+  {
+    "puzzle_num": 811,
+    "answer": "Assassin's Creed IV: Black Flag",
+    "release_year": "2013",
+    "developer": "Ubisoft Entertainment Inc."
+  },
+  {
+    "puzzle_num": 812,
+    "answer": "Terminator: Resistance",
+    "release_year": "2019",
+    "developer": "Teyon S.A."
+  },
+  {
+    "puzzle_num": 813,
+    "answer": "Exit 8",
+    "release_year": "2023",
+    "developer": "Kotake Create"
+  },
+  {
+    "puzzle_num": 814,
+    "answer": "Another Crab's Treasure",
+    "release_year": "2024",
+    "developer": "Aggro Crab Games"
+  },
+  {
+    "puzzle_num": 815,
+    "answer": "Crash Bandicoot: Warped",
+    "release_year": "1998",
+    "developer": "Naughty Dog, Inc."
+  },
+  {
+    "puzzle_num": 816,
+    "answer": "Bomberman Generation",
+    "release_year": "2002",
+    "developer": "Game Arts Co., Ltd."
+  },
+  {
+    "puzzle_num": 817,
+    "answer": "Rise of the Triad: Dark War",
+    "release_year": "1994",
+    "developer": "Apogee Software, Ltd."
+  },
+  {
+    "puzzle_num": 818,
+    "answer": "Stellar Blade",
+    "release_year": "2024",
+    "developer": "Shiftup Corp."
+  },
+  {
+    "puzzle_num": 819,
+    "answer": "1000xRESIST",
+    "release_year": "2024",
+    "developer": "Sunset Visitor"
+  },
+  {
+    "puzzle_num": 820,
+    "answer": "Sins of a Solar Empire",
+    "release_year": "2008",
+    "developer": "Ironclad Games"
+  },
+  {
+    "puzzle_num": 821,
+    "answer": "The Legend of Zelda: Majora's Mask",
+    "release_year": "2000",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 822,
+    "answer": "Castlevania: Aria of Sorrow",
+    "release_year": "2003",
+    "developer": "Konami Computer Entertainment Tokyo"
+  },
+  {
+    "puzzle_num": 823,
+    "answer": "Donkey Kong Country: Tropical Freeze",
+    "release_year": "2014",
+    "developer": "Retro Studios"
+  },
+  {
+    "puzzle_num": 824,
+    "answer": "Tomb Raider: The Last Revelation",
+    "release_year": "1999",
+    "developer": "Core Design"
+  },
+  {
+    "puzzle_num": 825,
+    "answer": "Animal Crossing",
+    "release_year": "2001",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 826,
+    "answer": "Moonlighter",
+    "release_year": "2018",
+    "developer": "Digital Sun"
+  },
+  {
+    "puzzle_num": 827,
+    "answer": "Outriders",
+    "release_year": "2021",
+    "developer": "People Can Fly"
+  },
+  {
+    "puzzle_num": 828,
+    "answer": "Severed",
+    "release_year": "2016",
+    "developer": "DrinkBox Studios"
+  },
+  {
+    "puzzle_num": 829,
+    "answer": "Overlord",
+    "release_year": "2007",
+    "developer": "Triumph Studios"
+  },
+  {
+    "puzzle_num": 830,
+    "answer": "Injustice 2",
+    "release_year": "2017",
+    "developer": "NetherRealm Studios"
+  },
+  {
+    "puzzle_num": 831,
+    "answer": "Hey You, Pikachu!",
+    "release_year": "1998",
+    "developer": "Ambrella"
+  },
+  {
+    "puzzle_num": 832,
+    "answer": "State of Decay 2",
+    "release_year": "2018",
+    "developer": "Undead Labs"
+  },
+  {
+    "puzzle_num": 833,
+    "answer": "Little Kitty, Big City",
+    "release_year": "2024",
+    "developer": "Double Dagger Studio LLC"
+  },
+  {
+    "puzzle_num": 834,
+    "answer": "Champions of Norrath",
+    "release_year": "2004",
+    "developer": "Snowblind Studios, Inc."
+  },
+  {
+    "puzzle_num": 835,
+    "answer": "WWE 2K24",
+    "release_year": "2024",
+    "developer": "Visual Concepts Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 836,
+    "answer": "X-Men Origins: Wolverine",
+    "release_year": "2009",
+    "developer": "Raven Software Corporation"
+  },
+  {
+    "puzzle_num": 837,
+    "answer": "Homeworld 3",
+    "release_year": "2024",
+    "developer": "Blackbird Interactive, Inc."
+  },
+  {
+    "puzzle_num": 838,
+    "answer": "Super Ghouls 'n Ghosts",
+    "release_year": "1991",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 839,
+    "answer": "Metroid Dread",
+    "release_year": "2021",
+    "developer": "Mercury Steam Entertainment S.L."
+  },
+  {
+    "puzzle_num": 840,
+    "answer": "Battlefield 2142",
+    "release_year": "2006",
+    "developer": "Digital Illusions CE AB"
+  },
+  {
+    "puzzle_num": 841,
+    "answer": "Dark Cloud",
+    "release_year": "2000 (JP), 2001 (NA)",
+    "developer": "Level-5 Inc."
+  },
+  {
+    "puzzle_num": 842,
+    "answer": "NieR",
+    "release_year": "2010",
+    "developer": "cavia inc."
+  },
+  {
+    "puzzle_num": 843,
+    "answer": "Sand Land",
+    "release_year": "2024",
+    "developer": "ILCA, Inc."
+  },
+  {
+    "puzzle_num": 844,
+    "answer": "Mario Pinball Land",
+    "release_year": "2004",
+    "developer": "Fuse Games Limited"
+  },
+  {
+    "puzzle_num": 845,
+    "answer": "Bust-A-Move",
+    "release_year": "1996",
+    "developer": "Taito Corporation"
+  },
+  {
+    "puzzle_num": 846,
+    "answer": "Helldivers II",
+    "release_year": "2024",
+    "developer": "Arrowhead Game Studios AB"
+  },
+  {
+    "puzzle_num": 847,
+    "answer": "Monster Hunter: Stories",
+    "release_year": "2016",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 848,
+    "answer": "My Time at Portia",
+    "release_year": "2019",
+    "developer": "Pathea Games"
+  },
+  {
+    "puzzle_num": 849,
+    "answer": "The Sims 2",
+    "release_year": "2004",
+    "developer": "Maxis Redwood Shores"
+  },
+  {
+    "puzzle_num": 850,
+    "answer": "Dragon Quest XI",
+    "release_year": "2017",
+    "developer": "Square Enix"
+  },
+  {
+    "puzzle_num": 851,
+    "answer": "Assassin's Creed Revelations",
+    "release_year": "2011",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 852,
+    "answer": "Grand Theft Auto",
+    "release_year": "1997",
+    "developer": "DMA Design"
+  },
+  {
+    "puzzle_num": 853,
+    "answer": "Total War: Three Kingdoms",
+    "release_year": "2019",
+    "developer": "Creative Assembly"
+  },
+  {
+    "puzzle_num": 854,
+    "answer": "Gunfire Reborn",
+    "release_year": "2021",
+    "developer": "Duoyi Games"
+  },
+  {
+    "puzzle_num": 855,
+    "answer": "Sunless Skies",
+    "release_year": "2019",
+    "developer": "Failbetter Games"
+  },
+  {
+    "puzzle_num": 856,
+    "answer": "Monkey Island 2: LeChuck's Revenge",
+    "release_year": "1991",
+    "developer": "LucasArts"
+  },
+  {
+    "puzzle_num": 857,
+    "answer": "Far Cry 4",
+    "release_year": "2014",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 858,
+    "answer": "Opus Magnum",
+    "release_year": "2017",
+    "developer": "Zachtronics"
+  },
+  {
+    "puzzle_num": 859,
+    "answer": "Skies of Arcadia",
+    "release_year": "2000",
+    "developer": "Overworks"
+  },
+  {
+    "puzzle_num": 860,
+    "answer": "Super Mario Land 2: 6 Golden Coins",
+    "release_year": "1992",
+    "developer": "Nintendo R&D1"
+  },
+  {
+    "puzzle_num": 861,
+    "answer": "The Journeyman Project",
+    "release_year": "1993",
+    "developer": "Presto Studios, Inc."
+  },
+  {
+    "puzzle_num": 862,
+    "answer": "Tearaway",
+    "release_year": "2013",
+    "developer": "Media Molecule Ltd."
+  },
+  {
+    "puzzle_num": 863,
+    "answer": "The First Descendant",
+    "release_year": "2024",
+    "developer": "Nexon Games Co., Ltd."
+  },
+  {
+    "puzzle_num": 864,
+    "answer": "System Shock",
+    "release_year": "1994 (Original), 2023 (Remake - pictures from remake)",
+    "developer": "Nightdive Studios, LLC"
+  },
+  {
+    "puzzle_num": 865,
+    "answer": "I Am Setsuna",
+    "release_year": "2016",
+    "developer": "Tokyo RPG Factory Co., Ltd."
+  },
+  {
+    "puzzle_num": 866,
+    "answer": "Chip's Challenge",
+    "release_year": "1989",
+    "developer": "Epyx, Inc."
+  },
+  {
+    "puzzle_num": 867,
+    "answer": "Mario Super Sluggers",
+    "release_year": "2008",
+    "developer": "Namco Bandai Games Inc."
+  },
+  {
+    "puzzle_num": 868,
+    "answer": "Metal Arms: Glitch in the System",
+    "release_year": "2003",
+    "developer": "Swingin' Ape Studios"
+  },
+  {
+    "puzzle_num": 869,
+    "answer": "Blade of Darkness",
+    "release_year": "2001",
+    "developer": "Rebel Act Studios"
+  },
+  {
+    "puzzle_num": 870,
+    "answer": "Pokémon Scarlet",
+    "release_year": "2022",
+    "developer": "Game Freak, Inc."
+  },
+  {
+    "puzzle_num": 871,
+    "answer": "Ni no Kuni: Wrath of the White Witch",
+    "release_year": "2011 (Japan), 2013 (West)",
+    "developer": "Level-5 Inc."
+  },
+  {
+    "puzzle_num": 872,
+    "answer": "Grim Dawn",
+    "release_year": "2016",
+    "developer": "Crate Entertainment, LLC"
+  },
+  {
+    "puzzle_num": 873,
+    "answer": "Leisure Suit Larry in the Land of the Lounge Lizards",
+    "release_year": "1987",
+    "developer": "Sierra On-Line, Inc."
+  },
+  {
+    "puzzle_num": 874,
+    "answer": "Concord",
+    "release_year": "2024",
+    "developer": "Firewalk Studios"
+  },
+  {
+    "puzzle_num": 875,
+    "answer": "Oxenfree II: Lost Signals",
+    "release_year": "2023",
+    "developer": "Night School Studio"
+  },
+  {
+    "puzzle_num": 876,
+    "answer": "Dead or Alive 2",
+    "release_year": "1999",
+    "developer": "Team Ninja"
+  },
+  {
+    "puzzle_num": 877,
+    "answer": "SimCity",
+    "release_year": "1989",
+    "developer": "Maxis"
+  },
+  {
+    "puzzle_num": 878,
+    "answer": "Geometry Wars: Retro Evolved",
+    "release_year": "2005",
+    "developer": "Bizarre Creations"
+  },
+  {
+    "puzzle_num": 879,
+    "answer": "Ori and the Will of the Wisps",
+    "release_year": "2020",
+    "developer": "Moon Studios"
+  },
+  {
+    "puzzle_num": 880,
+    "answer": "Super Mario Kart",
+    "release_year": "1992",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 881,
+    "answer": "Uncharted 3: Drake's Deception",
+    "release_year": "2011",
+    "developer": "Naughty Dog"
+  },
+  {
+    "puzzle_num": 882,
+    "answer": "Teardown",
+    "release_year": "2022",
+    "developer": "Tuxedo Labs"
+  },
+  {
+    "puzzle_num": 883,
+    "answer": "EarthBound",
+    "release_year": "1994",
+    "developer": "Ape Inc., HAL Laboratory"
+  },
+  {
+    "puzzle_num": 884,
+    "answer": "Call of Duty: Modern Warfare",
+    "release_year": "2019",
+    "developer": "Infinity Ward"
+  },
+  {
+    "puzzle_num": 885,
+    "answer": "Alan Wake's American Nightmare",
+    "release_year": "2012",
+    "developer": "Remedy Entertainment"
+  },
+  {
+    "puzzle_num": 886,
+    "answer": "Battlefield V",
+    "release_year": "2018",
+    "developer": "DICE"
+  },
+  {
+    "puzzle_num": 887,
+    "answer": "Final Fantasy IX",
+    "release_year": "2000",
+    "developer": "Square"
+  },
+  {
+    "puzzle_num": 888,
+    "answer": "Resident Evil 7: Biohazard",
+    "release_year": "2017",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 889,
+    "answer": "Descent",
+    "release_year": "1995",
+    "developer": "Parallax Software Corp."
+  },
+  {
+    "puzzle_num": 890,
+    "answer": "OlliOlli World",
+    "release_year": "2022",
+    "developer": "Roll7"
+  },
+  {
+    "puzzle_num": 891,
+    "answer": "Super Paper Mario",
+    "release_year": "2007",
+    "developer": "Intelligent Systems Co., Ltd."
+  },
+  {
+    "puzzle_num": 892,
+    "answer": "Palworld",
+    "release_year": "2024",
+    "developer": "Pocketpair, Inc."
+  },
+  {
+    "puzzle_num": 893,
+    "answer": "Jeanne d'Arc",
+    "release_year": "2006",
+    "developer": "Algolab, Level-5 Inc."
+  },
+  {
+    "puzzle_num": 894,
+    "answer": "Sonic the Hedgehog 2",
+    "release_year": "1992",
+    "developer": "Sega Technical Institute"
+  },
+  {
+    "puzzle_num": 895,
+    "answer": "Suicide Squad: Kill the Justice League",
+    "release_year": "2024",
+    "developer": "Rocksteady Studios Ltd"
+  },
+  {
+    "puzzle_num": 896,
+    "answer": "Police Quest: In Pursuit of the Death Angel",
+    "release_year": "1987",
+    "developer": "Sierra On-Line, Inc."
+  },
+  {
+    "puzzle_num": 897,
+    "answer": "Brute Force",
+    "release_year": "2003",
+    "developer": "Digital Anvil"
+  },
+  {
+    "puzzle_num": 898,
+    "answer": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+    "release_year": "2004",
+    "developer": "Obsidian Entertainment, Inc., BioWare Corporation"
+  },
+  {
+    "puzzle_num": 899,
+    "answer": "Zenless Zone Zero",
+    "release_year": "2024",
+    "developer": "miHoYo Co., Ltd."
+  },
+  {
+    "puzzle_num": 900,
+    "answer": "Earthworm Jim",
+    "release_year": "1994",
+    "developer": "Shiny Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 901,
+    "answer": "Yoshi's Island DS",
+    "release_year": "2006",
+    "developer": "Artoon Co., Ltd."
+  },
+  {
+    "puzzle_num": 902,
+    "answer": "The Witcher",
+    "release_year": "2007",
+    "developer": "CD Projekt RED"
+  },
+  {
+    "puzzle_num": 903,
+    "answer": "Oddworld: Abe's Oddysee",
+    "release_year": "1997",
+    "developer": "Oddworld Inhabitants"
+  },
+  {
+    "puzzle_num": 904,
+    "answer": "SCP: Secret Laboratory",
+    "release_year": "2017",
+    "developer": "Northwood Studios"
+  },
+  {
+    "puzzle_num": 905,
+    "answer": "Resident Evil 3: Nemesis",
+    "release_year": "1999",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 906,
+    "answer": "Dead Space 3",
+    "release_year": "2013",
+    "developer": "Visceral Games"
+  },
+  {
+    "puzzle_num": 907,
+    "answer": "Vagrant Story",
+    "release_year": "2000",
+    "developer": "Square Product Development Division 4"
+  },
+  {
+    "puzzle_num": 908,
+    "answer": "Super Metroid",
+    "release_year": "1994",
+    "developer": "Nintendo R&D1"
+  },
+  {
+    "puzzle_num": 909,
+    "answer": "South Park: Snow Day",
+    "release_year": "2024",
+    "developer": "Question"
+  },
+  {
+    "puzzle_num": 910,
+    "answer": "The Pathless",
+    "release_year": "2020",
+    "developer": "Giant Squid"
+  },
+  {
+    "puzzle_num": 911,
+    "answer": "Shadow Hearts: Covenant",
+    "release_year": "2004",
+    "developer": "Nautilus"
+  },
+  {
+    "puzzle_num": 912,
+    "answer": "Assassin's Creed III",
+    "release_year": "2012",
+    "developer": "Ubisoft Montréal"
+  },
+  {
+    "puzzle_num": 913,
+    "answer": "Life is Strange: Before the Storm",
+    "release_year": "2017",
+    "developer": "Deck Nine"
+  },
+  {
+    "puzzle_num": 914,
+    "answer": "Metro 2033",
+    "release_year": "2010",
+    "developer": "4A Games"
+  },
+  {
+    "puzzle_num": 915,
+    "answer": "The Legend of Zelda: Link's Awakening",
+    "release_year": "1993",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 916,
+    "answer": "God of War III",
+    "release_year": "2010",
+    "developer": "Santa Monica Studio"
+  },
+  {
+    "puzzle_num": 917,
+    "answer": "Dungeons & Degenerate Gamblers",
+    "release_year": "2024",
+    "developer": "Purple Moss Collectors"
+  },
+  {
+    "puzzle_num": 918,
+    "answer": "UFO 50",
+    "release_year": "2024",
+    "developer": "Mossmouth, LLC"
+  },
+  {
+    "puzzle_num": 919,
+    "answer": "Metal Gear Solid 4: Guns of the Patriots",
+    "release_year": "2008",
+    "developer": "Kojima Productions Co., Ltd."
+  },
+  {
+    "puzzle_num": 920,
+    "answer": "Tron 2.0",
+    "release_year": "2003",
+    "developer": "Monolith Productions, Inc."
+  },
+  {
+    "puzzle_num": 921,
+    "answer": "Spectre Divide",
+    "release_year": "2024",
+    "developer": "Mountaintop Studios, Inc."
+  },
+  {
+    "puzzle_num": 922,
+    "answer": "Phantom Dust",
+    "release_year": "2004",
+    "developer": "Microsoft Game Studios Japan"
+  },
+  {
+    "puzzle_num": 923,
+    "answer": "Mario + Rabbids: Kingdom Battle",
+    "release_year": "2017",
+    "developer": "Ubisoft Studios SRL, Ubisoft Paris Studios SARL"
+  },
+  {
+    "puzzle_num": 924,
+    "answer": "Gauntlet: Legends",
+    "release_year": "1998",
+    "developer": "Atari Games Corporation"
+  },
+  {
+    "puzzle_num": 925,
+    "answer": "Lara Croft and the Guardian of Light",
+    "release_year": "2010",
+    "developer": "Crystal Dynamics, Inc."
+  },
+  {
+    "puzzle_num": 926,
+    "answer": "Lollipop Chainsaw",
+    "release_year": "2012",
+    "developer": "Grasshopper Manufacture Inc."
+  },
+  {
+    "puzzle_num": 927,
+    "answer": "Astro Bot: Rescue Mission",
+    "release_year": "2018",
+    "developer": "ASOBI Team"
+  },
+  {
+    "puzzle_num": 928,
+    "answer": "Devil May Cry 3: Dante's Awakening",
+    "release_year": "2005",
+    "developer": "Capcom Production Studio 1"
+  },
+  {
+    "puzzle_num": 929,
+    "answer": "Yakuza",
+    "release_year": "2005",
+    "developer": "Amusement Vision, Ltd."
+  },
+  {
+    "puzzle_num": 930,
+    "answer": "Black Myth: Wukong",
+    "release_year": "2024",
+    "developer": "Game Science Interactive Technology Co., Ltd."
+  },
+  {
+    "puzzle_num": 931,
+    "answer": "Stories Untold",
+    "release_year": "2017",
+    "developer": "No Code"
+  },
+  {
+    "puzzle_num": 932,
+    "answer": "Amnesia: A Machine for Pigs",
+    "release_year": "2013",
+    "developer": "The Chinese Room"
+  },
+  {
+    "puzzle_num": 933,
+    "answer": "The Legend of Zelda: Skyward Sword",
+    "release_year": "2011",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 934,
+    "answer": "Mirror's Edge Catalyst",
+    "release_year": "2016",
+    "developer": "DICE"
+  },
+  {
+    "puzzle_num": 935,
+    "answer": "Thomas Was Alone",
+    "release_year": "2012",
+    "developer": "Mike Bithell"
+  },
+  {
+    "puzzle_num": 936,
+    "answer": "Crash Bandicoot 2: Cortex Strikes Back",
+    "release_year": "1997",
+    "developer": "Naughty Dog"
+  },
+  {
+    "puzzle_num": 937,
+    "answer": "Mass Effect: Andromeda",
+    "release_year": "2017",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 938,
+    "answer": "Rogue Legacy 2",
+    "release_year": "Early access 2020; Full release 2022",
+    "developer": "Cellar Door Games"
+  },
+  {
+    "puzzle_num": 939,
+    "answer": "Shadow Warrior",
+    "release_year": "1997",
+    "developer": "3D Realms"
+  },
+  {
+    "puzzle_num": 940,
+    "answer": "Call of Duty: Modern Warfare 3",
+    "release_year": "2011",
+    "developer": "Infinity Ward"
+  },
+  {
+    "puzzle_num": 941,
+    "answer": "Child of Light",
+    "release_year": "2014",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 942,
+    "answer": "A Plague Tale: Innocence",
+    "release_year": "2019",
+    "developer": "Asobo Studio"
+  },
+  {
+    "puzzle_num": 943,
+    "answer": "Super Mario Bros. 3",
+    "release_year": "1988",
+    "developer": "Nintendo R&D4"
+  },
+  {
+    "puzzle_num": 944,
+    "answer": "Helltaker",
+    "release_year": "2020",
+    "developer": "Łukasz Piskorz"
+  },
+  {
+    "puzzle_num": 945,
+    "answer": "The Curse of Monkey Island",
+    "release_year": "1997",
+    "developer": "LucasArts Entertainment Company LLC"
+  },
+  {
+    "puzzle_num": 946,
+    "answer": "Dead Rising 3",
+    "release_year": "2013",
+    "developer": "Capcom Game Studio Vancouver, Inc."
+  },
+  {
+    "puzzle_num": 947,
+    "answer": "Mario & Sonic at the Olympic Games",
+    "release_year": "2007",
+    "developer": "Racjin Co., Ltd., Sega Sports Japan"
+  },
+  {
+    "puzzle_num": 948,
+    "answer": "Chants of Sennaar",
+    "release_year": "2023",
+    "developer": "Rundisc"
+  },
+  {
+    "puzzle_num": 949,
+    "answer": "Eternal Ring",
+    "release_year": "2000",
+    "developer": "FromSoftware, Inc."
+  },
+  {
+    "puzzle_num": 950,
+    "answer": "We Happy Few",
+    "release_year": "2016 early access, 2018 full release",
+    "developer": "Compulsion Games"
+  },
+  {
+    "puzzle_num": 951,
+    "answer": "Lego Island",
+    "release_year": "1997",
+    "developer": "Mindscape, Inc."
+  },
+  {
+    "puzzle_num": 952,
+    "answer": "BMX XXX",
+    "release_year": "2002",
+    "developer": "Z-Axis, Ltd."
+  },
+  {
+    "puzzle_num": 953,
+    "answer": "Goose Goose Duck",
+    "release_year": "2021",
+    "developer": "Gaggle Studios, Inc."
+  },
+  {
+    "puzzle_num": 954,
+    "answer": "Tony Hawk's Pro Skater 3",
+    "release_year": "2001",
+    "developer": "Neversoft Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 955,
+    "answer": "State of Decay",
+    "release_year": "2013",
+    "developer": "Undead Labs LLC"
+  },
+  {
+    "puzzle_num": 956,
+    "answer": "Once Human",
+    "release_year": "2024",
+    "developer": "Starry Studio"
+  },
+  {
+    "puzzle_num": 957,
+    "answer": "Tom Clancy's Rainbow Six",
+    "release_year": "1998",
+    "developer": "Red Storm Entertainment, Ubisoft Entertainment Inc."
+  },
+  {
+    "puzzle_num": 958,
+    "answer": "Metroid: Other M",
+    "release_year": "2010",
+    "developer": "Team Ninja, Nintendo SPD"
+  },
+  {
+    "puzzle_num": 959,
+    "answer": "A Short Hike",
+    "release_year": "2019",
+    "developer": "Adam Robinson-Yu"
+  },
+  {
+    "puzzle_num": 960,
+    "answer": "Outlast II",
+    "release_year": "2017",
+    "developer": "Red Barrels"
+  },
+  {
+    "puzzle_num": 961,
+    "answer": "pong",
+    "release_year": "1972",
+    "developer": "Atari"
+  },
+  {
+    "puzzle_num": 962,
+    "answer": "Little Nightmares",
+    "release_year": "2017",
+    "developer": "Tarsier Studios"
+  },
+  {
+    "puzzle_num": 963,
+    "answer": "Elite Dangerous",
+    "release_year": "2014",
+    "developer": "Frontier Developments"
+  },
+  {
+    "puzzle_num": 964,
+    "answer": "Final Fantasy VII",
+    "release_year": "1997",
+    "developer": "Square"
+  },
+  {
+    "puzzle_num": 965,
+    "answer": "Halo 5: Guardians",
+    "release_year": "2015",
+    "developer": "343 Industries"
+  },
+  {
+    "puzzle_num": 966,
+    "answer": "The Pedestrian",
+    "release_year": "2020",
+    "developer": "Skookum Arts LLC"
+  },
+  {
+    "puzzle_num": 967,
+    "answer": "Okage: Shadow King",
+    "release_year": "2001",
+    "developer": "Zener Works"
+  },
+  {
+    "puzzle_num": 968,
+    "answer": "Max Payne 3",
+    "release_year": "2012",
+    "developer": "Rockstar Studios"
+  },
+  {
+    "puzzle_num": 969,
+    "answer": "Dead Space 2",
+    "release_year": "2011",
+    "developer": "Visceral Games"
+  },
+  {
+    "puzzle_num": 970,
+    "answer": "Life is Strange 2",
+    "release_year": "2018",
+    "developer": "Dontnod Entertainment"
+  },
+  {
+    "puzzle_num": 971,
+    "answer": "Crash Bandicoot: The Wrath of Cortex",
+    "release_year": "2001",
+    "developer": "Traveller's Tales"
+  },
+  {
+    "puzzle_num": 972,
+    "answer": "Kirby: Planet Robobot",
+    "release_year": "2016",
+    "developer": "HAL Laboratory"
+  },
+  {
+    "puzzle_num": 973,
+    "answer": "Prison Architect",
+    "release_year": "2013",
+    "developer": "Introversion Software Limited"
+  },
+  {
+    "puzzle_num": 974,
+    "answer": "Gorn",
+    "release_year": "2017",
+    "developer": "Free Lives (Pty) Ltd"
+  },
+  {
+    "puzzle_num": 975,
+    "answer": "Star Wars: Bounty Hunter (2024)",
+    "release_year": "2024",
+    "developer": "Aspyr Media, Inc."
+  },
+  {
+    "puzzle_num": 976,
+    "answer": "Eternal Sonata",
+    "release_year": "2007",
+    "developer": "tri-Crescendo Inc."
+  },
+  {
+    "puzzle_num": 977,
+    "answer": "Sid Meier's Civilization IV",
+    "release_year": "2005",
+    "developer": "Firaxis Games East, Inc."
+  },
+  {
+    "puzzle_num": 978,
+    "answer": "Shadowgate",
+    "release_year": "1987",
+    "developer": "ICOM Simulations, Inc."
+  },
+  {
+    "puzzle_num": 979,
+    "answer": "Shin Megami Tensei V",
+    "release_year": "2021 (Re-release 2024)",
+    "developer": "Atlus Co., Ltd."
+  },
+  {
+    "puzzle_num": 980,
+    "answer": "World of Goo 2",
+    "release_year": "2024",
+    "developer": "2D Boy, LLC"
+  },
+  {
+    "puzzle_num": 981,
+    "answer": "Open Roads",
+    "release_year": "2024",
+    "developer": "Open Roads Team"
+  },
+  {
+    "puzzle_num": 982,
+    "answer": "Super Mario 3D World",
+    "release_year": "2013",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 983,
+    "answer": "Star Ocean: Till the End of Time",
+    "release_year": "2004",
+    "developer": "tri-Ace Inc."
+  },
+  {
+    "puzzle_num": 984,
+    "answer": "Yoku's Island Express",
+    "release_year": "2018",
+    "developer": "Villa Gorilla AB"
+  },
+  {
+    "puzzle_num": 985,
+    "answer": "Dark Earth",
+    "release_year": "1997",
+    "developer": "Kalisto Entertainment SA"
+  },
+  {
+    "puzzle_num": 986,
+    "answer": "Dragon Ball: Sparking! Zero",
+    "release_year": "2024",
+    "developer": "Spike Chunsoft Co., Ltd."
+  },
+  {
+    "puzzle_num": 987,
+    "answer": "Dungeon Defenders",
+    "release_year": "2010",
+    "developer": "Trendy Entertainment"
+  },
+  {
+    "puzzle_num": 988,
+    "answer": "Viva Piñata: Trouble in Paradise",
+    "release_year": "2008",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 989,
+    "answer": "Call of Duty: Black Ops",
+    "release_year": "2010",
+    "developer": "Treyarch"
+  },
+  {
+    "puzzle_num": 990,
+    "answer": "Animal Crossing: Wild World",
+    "release_year": "2005",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 991,
+    "answer": "Dead Island: Riptide",
+    "release_year": "2013",
+    "developer": "Techland"
+  },
+  {
+    "puzzle_num": 992,
+    "answer": "Layers of Fear",
+    "release_year": "2016",
+    "developer": "Bloober Team"
+  },
+  {
+    "puzzle_num": 993,
+    "answer": "Super Mario World",
+    "release_year": "1990",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 994,
+    "answer": "Lumines Remastered",
+    "release_year": "2018",
+    "developer": "Enhance Games"
+  },
+  {
+    "puzzle_num": 995,
+    "answer": "Deadly Premonition",
+    "release_year": "2010",
+    "developer": "Access Games"
+  },
+  {
+    "puzzle_num": 996,
+    "answer": "Soulcalibur VI",
+    "release_year": "2018",
+    "developer": "Bandai Namco Studios"
+  },
+  {
+    "puzzle_num": 997,
+    "answer": "Planescape: Torment",
+    "release_year": "1999",
+    "developer": "Black Isle Studios"
+  },
+  {
+    "puzzle_num": 998,
+    "answer": "Dragon's Dogma",
+    "release_year": "2012",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 999,
+    "answer": "Final Fantasy X",
+    "release_year": "2001",
+    "developer": "Square Product Development Division 1"
+  },
+  {
+    "puzzle_num": 1000,
+    "answer": "Half-Life 2: Episode Two",
+    "release_year": "2007",
+    "developer": "Valve"
+  },
+  {
+    "puzzle_num": 1001,
+    "answer": "Planet Crafter",
+    "release_year": "2022",
+    "developer": "Miju Games"
+  },
+  {
+    "puzzle_num": 1002,
+    "answer": "Nihilumbra",
+    "release_year": "2012",
+    "developer": "BeautiFun Games SL"
+  },
+  {
+    "puzzle_num": 1003,
+    "answer": "Miitopia",
+    "release_year": "2016",
+    "developer": "Nintendo EPD"
+  },
+  {
+    "puzzle_num": 1004,
+    "answer": "Spiral Knights",
+    "release_year": "2011",
+    "developer": "Three Rings Design, Inc."
+  },
+  {
+    "puzzle_num": 1005,
+    "answer": "RiME",
+    "release_year": "2017",
+    "developer": "Tequila Works, S.L."
+  },
+  {
+    "puzzle_num": 1006,
+    "answer": "Vigilante 8",
+    "release_year": "1998",
+    "developer": "Luxoflux Corp."
+  },
+  {
+    "puzzle_num": 1007,
+    "answer": "Princess Peach: Showtime!",
+    "release_year": "2024",
+    "developer": "Good-Feel Co., Ltd."
+  },
+  {
+    "puzzle_num": 1008,
+    "answer": "Mister Mosquito",
+    "release_year": "2001",
+    "developer": "Zoom Inc."
+  },
+  {
+    "puzzle_num": 1009,
+    "answer": "Indivisible",
+    "release_year": "2019",
+    "developer": "Lab Zero Games"
+  },
+  {
+    "puzzle_num": 1010,
+    "answer": "Dragon Ball FighterZ",
+    "release_year": "2018",
+    "developer": "Arc System Works Co., Ltd."
+  },
+  {
+    "puzzle_num": 1011,
+    "answer": "Tales of Kenzera: Zau",
+    "release_year": "2024",
+    "developer": "Surgent Studios"
+  },
+  {
+    "puzzle_num": 1012,
+    "answer": "V Rising",
+    "release_year": "2022",
+    "developer": "Stunlock Studios AB"
+  },
+  {
+    "puzzle_num": 1013,
+    "answer": "Gitaroo Man",
+    "release_year": "2001 (Japan), 2002 (NA & Europe release)",
+    "developer": "iNiS corporation"
+  },
+  {
+    "puzzle_num": 1014,
+    "answer": "Baldur's Gate 3",
+    "release_year": "2020 (Early Access), 2023",
+    "developer": "Larian Studios NV"
+  },
+  {
+    "puzzle_num": 1015,
+    "answer": "Enshrouded",
+    "release_year": "2024 (Early Access)",
+    "developer": "keen games GmbH & Co. KG"
+  },
+  {
+    "puzzle_num": 1016,
+    "answer": "Dishonored: Death of the Outsider",
+    "release_year": "2017",
+    "developer": "Arkane Lyon"
+  },
+  {
+    "puzzle_num": 1017,
+    "answer": "Assassin's Creed Origins",
+    "release_year": "2017",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 1018,
+    "answer": "Call of Duty: Black Ops Cold War",
+    "release_year": "2020",
+    "developer": "Treyarch, Raven Software"
+  },
+  {
+    "puzzle_num": 1019,
+    "answer": "Professor Layton and the Unwound Future",
+    "release_year": "2008",
+    "developer": "Level-5"
+  },
+  {
+    "puzzle_num": 1020,
+    "answer": "Jet Set Radio Future",
+    "release_year": "2002",
+    "developer": "Smilebit"
+  },
+  {
+    "puzzle_num": 1021,
+    "answer": "The Legend of Zelda: A Link Between Worlds",
+    "release_year": "2013",
+    "developer": "Nintendo EAD."
+  },
+  {
+    "puzzle_num": 1022,
+    "answer": "Halo Infinite",
+    "release_year": "2021",
+    "developer": "343 Industries"
+  },
+  {
+    "puzzle_num": 1023,
+    "answer": "Shenmue",
+    "release_year": "1999",
+    "developer": "AM2 of CRI"
+  },
+  {
+    "puzzle_num": 1024,
+    "answer": "Fahrenheit",
+    "release_year": "2005",
+    "developer": "Quantic Dream"
+  },
+  {
+    "puzzle_num": 1025,
+    "answer": "Subnautica: Below Zero",
+    "release_year": "2021",
+    "developer": "Unknown Worlds Entertainment"
+  },
+  {
+    "puzzle_num": 1026,
+    "answer": "Mario Tennis Aces",
+    "release_year": "2018",
+    "developer": "Camelot Software Planning, Nintendo EPD"
+  },
+  {
+    "puzzle_num": 1027,
+    "answer": "Banjo-Kazooie: Nuts & Bolts",
+    "release_year": "2008",
+    "developer": "Rare."
+  },
+  {
+    "puzzle_num": 1028,
+    "answer": "Super Mario Bros. 2",
+    "release_year": "1988",
+    "developer": "Nintendo R&D4."
+  },
+  {
+    "puzzle_num": 1029,
+    "answer": "The Casting of Frank Stone",
+    "release_year": "2024",
+    "developer": "Supermassive Games Ltd."
+  },
+  {
+    "puzzle_num": 1030,
+    "answer": "Indiana Jones and the Fate of Atlantis",
+    "release_year": "1992",
+    "developer": "Lucasfilm Games LLC"
+  },
+  {
+    "puzzle_num": 1031,
+    "answer": "Final Fantasy VII: Rebirth",
+    "release_year": "2024",
+    "developer": "Square Enix Creative Business Unit I"
+  },
+  {
+    "puzzle_num": 1032,
+    "answer": "Etrian Odyssey",
+    "release_year": "2007",
+    "developer": "Atlus Co., Ltd."
+  },
+  {
+    "puzzle_num": 1033,
+    "answer": "Little Nightmares II",
+    "release_year": "2021",
+    "developer": "Tarsier Studios AB"
+  },
+  {
+    "puzzle_num": 1034,
+    "answer": "Hexen: Beyond Heretic",
+    "release_year": "1995",
+    "developer": "Raven Software Corporation"
+  },
+  {
+    "puzzle_num": 1035,
+    "answer": "Mario & Luigi: Superstar Saga",
+    "release_year": "2003",
+    "developer": "AlphaDream Corporation, Ltd."
+  },
+  {
+    "puzzle_num": 1036,
+    "answer": "Conscript",
+    "release_year": "2024",
+    "developer": "Catchweight Studio Pty Ltd."
+  },
+  {
+    "puzzle_num": 1037,
+    "answer": "Slave Zero X",
+    "release_year": "2024",
+    "developer": "Poppy Works"
+  },
+  {
+    "puzzle_num": 1038,
+    "answer": "Tom Clancy's Ghost Recon: Wildlands",
+    "release_year": "2017",
+    "developer": "Ubisoft Paris Studios SARL"
+  },
+  {
+    "puzzle_num": 1039,
+    "answer": "Asgard's Wrath II",
+    "release_year": "2023",
+    "developer": "Sanzaru Games Inc."
+  },
+  {
+    "puzzle_num": 1040,
+    "answer": "Zone of the Enders: The 2nd Runner",
+    "release_year": "2003",
+    "developer": "Konami Computer Entertainment Japan, Inc."
+  },
+  {
+    "puzzle_num": 1041,
+    "answer": "Fatal Frame III: The Tormented",
+    "release_year": "2005",
+    "developer": "Tecmo, Ltd."
+  },
+  {
+    "puzzle_num": 1042,
+    "answer": "Warhammer 40,000: Space Marine II",
+    "release_year": "2024",
+    "developer": "Saber Interactive Russia"
+  },
+  {
+    "puzzle_num": 1043,
+    "answer": "Trine",
+    "release_year": "2009",
+    "developer": "Frozenbyte"
+  },
+  {
+    "puzzle_num": 1044,
+    "answer": "Oddworld: Abe's Exoddus",
+    "release_year": "1998",
+    "developer": "Oddworld Inhabitants"
+  },
+  {
+    "puzzle_num": 1045,
+    "answer": "Metroid",
+    "release_year": "1986",
+    "developer": "Nintendo R&D1"
+  },
+  {
+    "puzzle_num": 1046,
+    "answer": "Mount & Blade: Warband",
+    "release_year": "2010",
+    "developer": "TaleWorlds Entertainment"
+  },
+  {
+    "puzzle_num": 1047,
+    "answer": "The Mosaic",
+    "release_year": "2019",
+    "developer": "Krillbite Studio AS"
+  },
+  {
+    "puzzle_num": 1048,
+    "answer": "Far Cry Primal",
+    "release_year": "2016",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 1049,
+    "answer": "Resident Evil 5",
+    "release_year": "2009",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1050,
+    "answer": "DEFCON",
+    "release_year": "2006",
+    "developer": "Introversion Software"
+  },
+  {
+    "puzzle_num": 1051,
+    "answer": "Donut County",
+    "release_year": "2018",
+    "developer": "Ben Esposito"
+  },
+  {
+    "puzzle_num": 1052,
+    "answer": "Gears of War 3",
+    "release_year": "2011",
+    "developer": "Epic Games"
+  },
+  {
+    "puzzle_num": 1053,
+    "answer": "Kingdom Hearts 3",
+    "release_year": "2019",
+    "developer": "Square Enix Business Division 3"
+  },
+  {
+    "puzzle_num": 1054,
+    "answer": "Overlord II",
+    "release_year": "2009",
+    "developer": "Triumph Studios"
+  },
+  {
+    "puzzle_num": 1055,
+    "answer": "Chrono Cross",
+    "release_year": "1999",
+    "developer": "Square"
+  },
+  {
+    "puzzle_num": 1056,
+    "answer": "Call of Duty: Black Ops II",
+    "release_year": "2012",
+    "developer": "Treyarch"
+  },
+  {
+    "puzzle_num": 1057,
+    "answer": "Backyard Baseball '97",
+    "release_year": "1997",
+    "developer": "Humongous Entertainment, Inc., Mega Cat Studios, Inc."
+  },
+  {
+    "puzzle_num": 1058,
+    "answer": "Knack",
+    "release_year": "2013",
+    "developer": "Sony Computer Entertainment Japan"
+  },
+  {
+    "puzzle_num": 1059,
+    "answer": "Metaphor: ReFantazio",
+    "release_year": "2024",
+    "developer": "Atlus Co., Ltd."
+  },
+  {
+    "puzzle_num": 1060,
+    "answer": "BlazBlue: Continuum Shift",
+    "release_year": "2009 (JP), 2010",
+    "developer": "Arc System Works Co., Ltd."
+  },
+  {
+    "puzzle_num": 1061,
+    "answer": "428: Shibuya Scramble",
+    "release_year": "2008",
+    "developer": "Chunsoft Co., Ltd."
+  },
+  {
+    "puzzle_num": 1062,
+    "answer": "Ogre Battle",
+    "release_year": "1993",
+    "developer": "Quest Corporation"
+  },
+  {
+    "puzzle_num": 1063,
+    "answer": "Dragon Age: The Veilguard",
+    "release_year": "2024",
+    "developer": "BioWare Edmonton"
+  },
+  {
+    "puzzle_num": 1064,
+    "answer": "Defender of the Crown",
+    "release_year": "1986",
+    "developer": "Master Designer Software, Inc."
+  },
+  {
+    "puzzle_num": 1065,
+    "answer": "Tactical Breach Wizards",
+    "release_year": "2024",
+    "developer": "Suspicious Developments Ltd."
+  },
+  {
+    "puzzle_num": 1066,
+    "answer": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "release_year": "2024",
+    "developer": "GSC Game World"
+  },
+  {
+    "puzzle_num": 1067,
+    "answer": "Remember Me",
+    "release_year": "2013",
+    "developer": "DON'T NOD Entertainment SARL"
+  },
+  {
+    "puzzle_num": 1068,
+    "answer": "Potionomics",
+    "release_year": "2022",
+    "developer": "Voracious Games"
+  },
+  {
+    "puzzle_num": 1069,
+    "answer": "R-Type",
+    "release_year": "1987",
+    "developer": "Irem Corp."
+  },
+  {
+    "puzzle_num": 1070,
+    "answer": "Rabbids Go Home",
+    "release_year": "2009",
+    "developer": "Ubisoft Pictures SAS"
+  },
+  {
+    "puzzle_num": 1071,
+    "answer": "minit",
+    "release_year": "2018",
+    "developer": "JW, Kitty, Jukio, Dom"
+  },
+  {
+    "puzzle_num": 1072,
+    "answer": "Eternal Darkness",
+    "release_year": "2002",
+    "developer": "Silicon Knights"
+  },
+  {
+    "puzzle_num": 1073,
+    "answer": "R.E.P.O",
+    "release_year": "2025 (Early Access)",
+    "developer": "Semiwork"
+  },
+  {
+    "puzzle_num": 1074,
+    "answer": "Brothers in Arms: Hell's Highway",
+    "release_year": "2008",
+    "developer": "Gearbox Software"
+  },
+  {
+    "puzzle_num": 1075,
+    "answer": "Tacoma",
+    "release_year": "2017",
+    "developer": "Fullbright"
+  },
+  {
+    "puzzle_num": 1076,
+    "answer": "Ikaruga",
+    "release_year": "2001",
+    "developer": "Treasure"
+  },
+  {
+    "puzzle_num": 1077,
+    "answer": "F.E.A.R. 3",
+    "release_year": "2011",
+    "developer": "Day 1 Studios"
+  },
+  {
+    "puzzle_num": 1078,
+    "answer": "Thank Goodness You're Here!",
+    "release_year": "2024",
+    "developer": "Coal Supper"
+  },
+  {
+    "puzzle_num": 1079,
+    "answer": "Shadow Hearts",
+    "release_year": "2001",
+    "developer": "Sacnoth"
+  },
+  {
+    "puzzle_num": 1080,
+    "answer": "Yakuza 3",
+    "release_year": "2009",
+    "developer": "Sega CS1 R&D"
+  },
+  {
+    "puzzle_num": 1081,
+    "answer": "Immortality",
+    "release_year": "2022",
+    "developer": "Sam Barlow"
+  },
+  {
+    "puzzle_num": 1082,
+    "answer": "Red Steel 2",
+    "release_year": "2010",
+    "developer": "Ubisoft Paris"
+  },
+  {
+    "puzzle_num": 1083,
+    "answer": "DuckTales",
+    "release_year": "1989",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1084,
+    "answer": "Twisted Metal: Black",
+    "release_year": "2001",
+    "developer": "Incog Inc. Entertainment"
+  },
+  {
+    "puzzle_num": 1085,
+    "answer": "Façade",
+    "release_year": "2005",
+    "developer": "Procedural Arts LLC"
+  },
+  {
+    "puzzle_num": 1086,
+    "answer": "Devil's Third",
+    "release_year": "2015",
+    "developer": "Valhalla Game Studios, Nintendo SPD"
+  },
+  {
+    "puzzle_num": 1087,
+    "answer": "The Legend of Zelda: Echoes of Wisdom",
+    "release_year": "2024",
+    "developer": "Nintendo EPD, Grezzo Co., Ltd."
+  },
+  {
+    "puzzle_num": 1088,
+    "answer": "Dragon Quest Builders 2",
+    "release_year": "Japan 2018, Worldwide 2019",
+    "developer": "Omega Force, Koei Tecmo Games Co., Ltd., Square Enix Co., Ltd."
+  },
+  {
+    "puzzle_num": 1089,
+    "answer": "Poppy Playtime",
+    "release_year": "2021",
+    "developer": "MOB Games"
+  },
+  {
+    "puzzle_num": 1090,
+    "answer": "OutRun 2006: Coast 2 Coast",
+    "release_year": "2006",
+    "developer": "Sumo Digital Ltd (Sheffield), SEGA-AM2 Co., LTD."
+  },
+  {
+    "puzzle_num": 1091,
+    "answer": "Metal Slug Tactics",
+    "release_year": "2024",
+    "developer": "Leikir Studio SARL"
+  },
+  {
+    "puzzle_num": 1092,
+    "answer": "Endless Legend",
+    "release_year": "2014",
+    "developer": "Amplitude Studios SAS"
+  },
+  {
+    "puzzle_num": 1093,
+    "answer": "Odama",
+    "release_year": "2006",
+    "developer": "VIVARIUM Inc., StudioFAKE Co., Ltd."
+  },
+  {
+    "puzzle_num": 1094,
+    "answer": "Zoo Tycoon",
+    "release_year": "2001",
+    "developer": "Blue Fang Games, LLC"
+  },
+  {
+    "puzzle_num": 1095,
+    "answer": "Axiom Verge",
+    "release_year": "2015",
+    "developer": "Thomas Happ Games LLC"
+  },
+  {
+    "puzzle_num": 1096,
+    "answer": "SOCOM II: U.S. Navy SEALs",
+    "release_year": "2003",
+    "developer": "Zipper Interactive, Inc."
+  },
+  {
+    "puzzle_num": 1097,
+    "answer": "Final Fantasy XVI",
+    "release_year": "2023",
+    "developer": "Square Enix Creative Business Unit III"
+  },
+  {
+    "puzzle_num": 1098,
+    "answer": "LEGO Horizon Adventures",
+    "release_year": "2024",
+    "developer": "Studio Gobo Ltd., Guerrilla B.V."
+  },
+  {
+    "puzzle_num": 1099,
+    "answer": "pyre",
+    "release_year": "2017",
+    "developer": "Supergiant Games"
+  },
+  {
+    "puzzle_num": 1100,
+    "answer": "Earthworm Jim 2",
+    "release_year": "1995",
+    "developer": "Shiny Entertainment"
+  },
+  {
+    "puzzle_num": 1101,
+    "answer": "Doom 3",
+    "release_year": "2004",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 1102,
+    "answer": "Tales of Vesperia",
+    "release_year": "2008",
+    "developer": "Namco Tales Studio"
+  },
+  {
+    "puzzle_num": 1103,
+    "answer": "Deus Ex: Mankind Divided",
+    "release_year": "2016",
+    "developer": "Eidos-Montréal"
+  },
+  {
+    "puzzle_num": 1104,
+    "answer": "Sonic the Hedgehog 3",
+    "release_year": "1994",
+    "developer": "Sega Technical Institute"
+  },
+  {
+    "puzzle_num": 1105,
+    "answer": "God of War: Ascension",
+    "release_year": "2013",
+    "developer": "Santa Monica Studio"
+  },
+  {
+    "puzzle_num": 1106,
+    "answer": "The Forever Winter",
+    "release_year": "2024 (Early Access)",
+    "developer": "Fun Dog Studios"
+  },
+  {
+    "puzzle_num": 1107,
+    "answer": "Vampire: The Masquerade – Bloodlines",
+    "release_year": "2004",
+    "developer": "Troika Games"
+  },
+  {
+    "puzzle_num": 1108,
+    "answer": "Yakuza 6: The Song of Life",
+    "release_year": "2016",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  {
+    "puzzle_num": 1109,
+    "answer": "S.T.A.L.K.E.R.: Clear Sky",
+    "release_year": "2008",
+    "developer": "GSC Game World"
+  },
+  {
+    "puzzle_num": 1110,
+    "answer": "Singularity",
+    "release_year": "2010",
+    "developer": "Raven Software"
+  },
+  {
+    "puzzle_num": 1111,
+    "answer": "The Legend of Dragoon",
+    "release_year": "1999",
+    "developer": "Sony Computer Entertainment Japan"
+  },
+  {
+    "puzzle_num": 1112,
+    "answer": "Crash Team Racing",
+    "release_year": "1999",
+    "developer": "Naughty Dog"
+  },
+  {
+    "puzzle_num": 1113,
+    "answer": "MTV's Beavis and Butt-Head in Virtual Stupidity",
+    "release_year": "1995",
+    "developer": "Viacom New Media"
+  },
+  {
+    "puzzle_num": 1114,
+    "answer": "Ultros",
+    "release_year": "2024",
+    "developer": "Hadoque"
+  },
+  {
+    "puzzle_num": 1115,
+    "answer": "Mortal Kombat X",
+    "release_year": "2015",
+    "developer": "NetherRealm Studios"
+  },
+  {
+    "puzzle_num": 1116,
+    "answer": "The Legend of Heroes: Trails from Zero",
+    "release_year": "2010",
+    "developer": "Nihon Falcom Corp."
+  },
+  {
+    "puzzle_num": 1117,
+    "answer": "Atomfall",
+    "release_year": "2025",
+    "developer": "Rebellion Developments Ltd."
+  },
+  {
+    "puzzle_num": 1118,
+    "answer": "Commander Keen: Invasion of the Vorticons",
+    "release_year": "1991",
+    "developer": "Ideas from the Deep"
+  },
+  {
+    "puzzle_num": 1119,
+    "answer": "Paper Mario: The Thousand-Year Door",
+    "release_year": "2024 (Re-Release)",
+    "developer": "Intelligent Systems Co., Ltd."
+  },
+  {
+    "puzzle_num": 1120,
+    "answer": "Black & White 2",
+    "release_year": "2005",
+    "developer": "Lionhead Studios Ltd."
+  },
+  {
+    "puzzle_num": 1121,
+    "answer": "Lil' Guardsman",
+    "release_year": "2024",
+    "developer": "Hilltop Studios"
+  },
+  {
+    "puzzle_num": 1122,
+    "answer": "Street Fighter",
+    "release_year": "1987",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 1123,
+    "answer": "Saints Row 2",
+    "release_year": "2008",
+    "developer": "Volition, Inc."
+  },
+  {
+    "puzzle_num": 1124,
+    "answer": "Graveyard Keeper",
+    "release_year": "2018",
+    "developer": "Lazy Bear Games"
+  },
+  {
+    "puzzle_num": 1125,
+    "answer": "Brave Fencer Musashi",
+    "release_year": "1998",
+    "developer": "Square Co., Ltd."
+  },
+  {
+    "puzzle_num": 1126,
+    "answer": "Dynasty Warriors: Origins",
+    "release_year": "2025",
+    "developer": "Omega Force"
+  },
+  {
+    "puzzle_num": 1127,
+    "answer": "Jusant",
+    "release_year": "2023",
+    "developer": "Don't Nod"
+  },
+  {
+    "puzzle_num": 1128,
+    "answer": "Binary Domain",
+    "release_year": "2012",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  {
+    "puzzle_num": 1129,
+    "answer": "The Evil Within",
+    "release_year": "2014",
+    "developer": "Tango Gameworks"
+  },
+  {
+    "puzzle_num": 1130,
+    "answer": "Dark Sector",
+    "release_year": "2008",
+    "developer": "Digital Extremes"
+  },
+  {
+    "puzzle_num": 1131,
+    "answer": "Child of Eden",
+    "release_year": "2011",
+    "developer": "Q Entertainment"
+  },
+  {
+    "puzzle_num": 1132,
+    "answer": "Darkstalkers 3",
+    "release_year": "1997",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1133,
+    "answer": "Watch Dogs",
+    "release_year": "2014",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 1134,
+    "answer": "Viewfinder",
+    "release_year": "2023",
+    "developer": "Sad Owl Studios"
+  },
+  {
+    "puzzle_num": 1135,
+    "answer": "Killer is Dead",
+    "release_year": "2013",
+    "developer": "Grasshopper Manufacture"
+  },
+  {
+    "puzzle_num": 1136,
+    "answer": "Just Cause 3",
+    "release_year": "2015",
+    "developer": "Avalanche Studios"
+  },
+  {
+    "puzzle_num": 1137,
+    "answer": "Xenoblade Chronicles 3",
+    "release_year": "2022",
+    "developer": "Monolith Soft"
+  },
+  {
+    "puzzle_num": 1138,
+    "answer": "Enslaved: Odyssey to the West",
+    "release_year": "2010",
+    "developer": "Ninja Theory"
+  },
+  {
+    "puzzle_num": 1139,
+    "answer": "Marvel vs. Capcom 2: New Age of Heroes",
+    "release_year": "2000",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1140,
+    "answer": "Mad Max",
+    "release_year": "2015",
+    "developer": "Avalanche Studios."
+  },
+  {
+    "puzzle_num": 1141,
+    "answer": "MechWarrior",
+    "release_year": "1989",
+    "developer": "Dynamix, Inc."
+  },
+  {
+    "puzzle_num": 1142,
+    "answer": "Wildermyth",
+    "release_year": "2019",
+    "developer": "Worldwalker Games LLC"
+  },
+  {
+    "puzzle_num": 1143,
+    "answer": "Cooking Mama 2: Dinner with Friends",
+    "release_year": "2007",
+    "developer": "Office Create Co.,Ltd."
+  },
+  {
+    "puzzle_num": 1144,
+    "answer": "Sifu",
+    "release_year": "2022",
+    "developer": "Sloclap SAS"
+  },
+  {
+    "puzzle_num": 1145,
+    "answer": "Neva",
+    "release_year": "2024",
+    "developer": "Nomada Studio"
+  },
+  {
+    "puzzle_num": 1146,
+    "answer": "Zombies Ate My Neighbors",
+    "release_year": "1993",
+    "developer": "LucasArts"
+  },
+  {
+    "puzzle_num": 1147,
+    "answer": "Warcraft III: Reign of Chaos",
+    "release_year": "2002",
+    "developer": "Blizzard Entertainment Inc."
+  },
+  {
+    "puzzle_num": 1148,
+    "answer": "Tenchu: Wrath of Heaven",
+    "release_year": "2003",
+    "developer": "K2 LLC"
+  },
+  {
+    "puzzle_num": 1149,
+    "answer": "Redacted",
+    "release_year": "2024",
+    "developer": "Striking Distance Studios, Inc."
+  },
+  {
+    "puzzle_num": 1150,
+    "answer": "Monster Hunter: Wilds",
+    "release_year": "2025",
+    "developer": "Capcom Co., Ltd."
+  },
+  {
+    "puzzle_num": 1151,
+    "answer": "Danganronpa: Trigger Happy Havoc",
+    "release_year": "2014",
+    "developer": "Spike Chunsoft Co., Ltd."
+  },
+  {
+    "puzzle_num": 1152,
+    "answer": "Donkey Kong Country Returns",
+    "release_year": "2010",
+    "developer": "Retro Studios Inc."
+  },
+  {
+    "puzzle_num": 1153,
+    "answer": "Star Wars: TIE Fighter",
+    "release_year": "1994",
+    "developer": "LucasArts Entertainment Company LLC"
+  },
+  {
+    "puzzle_num": 1154,
+    "answer": "Fortnite",
+    "release_year": "2017",
+    "developer": "Epic Games, Inc., People Can Fly, Sp. z o.o."
+  },
+  {
+    "puzzle_num": 1155,
+    "answer": "Humanity",
+    "release_year": "2023",
+    "developer": "tha LTD."
+  },
+  {
+    "puzzle_num": 1156,
+    "answer": "Shadows of the Damned",
+    "release_year": "2011",
+    "developer": "Grasshopper Manufacture"
+  },
+  {
+    "puzzle_num": 1157,
+    "answer": "Rage 2",
+    "release_year": "2019",
+    "developer": "Avalanche Studios, id Software"
+  },
+  {
+    "puzzle_num": 1158,
+    "answer": "ELEX",
+    "release_year": "2017",
+    "developer": "Piranha Bytes"
+  },
+  {
+    "puzzle_num": 1159,
+    "answer": "Citizen Sleeper",
+    "release_year": "2022",
+    "developer": "Jump Over the Age"
+  },
+  {
+    "puzzle_num": 1160,
+    "answer": "Onimusha: Warlords",
+    "release_year": "2001",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1161,
+    "answer": "Tekken 7",
+    "release_year": "2015",
+    "developer": "Bandai Namco Studios"
+  },
+  {
+    "puzzle_num": 1162,
+    "answer": "Cassette Beasts",
+    "release_year": "2023",
+    "developer": "Bytten Studio"
+  },
+  {
+    "puzzle_num": 1163,
+    "answer": "God Hand",
+    "release_year": "2006",
+    "developer": "Clover Studio"
+  },
+  {
+    "puzzle_num": 1164,
+    "answer": "Mario Kart 8",
+    "release_year": "2014",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 1165,
+    "answer": "Kingdoms of Amalur: Reckoning",
+    "release_year": "2012",
+    "developer": "Big Huge Games"
+  },
+  {
+    "puzzle_num": 1166,
+    "answer": "Trek to Yomi",
+    "release_year": "2022",
+    "developer": "Flying Wild Hog"
+  },
+  {
+    "puzzle_num": 1167,
+    "answer": "Suikoden II",
+    "release_year": "1998",
+    "developer": "Konami Computer Entertainment Tokyo"
+  },
+  {
+    "puzzle_num": 1168,
+    "answer": "Tom Clancy's The Division",
+    "release_year": "2016",
+    "developer": "Massive Entertainment"
+  },
+  {
+    "puzzle_num": 1169,
+    "answer": "Beacon Pines",
+    "release_year": "2022",
+    "developer": "Hiding Spot LLC"
+  },
+  {
+    "puzzle_num": 1170,
+    "answer": "The Matrix: Path of Neo",
+    "release_year": "2005",
+    "developer": "Shiny Entertainment, Inc."
+  },
+  {
+    "puzzle_num": 1171,
+    "answer": "Clair Obscur: Expedition 33",
+    "release_year": "2025",
+    "developer": "Sandfall SAS"
+  },
+  {
+    "puzzle_num": 1172,
+    "answer": "Chibi-Robo! Plug into Adventure!",
+    "release_year": "2005",
+    "developer": "Skip, Ltd."
+  },
+  {
+    "puzzle_num": 1173,
+    "answer": "Yoshi's Woolly World",
+    "release_year": "2015",
+    "developer": "Good-Feel Co., Ltd."
+  },
+  {
+    "puzzle_num": 1174,
+    "answer": "Aliens Versus Predator 2",
+    "release_year": "2001",
+    "developer": "Monolith Productions, Inc."
+  },
+  {
+    "puzzle_num": 1175,
+    "answer": "Peak",
+    "release_year": "2025",
+    "developer": "Landcrab"
+  },
+  {
+    "puzzle_num": 1176,
+    "answer": "Enter the Gungeon",
+    "release_year": "2016",
+    "developer": "Dodge Roll"
+  },
+  {
+    "puzzle_num": 1177,
+    "answer": "Star Fox Adventures",
+    "release_year": "2002",
+    "developer": "Rare Limited"
+  },
+  {
+    "puzzle_num": 1178,
+    "answer": "Split Fiction",
+    "release_year": "2025",
+    "developer": "Hazelight Studios AB"
+  },
+  {
+    "puzzle_num": 1179,
+    "answer": "Army of Two",
+    "release_year": "2008",
+    "developer": "Electronic Arts Montreal"
+  },
+  {
+    "puzzle_num": 1180,
+    "answer": "Pokémon Super Mystery Dungeon",
+    "release_year": "2015",
+    "developer": "Spike Chunsoft Co., Ltd."
+  },
+  {
+    "puzzle_num": 1181,
+    "answer": "Shadow Man",
+    "release_year": "1999",
+    "developer": "Acclaim Studios Teesside"
+  },
+  {
+    "puzzle_num": 1182,
+    "answer": "Red Steel",
+    "release_year": "2006",
+    "developer": "Ubisoft Paris Studios SARL"
+  },
+  {
+    "puzzle_num": 1183,
+    "answer": "Bomb Rush Cyberfunk",
+    "release_year": "2023",
+    "developer": "Team Reptile"
+  },
+  {
+    "puzzle_num": 1184,
+    "answer": "Asura's Wrath",
+    "release_year": "2012",
+    "developer": "CyberConnect2"
+  },
+  {
+    "puzzle_num": 1185,
+    "answer": "FIFA 23",
+    "release_year": "2022",
+    "developer": "EA Vancouver, EA Romania"
+  },
+  {
+    "puzzle_num": 1186,
+    "answer": "Quake III Arena",
+    "release_year": "1999",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 1187,
+    "answer": "Puppeteer",
+    "release_year": "2013",
+    "developer": "Japan Studio"
+  },
+  {
+    "puzzle_num": 1188,
+    "answer": "Vib-Ribbon",
+    "release_year": "1999",
+    "developer": "NanaOn-Sha"
+  },
+  {
+    "puzzle_num": 1189,
+    "answer": "Just Cause 2",
+    "release_year": "2010",
+    "developer": "Avalanche Studios"
+  },
+  {
+    "puzzle_num": 1190,
+    "answer": "Rollerdrome",
+    "release_year": "2022",
+    "developer": "Roll7"
+  },
+  {
+    "puzzle_num": 1191,
+    "answer": "Folklore",
+    "release_year": "2007",
+    "developer": "Game Republic"
+  },
+  {
+    "puzzle_num": 1192,
+    "answer": "Saints Row IV",
+    "release_year": "2013",
+    "developer": "Volition"
+  },
+  {
+    "puzzle_num": 1193,
+    "answer": "Murdered: Soul Suspect",
+    "release_year": "2014",
+    "developer": "Airtight Games, Square Enix Business Division 4"
+  },
+  {
+    "puzzle_num": 1194,
+    "answer": "Lost Judgment",
+    "release_year": "2021",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  {
+    "puzzle_num": 1195,
+    "answer": "Bushido Blade",
+    "release_year": "1997",
+    "developer": "Lightweight"
+  },
+  {
+    "puzzle_num": 1196,
+    "answer": "Crysis 2",
+    "release_year": "2011",
+    "developer": "Crytek"
+  },
+  {
+    "puzzle_num": 1197,
+    "answer": "Ultimate Spider-Man",
+    "release_year": "2005",
+    "developer": "Treyarch, Vicarious Visions, Mforma"
+  },
+  {
+    "puzzle_num": 1198,
+    "answer": "Kinect Sports",
+    "release_year": "2010",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 1199,
+    "answer": "Cuphead",
+    "release_year": "2017",
+    "developer": "Studio MDHR"
+  },
+  {
+    "puzzle_num": 1200,
+    "answer": "Still Wakes the Deep",
+    "release_year": "2024",
+    "developer": "The Chinese Room"
+  },
+  {
+    "puzzle_num": 1201,
+    "answer": "Tom Clancy's Splinter Cell: Double Agent",
+    "release_year": "2006",
+    "developer": "Ubisoft Milan, Ubisoft Shanghai"
+  },
+  {
+    "puzzle_num": 1202,
+    "answer": "Rayman",
+    "release_year": "1995",
+    "developer": "Ubi Pictures"
+  },
+  {
+    "puzzle_num": 1203,
+    "answer": "Paper Mario: Color Splash",
+    "release_year": "2016",
+    "developer": "Intelligent Systems"
+  },
+  {
+    "puzzle_num": 1204,
+    "answer": "Billy Hatcher and the Giant Egg",
+    "release_year": "2003",
+    "developer": "Sonic Team"
+  },
+  {
+    "puzzle_num": 1205,
+    "answer": "Mouthwashing",
+    "release_year": "2024",
+    "developer": "Wrong Organ"
+  },
+  {
+    "puzzle_num": 1206,
+    "answer": "Grand Theft Auto 2",
+    "release_year": "1999",
+    "developer": "DMA Design"
+  },
+  {
+    "puzzle_num": 1207,
+    "answer": "NBA Jam",
+    "release_year": "2010",
+    "developer": "Electronic Arts Canada"
+  },
+  {
+    "puzzle_num": 1208,
+    "answer": "Ready or Not",
+    "release_year": "2023",
+    "developer": "VOID Interactive"
+  },
+  {
+    "puzzle_num": 1209,
+    "answer": "Lemmings 3D",
+    "release_year": "1995",
+    "developer": "Clockwork Games"
+  },
+  {
+    "puzzle_num": 1210,
+    "answer": "BioShock",
+    "release_year": "2007",
+    "developer": "2K Boston, 2K Australia"
+  },
+  {
+    "puzzle_num": 1211,
+    "answer": "Terra Nil",
+    "release_year": "2023",
+    "developer": "Free Lives"
+  },
+  {
+    "puzzle_num": 1212,
+    "answer": "3D Dot Game Heroes",
+    "release_year": "2009",
+    "developer": "Silicon Studio"
+  },
+  {
+    "puzzle_num": 1213,
+    "answer": "Medal of Honor",
+    "release_year": "1999",
+    "developer": "DreamWorks Interactive"
+  },
+  {
+    "puzzle_num": 1214,
+    "answer": "Contrast",
+    "release_year": "2013",
+    "developer": "Compulsion Games"
+  },
+  {
+    "puzzle_num": 1215,
+    "answer": "The Vanishing of Ethan Carter",
+    "release_year": "2014",
+    "developer": "The Astronauts"
+  },
+  {
+    "puzzle_num": 1216,
+    "answer": "Resident Evil Code: Veronica",
+    "release_year": "2000",
+    "developer": "Capcom Production Studio 4"
+  },
+  {
+    "puzzle_num": 1217,
+    "answer": "Prototype 2",
+    "release_year": "2012",
+    "developer": "Radical Entertainment"
+  },
+  {
+    "puzzle_num": 1218,
+    "answer": "SEASON: A Letter to the Future",
+    "release_year": "2023",
+    "developer": "Scavengers Studio"
+  },
+  {
+    "puzzle_num": 1219,
+    "answer": "El Shaddai: Ascension of the Metatron",
+    "release_year": "2011",
+    "developer": "Ignition Tokyo"
+  },
+  {
+    "puzzle_num": 1220,
+    "answer": "Max Payne 2: The Fall of Max Payne",
+    "release_year": "2003",
+    "developer": "Remedy Entertainment"
+  },
+  {
+    "puzzle_num": 1221,
+    "answer": "Bound by Flame",
+    "release_year": "2014",
+    "developer": "Spiders"
+  },
+  {
+    "puzzle_num": 1222,
+    "answer": "Lords of the Fallen",
+    "release_year": "2014",
+    "developer": "Deck13, CI Games"
+  },
+  {
+    "puzzle_num": 1223,
+    "answer": "Fear Effect",
+    "release_year": "2000",
+    "developer": "Kronos Digital Entertainment"
+  },
+  {
+    "puzzle_num": 1224,
+    "answer": "Dead Rising 2",
+    "release_year": "2010",
+    "developer": "Blue Castle Games"
+  },
+  {
+    "puzzle_num": 1225,
+    "answer": "SteamWorld Heist II",
+    "release_year": "2024",
+    "developer": "Thunderful Development"
+  },
+  {
+    "puzzle_num": 1226,
+    "answer": "Shantae",
+    "release_year": "2002",
+    "developer": "WayForward"
+  },
+  {
+    "puzzle_num": 1227,
+    "answer": "Death Stranding 2: On the Beach",
+    "release_year": "2025",
+    "developer": "Kojima Productions"
+  },
+  {
+    "puzzle_num": 1228,
+    "answer": "Spider-man 2",
+    "release_year": "2004",
+    "developer": "Treyarch"
+  },
+  {
+    "puzzle_num": 1229,
+    "answer": "Astro's Playroom",
+    "release_year": "2020",
+    "developer": "Japan Studio"
+  },
+  {
+    "puzzle_num": 1230,
+    "answer": "Spyro: Year of the Dragon",
+    "release_year": "2000",
+    "developer": "Insomniac Games"
+  },
+  {
+    "puzzle_num": 1231,
+    "answer": "Hitman 2",
+    "release_year": "2018",
+    "developer": "IO Interactive"
+  },
+  {
+    "puzzle_num": 1232,
+    "answer": "Titanic: Adventure Out of Time",
+    "release_year": "1996",
+    "developer": "CyberFlix"
+  },
+  {
+    "puzzle_num": 1233,
+    "answer": "Slay the Princess",
+    "release_year": "2023",
+    "developer": "Black Tabby Games"
+  },
+  {
+    "puzzle_num": 1234,
+    "answer": "Assassin's Creed: Shadows",
+    "release_year": "2025",
+    "developer": "Ubisoft Quebec"
+  },
+  {
+    "puzzle_num": 1235,
+    "answer": "Pokémon Red Version",
+    "release_year": "1996",
+    "developer": "Game Freak"
+  },
+  {
+    "puzzle_num": 1236,
+    "answer": "Batman: Arkham Asylum",
+    "release_year": "2009",
+    "developer": "Rocksteady Studios"
+  },
+  {
+    "puzzle_num": 1237,
+    "answer": "Syphon Filter 2",
+    "release_year": "2000",
+    "developer": "Eidetic"
+  },
+  {
+    "puzzle_num": 1238,
+    "answer": "Warhammer 40,000: Darktide",
+    "release_year": "2022",
+    "developer": "Fatshark"
+  },
+  {
+    "puzzle_num": 1239,
+    "answer": "Planet of Lana",
+    "release_year": "2023",
+    "developer": "Wishfully Studios"
+  },
+  {
+    "puzzle_num": 1240,
+    "answer": "Lost Odyssey",
+    "release_year": "2007",
+    "developer": "Mistwalker, Feelplus"
+  },
+  {
+    "puzzle_num": 1241,
+    "answer": "Resistance: Fall of Man",
+    "release_year": "2006",
+    "developer": "Insomniac Games"
+  },
+  {
+    "puzzle_num": 1242,
+    "answer": "Styx: Master of Shadows",
+    "release_year": "2014",
+    "developer": "Cyanide"
+  },
+  {
+    "puzzle_num": 1243,
+    "answer": "The Unfinished Swan",
+    "release_year": "2012",
+    "developer": "Giant Sparrow"
+  },
+  {
+    "puzzle_num": 1244,
+    "answer": "Parasite Eve",
+    "release_year": "1998",
+    "developer": "Square"
+  },
+  {
+    "puzzle_num": 1245,
+    "answer": "The Order: 1886",
+    "release_year": "2015",
+    "developer": "Ready at Dawn"
+  },
+  {
+    "puzzle_num": 1246,
+    "answer": "Afterimage",
+    "release_year": "2023",
+    "developer": "Aurogon Shanghai"
+  },
+  {
+    "puzzle_num": 1247,
+    "answer": "Majin and the Forsaken Kingdom",
+    "release_year": "2010",
+    "developer": "Game Republic"
+  },
+  {
+    "puzzle_num": 1248,
+    "answer": "Tom Clancy's Splinter Cell: Blacklist",
+    "release_year": "2013",
+    "developer": "Ubisoft Toronto"
+  },
+  {
+    "puzzle_num": 1249,
+    "answer": "The Technomancer",
+    "release_year": "2016",
+    "developer": "Spiders"
+  },
+  {
+    "puzzle_num": 1250,
+    "answer": "Rain",
+    "release_year": "2013",
+    "developer": "Acquire"
+  },
+  {
+    "puzzle_num": 1251,
+    "answer": "Frequency",
+    "release_year": "2001",
+    "developer": "Harmonix"
+  },
+  {
+    "puzzle_num": 1252,
+    "answer": "Killzone: Shadow Fall",
+    "release_year": "2013",
+    "developer": "Guerrilla Games"
+  },
+  {
+    "puzzle_num": 1253,
+    "answer": "Scarlet Nexus",
+    "release_year": "2021",
+    "developer": "Bandai Namco Studios, Tose"
+  },
+  {
+    "puzzle_num": 1254,
+    "answer": "Hello Neighbor",
+    "release_year": "2017",
+    "developer": "Dynamic Pixels"
+  },
+  {
+    "puzzle_num": 1255,
+    "answer": "Devil May Cry",
+    "release_year": "2001",
+    "developer": "Capcom Production Studio 4"
+  },
+  {
+    "puzzle_num": 1256,
+    "answer": "Cult of the Lamb",
+    "release_year": "2022",
+    "developer": "Massive Monster"
+  },
+  {
+    "puzzle_num": 1257,
+    "answer": "The Rise of the Golden Idol",
+    "release_year": "2024",
+    "developer": "Color Gray Games"
+  },
+  {
+    "puzzle_num": 1258,
+    "answer": "Command & Conquer",
+    "release_year": "1995",
+    "developer": "Westwood Studios, Inc."
+  },
+  {
+    "puzzle_num": 1259,
+    "answer": "Doom: The Dark Ages",
+    "release_year": "2025",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 1260,
+    "answer": "Vandal Hearts II",
+    "release_year": "1999",
+    "developer": "Konami Computer Entertainment Nagoya"
+  },
+  {
+    "puzzle_num": 1261,
+    "answer": "West of Loathing",
+    "release_year": "2017",
+    "developer": "Asymmetric Publications"
+  },
+  {
+    "puzzle_num": 1262,
+    "answer": "Silent Hill 3",
+    "release_year": "2003",
+    "developer": "Team Silent"
+  },
+  {
+    "puzzle_num": 1263,
+    "answer": "Lego City Undercover",
+    "release_year": "2013",
+    "developer": "TT Fusion"
+  },
+  {
+    "puzzle_num": 1264,
+    "answer": "New Super Mario Bros. 2",
+    "release_year": "2012",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 1265,
+    "answer": "Double Dragon",
+    "release_year": "1987",
+    "developer": "Technōs Japan"
+  },
+  {
+    "puzzle_num": 1266,
+    "answer": "Tekken 8",
+    "release_year": "2024",
+    "developer": "Bandai Namco Studios, Arika"
+  },
+  {
+    "puzzle_num": 1267,
+    "answer": "The Cat Lady",
+    "release_year": "2012",
+    "developer": "Harvester Games"
+  },
+  {
+    "puzzle_num": 1268,
+    "answer": "Doom",
+    "release_year": "2016",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 1269,
+    "answer": "The Quarry",
+    "release_year": "2022",
+    "developer": "Supermassive Games"
+  },
+  {
+    "puzzle_num": 1270,
+    "answer": "What Remains of Edith Finch",
+    "release_year": "2017",
+    "developer": "Giant Sparrow"
+  },
+  {
+    "puzzle_num": 1271,
+    "answer": "Bionic Commando",
+    "release_year": "1988",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1272,
+    "answer": "Hauntii",
+    "release_year": "2024",
+    "developer": "Moonloop Games"
+  },
+  {
+    "puzzle_num": 1273,
+    "answer": "Condemned: Criminal Origins",
+    "release_year": "2005",
+    "developer": "Monolith Productions"
+  },
+  {
+    "puzzle_num": 1274,
+    "answer": "Uncharted: Golden Abyss",
+    "release_year": "2011",
+    "developer": "Bend Studio"
+  },
+  {
+    "puzzle_num": 1275,
+    "answer": "Deus Ex: Human Revolution",
+    "release_year": "2011",
+    "developer": "Eidos-Montréal"
+  },
+  {
+    "puzzle_num": 1276,
+    "answer": "Dordogne",
+    "release_year": "2023",
+    "developer": "Un Je Ne Sais Quoi, Umanimation"
+  },
+  {
+    "puzzle_num": 1277,
+    "answer": "Ōkami",
+    "release_year": "2006",
+    "developer": "Clover Studio"
+  },
+  {
+    "puzzle_num": 1278,
+    "answer": "Alan Wake 2",
+    "release_year": "2023",
+    "developer": "Remedy Entertainment"
+  },
+  {
+    "puzzle_num": 1279,
+    "answer": "Alpha Protocol",
+    "release_year": "2010",
+    "developer": "Obsidian Entertainment"
+  },
+  {
+    "puzzle_num": 1280,
+    "answer": "Resident Evil 2",
+    "release_year": "1998",
+    "developer": "Capcom."
+  },
+  {
+    "puzzle_num": 1281,
+    "answer": "The Hundred Line: Last Defense Academy",
+    "release_year": "2025",
+    "developer": "Too Kyo Games, Media.Vision"
+  },
+  {
+    "puzzle_num": 1282,
+    "answer": "Custom Robo",
+    "release_year": "2004",
+    "developer": "Noise, Inc., StudioFAKE Co., Ltd."
+  },
+  {
+    "puzzle_num": 1283,
+    "answer": "Kingdom Come: Deliverance II",
+    "release_year": "2025",
+    "developer": "Warhorse Studios"
+  },
+  {
+    "puzzle_num": 1284,
+    "answer": "Plants vs. Zombies",
+    "release_year": "2009",
+    "developer": "PopCap Games"
+  },
+  {
+    "puzzle_num": 1285,
+    "answer": "Star Wars: The Old Republic",
+    "release_year": "2011",
+    "developer": "BioWare"
+  },
+  {
+    "puzzle_num": 1286,
+    "answer": "Tomb Raider: Chronicles",
+    "release_year": "2000",
+    "developer": "Core Design"
+  },
+  {
+    "puzzle_num": 1287,
+    "answer": "Path of Exile",
+    "release_year": "2013",
+    "developer": "Grinding Gear Games"
+  },
+  {
+    "puzzle_num": 1288,
+    "answer": "Fantasy Life i: The Girl Who Steals Time",
+    "release_year": "2025",
+    "developer": "Level-5 Osaka Office"
+  },
+  {
+    "puzzle_num": 1289,
+    "answer": "The Plucky Squire",
+    "release_year": "2024",
+    "developer": "All Possible Futures"
+  },
+  {
+    "puzzle_num": 1290,
+    "answer": "Crash Tag Team Racing",
+    "release_year": "2005",
+    "developer": "Radical Entertainment"
+  },
+  {
+    "puzzle_num": 1291,
+    "answer": "Syberia",
+    "release_year": "2002",
+    "developer": "Microïds"
+  },
+  {
+    "puzzle_num": 1292,
+    "answer": "Neon White",
+    "release_year": "2022",
+    "developer": "Angel Matrix"
+  },
+  {
+    "puzzle_num": 1293,
+    "answer": "Eternal Champions",
+    "release_year": "1993",
+    "developer": "Sega Interactive Development Division"
+  },
+  {
+    "puzzle_num": 1294,
+    "answer": "Shin Megami Tensei: Persona 3",
+    "release_year": "2006",
+    "developer": "Atlus"
+  },
+  {
+    "puzzle_num": 1295,
+    "answer": "BattleBlock Theater",
+    "release_year": "2013",
+    "developer": "The Behemoth, Big Timber Studio"
+  },
+  {
+    "puzzle_num": 1296,
+    "answer": "Resonance of Fate",
+    "release_year": "2010",
+    "developer": "tri-Ace"
+  },
+  {
+    "puzzle_num": 1297,
+    "answer": "Far Cry 5",
+    "release_year": "2018",
+    "developer": "Ubisoft Montreal, Ubisoft Toronto"
+  },
+  {
+    "puzzle_num": 1298,
+    "answer": "The Surge",
+    "release_year": "2017",
+    "developer": "Deck13 Interactive"
+  },
+  {
+    "puzzle_num": 1299,
+    "answer": "Kena: Bridge of Spirits",
+    "release_year": "2021",
+    "developer": "Ember Lab"
+  },
+  {
+    "puzzle_num": 1300,
+    "answer": "Star Wars: Battlefront II",
+    "release_year": "2005",
+    "developer": "Pandemic Studios"
+  },
+  {
+    "puzzle_num": 1301,
+    "answer": "Injustice: Gods Among Us",
+    "release_year": "2013",
+    "developer": "NetherRealm Studios"
+  },
+  {
+    "puzzle_num": 1302,
+    "answer": "Brotato",
+    "release_year": "2023",
+    "developer": "Thomas Gervraud, Evil Empire"
+  },
+  {
+    "puzzle_num": 1303,
+    "answer": "Alice: Madness Returns",
+    "release_year": "2011",
+    "developer": "Spicy Horse"
+  },
+  {
+    "puzzle_num": 1304,
+    "answer": "Wolfenstein: The New Order",
+    "release_year": "2014",
+    "developer": "MachineGames"
+  },
+  {
+    "puzzle_num": 1305,
+    "answer": "Company of Heroes 3",
+    "release_year": "2023",
+    "developer": "Relic Entertainment"
+  },
+  {
+    "puzzle_num": 1306,
+    "answer": "Marvel's Midnight Suns",
+    "release_year": "2022",
+    "developer": "Firaxis Games"
+  },
+  {
+    "puzzle_num": 1307,
+    "answer": "Dragon Quest VIII: Journey of the Cursed King",
+    "release_year": "2004",
+    "developer": "Level-5"
+  },
+  {
+    "puzzle_num": 1308,
+    "answer": "Call of Duty: World at War",
+    "release_year": "2008",
+    "developer": "Treyarch"
+  },
+  {
+    "puzzle_num": 1309,
+    "answer": "A Plague Tale: Requiem",
+    "release_year": "2022",
+    "developer": "Asobo Studio"
+  },
+  {
+    "puzzle_num": 1310,
+    "answer": "Anno 1701",
+    "release_year": "2006",
+    "developer": "Related Designs"
+  },
+  {
+    "puzzle_num": 1311,
+    "answer": "Prince of Persia",
+    "release_year": "2008",
+    "developer": "Ubisoft Montreal"
+  },
+  {
+    "puzzle_num": 1312,
+    "answer": "Godzilla: Destroy All Monsters Melee",
+    "release_year": "2002",
+    "developer": "Pipeworks Software"
+  },
+  {
+    "puzzle_num": 1313,
+    "answer": "Brütal Legend",
+    "release_year": "2009",
+    "developer": "Double Fine Productions"
+  },
+  {
+    "puzzle_num": 1314,
+    "answer": "Gex",
+    "release_year": "1995",
+    "developer": "Crystal Dynamics"
+  },
+  {
+    "puzzle_num": 1315,
+    "answer": "Mario + Rabbids: Sparks of Hope",
+    "release_year": "2022",
+    "developer": "Ubisoft Milan, Ubisoft Paris"
+  },
+  {
+    "puzzle_num": 1316,
+    "answer": "Metal Gear Solid: Peace Walker",
+    "release_year": "2010",
+    "developer": "Konami Digital Entertainment Co."
+  },
+  {
+    "puzzle_num": 1317,
+    "answer": "Granblue Fantasy: Relink",
+    "release_year": "2024",
+    "developer": "Osaka Cygames"
+  },
+  {
+    "puzzle_num": 1318,
+    "answer": "Final Fantasy VIII",
+    "release_year": "1999",
+    "developer": "Square"
+  },
+  {
+    "puzzle_num": 1319,
+    "answer": "Wolfenstein: The Old Blood",
+    "release_year": "2015",
+    "developer": "MachineGames"
+  },
+  {
+    "puzzle_num": 1320,
+    "answer": "Splatoon 2",
+    "release_year": "2017",
+    "developer": "Nintendo EPD, Tose Co., Ltd."
+  },
+  {
+    "puzzle_num": 1321,
+    "answer": "Castlevania II: Simon's Quest",
+    "release_year": "1987",
+    "developer": "Konami"
+  },
+  {
+    "puzzle_num": 1322,
+    "answer": "Silent Hill 2",
+    "release_year": "2024",
+    "developer": "Bloober Team"
+  },
+  {
+    "puzzle_num": 1323,
+    "answer": "The Outlast Trials",
+    "release_year": "2024",
+    "developer": "Red Barrels"
+  },
+  {
+    "puzzle_num": 1324,
+    "answer": "Crab Game",
+    "release_year": "2021",
+    "developer": "Daniel Sooman"
+  },
+  {
+    "puzzle_num": 1325,
+    "answer": "Battlefield 1",
+    "release_year": "2016",
+    "developer": "DICE"
+  },
+  {
+    "puzzle_num": 1326,
+    "answer": "GreedFall",
+    "release_year": "2019",
+    "developer": "Spiders"
+  },
+  {
+    "puzzle_num": 1327,
+    "answer": "Mario Kart Wii",
+    "release_year": "2008",
+    "developer": "Nintendo EAD Software Development Group No. 1"
+  },
+  {
+    "puzzle_num": 1328,
+    "answer": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "release_year": "1995",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 1329,
+    "answer": "Batman: Arkham Origins",
+    "release_year": "2013",
+    "developer": "WB Games Montréal"
+  },
+  {
+    "puzzle_num": 1330,
+    "answer": "Sons of the Forest",
+    "release_year": "2023 (early access), 2024 (full release)",
+    "developer": "Endnight Games"
+  },
+  {
+    "puzzle_num": 1331,
+    "answer": "Pathologic 2",
+    "release_year": "2019",
+    "developer": "Ice-Pick Lodge"
+  },
+  {
+    "puzzle_num": 1332,
+    "answer": "Assassin's Creed Syndicate",
+    "release_year": "2015",
+    "developer": "Ubisoft Quebec"
+  },
+  {
+    "puzzle_num": 1333,
+    "answer": "Remnant: From the Ashes",
+    "release_year": "2019",
+    "developer": "Gunfire Games"
+  },
+  {
+    "puzzle_num": 1334,
+    "answer": "Overlord",
+    "release_year": "2007",
+    "developer": "Triumph Studios"
+  },
+  {
+    "puzzle_num": 1335,
+    "answer": "Mega Man X",
+    "release_year": "1993",
+    "developer": "Capcom, Minakuchi Engineering"
+  },
+  {
+    "puzzle_num": 1336,
+    "answer": "Call of Duty: Black Ops III",
+    "release_year": "2015",
+    "developer": "Treyarch"
+  },
+  {
+    "puzzle_num": 1337,
+    "answer": "999: Nine Hours, Nine Persons, Nine Doors",
+    "release_year": "2009",
+    "developer": "Chunsoft"
+  },
+  {
+    "puzzle_num": 1338,
+    "answer": "Nine Sols",
+    "release_year": "2024",
+    "developer": "Red Candle Games"
+  },
+  {
+    "puzzle_num": 1339,
+    "answer": "Mafia II",
+    "release_year": "2010",
+    "developer": "2K Czech"
+  },
+  {
+    "puzzle_num": 1340,
+    "answer": "Dying Light",
+    "release_year": "2015",
+    "developer": "Techland"
+  },
+  {
+    "puzzle_num": 1341,
+    "answer": "The First Berserker: Khazan",
+    "release_year": "2025",
+    "developer": "Neople"
+  },
+  {
+    "puzzle_num": 1342,
+    "answer": "Street Fighter III",
+    "release_year": "1997",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1343,
+    "answer": "Life is Strange: Double Exposure",
+    "release_year": "2024",
+    "developer": "Deck Nine"
+  },
+  {
+    "puzzle_num": 1344,
+    "answer": "Star Fox 64",
+    "release_year": "1997",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 1345,
+    "answer": "Mr. Bones",
+    "release_year": "1996",
+    "developer": "Zono"
+  },
+  {
+    "puzzle_num": 1346,
+    "answer": "Silkroad Online",
+    "release_year": "2005",
+    "developer": "Joymax"
+  },
+  {
+    "puzzle_num": 1347,
+    "answer": "Devil May Cry 2",
+    "release_year": "2003",
+    "developer": "Capcom Production Studio 1"
+  },
+  {
+    "puzzle_num": 1348,
+    "answer": "Wuchang: Fallen Feathers",
+    "release_year": "2025",
+    "developer": "Leenzee"
+  },
+  {
+    "puzzle_num": 1349,
+    "answer": "Metal Gear",
+    "release_year": "1987",
+    "developer": "Konami"
+  },
+  {
+    "puzzle_num": 1350,
+    "answer": "Fallout 4",
+    "release_year": "2015",
+    "developer": "Bethesda Game Studios"
+  },
+  {
+    "puzzle_num": 1351,
+    "answer": "Balatro",
+    "release_year": "2024",
+    "developer": "LocalThunk"
+  },
+  {
+    "puzzle_num": 1352,
+    "answer": "Sniper Ghost Warrior Contracts 2",
+    "release_year": "2021",
+    "developer": "CI Games"
+  },
+  {
+    "puzzle_num": 1353,
+    "answer": "Battlefield 4",
+    "release_year": "2013",
+    "developer": "DICE"
+  },
+  {
+    "puzzle_num": 1354,
+    "answer": "Darksiders III",
+    "release_year": "2018",
+    "developer": "Gunfire Games"
+  },
+  {
+    "puzzle_num": 1355,
+    "answer": "Metroid Prime 2: Echoes",
+    "release_year": "2004",
+    "developer": "Retro Studios"
+  },
+  {
+    "puzzle_num": 1356,
+    "answer": "F-Zero X",
+    "release_year": "1998",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 1357,
+    "answer": "Call of Duty: Vanguard",
+    "release_year": "2021",
+    "developer": "Sledgehammer Games"
+  },
+  {
+    "puzzle_num": 1358,
+    "answer": "Blasphemous 2",
+    "release_year": "2023",
+    "developer": "The Game Kitchen"
+  },
+  {
+    "puzzle_num": 1359,
+    "answer": "Pacific Drive",
+    "release_year": "2024",
+    "developer": "Ironwood Studios"
+  },
+  {
+    "puzzle_num": 1360,
+    "answer": "Marvel's Spider-Man 2",
+    "release_year": "2023",
+    "developer": "Insomniac Games"
+  },
+  {
+    "puzzle_num": 1361,
+    "answer": "Lost Planet: Extreme Condition",
+    "release_year": "2006",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1362,
+    "answer": "The Talos Principle 2",
+    "release_year": "2023",
+    "developer": "Croteam"
+  },
+  {
+    "puzzle_num": 1363,
+    "answer": "Tony Hawk's Pro Skater 4",
+    "release_year": "2002",
+    "developer": "Neversoft, Vicarious Visions"
+  },
+  {
+    "puzzle_num": 1364,
+    "answer": "Banjo-Tooie",
+    "release_year": "2000",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 1365,
+    "answer": "Cory in the House",
+    "release_year": "2008",
+    "developer": "Handheld Games"
+  },
+  {
+    "puzzle_num": 1366,
+    "answer": "Shinobi: Art of Vengeance",
+    "release_year": "2025",
+    "developer": "Lizardcube"
+  },
+  {
+    "puzzle_num": 1367,
+    "answer": "Fallout: New Vegas",
+    "release_year": "2010",
+    "developer": "Obsidian Entertainment"
+  },
+  {
+    "puzzle_num": 1368,
+    "answer": "Spyro: A Hero's Tail",
+    "release_year": "2004",
+    "developer": "Eurocom"
+  },
+  {
+    "puzzle_num": 1369,
+    "answer": "Resident Evil: Revelations 2",
+    "release_year": "2015",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1370,
+    "answer": "Colin McRae Rally",
+    "release_year": "1998",
+    "developer": "Codemasters"
+  },
+  {
+    "puzzle_num": 1371,
+    "answer": "Super Mario Party Jamboree",
+    "release_year": "2024",
+    "developer": "Nintendo Cube"
+  },
+  {
+    "puzzle_num": 1372,
+    "answer": "Kunitsu-Gami: Path of the Goddess",
+    "release_year": "2024",
+    "developer": "Capcom"
+  },
+  {
+    "puzzle_num": 1373,
+    "answer": "SuperHot",
+    "release_year": "2016",
+    "developer": "Superhot Team"
+  },
+  {
+    "puzzle_num": 1374,
+    "answer": "Ace Combat 7: Skies Unknown",
+    "release_year": "2019",
+    "developer": "Bandai Namco Studios"
+  },
+  {
+    "puzzle_num": 1375,
+    "answer": "L.A. Noire",
+    "release_year": "2011",
+    "developer": "Team Bondi"
+  },
+  {
+    "puzzle_num": 1376,
+    "answer": "Hyrule Warriors",
+    "release_year": "2014",
+    "developer": "Omega Force, Team Ninja"
+  },
+  {
+    "puzzle_num": 1377,
+    "answer": "Quake II",
+    "release_year": "1997",
+    "developer": "id Software"
+  },
+  {
+    "puzzle_num": 1378,
+    "answer": "Fall Guys",
+    "release_year": "2020",
+    "developer": "Mediatonic"
+  },
+  {
+    "puzzle_num": 1379,
+    "answer": "Astro Bot",
+    "release_year": "2024",
+    "developer": "Team Asobi"
+  },
+  {
+    "puzzle_num": 1380,
+    "answer": "Tchia",
+    "release_year": "2023",
+    "developer": "Awaceb"
+  },
+  {
+    "puzzle_num": 1381,
+    "answer": "Call of Duty: Black Ops 6",
+    "release_year": "2024",
+    "developer": "Treyarch, Raven Software"
+  },
+  {
+    "puzzle_num": 1382,
+    "answer": "XCOM 2",
+    "release_year": "2016",
+    "developer": "Firaxis Games"
+  },
+  {
+    "puzzle_num": 1383,
+    "answer": "Zeno Clash",
+    "release_year": "2009",
+    "developer": "ACE Team"
+  },
+  {
+    "puzzle_num": 1384,
+    "answer": "Paper Mario",
+    "release_year": "2000",
+    "developer": "Intelligent Systems"
+  },
+  {
+    "puzzle_num": 1385,
+    "answer": "Gran Turismo 3: A-Spec",
+    "release_year": "2001",
+    "developer": "Polyphony Digital"
+  },
+  {
+    "puzzle_num": 1386,
+    "answer": "Core Keeper",
+    "release_year": "2022 (Early Access)",
+    "developer": "Pugstorm"
+  },
+  {
+    "puzzle_num": 1387,
+    "answer": "Gregory Horror Show",
+    "release_year": "2003",
+    "developer": "Capcom Production Studio 3"
+  },
+  {
+    "puzzle_num": 1388,
+    "answer": "EA Sports FC 24",
+    "release_year": "2023",
+    "developer": "EA Vancouver, EA Romania"
+  },
+  {
+    "puzzle_num": 1389,
+    "answer": "The Darkness II",
+    "release_year": "2012",
+    "developer": "Digital Extremes"
+  },
+  {
+    "puzzle_num": 1390,
+    "answer": "Senua's Saga: Hellblade II",
+    "release_year": "2024",
+    "developer": "Ninja Theory"
+  },
+  {
+    "puzzle_num": 1391,
+    "answer": "Mortal Kombat II",
+    "release_year": "1993",
+    "developer": "Midway"
+  },
+  {
+    "puzzle_num": 1392,
+    "answer": "Overwatch 2",
+    "release_year": "2022",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "puzzle_num": 1393,
+    "answer": "Darksiders Genesis",
+    "release_year": "2019",
+    "developer": "Airship Syndicate"
+  },
+  {
+    "puzzle_num": 1394,
+    "answer": "Halo Wars",
+    "release_year": "2009",
+    "developer": "Ensemble Studios"
+  },
+  {
+    "puzzle_num": 1395,
+    "answer": "Super Mario Land 3: Wario Land",
+    "release_year": "1994",
+    "developer": "Nintendo R&D1"
+  },
+  {
+    "puzzle_num": 1396,
+    "answer": "Sonic Colors",
+    "release_year": "2010",
+    "developer": "Sonic Team"
+  },
+  {
+    "puzzle_num": 1397,
+    "answer": "Fire Emblem: Three Houses",
+    "release_year": "2019",
+    "developer": "Intelligent Systems, Kou Shibusawa"
+  },
+  {
+    "puzzle_num": 1398,
+    "answer": "Hyper Sports",
+    "release_year": "1984",
+    "developer": "Konami"
+  },
+  {
+    "puzzle_num": 1399,
+    "answer": "Wii Play",
+    "release_year": "2006",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 1400,
+    "answer": "Neon Inferno",
+    "release_year": "2025",
+    "developer": "Zenovia Interactive, LLC"
+  },
+  {
+    "puzzle_num": 1401,
+    "answer": "Bendy and the Ink Machine",
+    "release_year": "2017",
+    "developer": "Joey Drew Studios"
+  },
+  {
+    "puzzle_num": 1402,
+    "answer": "Gran Turismo 5",
+    "release_year": "2010",
+    "developer": "Polyphony Digital"
+  },
+  {
+    "puzzle_num": 1403,
+    "answer": "Fantasy Life",
+    "release_year": "Japan release 2012; Worldwide release 2014",
+    "developer": "Level-5"
+  },
+  {
+    "puzzle_num": 1404,
+    "answer": "Visions of Mana",
+    "release_year": "2024",
+    "developer": "Ouka Studios"
+  },
+  {
+    "puzzle_num": 1405,
+    "answer": "South Park",
+    "release_year": "1998",
+    "developer": "Iguana Entertainment"
+  },
+  {
+    "puzzle_num": 1406,
+    "answer": "Tomb Raider",
+    "release_year": "1996",
+    "developer": "Core Design"
+  },
+  {
+    "puzzle_num": 1407,
+    "answer": "Katana ZERO",
+    "release_year": "2019",
+    "developer": "Askiisoft"
+  },
+  {
+    "puzzle_num": 1408,
+    "answer": "Oddworld: Stranger's Wrath",
+    "release_year": "2005",
+    "developer": "Oddworld Inhabitants"
+  },
+  {
+    "puzzle_num": 1409,
+    "answer": "Pikmin",
+    "release_year": "2001",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 1410,
+    "answer": "Dying Light 2: Stay Human",
+    "release_year": "2022",
+    "developer": "Techland"
+  },
+  {
+    "puzzle_num": 1411,
+    "answer": "Ratchet & Clank: Rift Apart",
+    "release_year": "2021",
+    "developer": "Insomniac Games"
+  },
+  {
+    "puzzle_num": 1412,
+    "answer": "Mario Kart 64",
+    "release_year": "1996",
+    "developer": "Nintendo EAD"
+  },
+  {
+    "puzzle_num": 1413,
+    "answer": "Call of Duty: Warzone",
+    "release_year": "2020",
+    "developer": "Infinity Ward, Raven Software"
+  },
+  {
+    "puzzle_num": 1414,
+    "answer": "RimWorld",
+    "release_year": "Early access: 2013, Version 1.0: 2018",
+    "developer": "Ludeon Studios"
+  },
+  {
+    "puzzle_num": 1415,
+    "answer": "Conker's Bad Fur Day",
+    "release_year": "2001",
+    "developer": "Rare"
+  },
+  {
+    "puzzle_num": 1416,
+    "answer": "Payday 3",
+    "release_year": "2023",
+    "developer": "Starbreeze Studios"
+  },
+  {
+    "puzzle_num": 1417,
+    "answer": "Mafia III",
+    "release_year": "2016",
+    "developer": "Hangar 13"
+  },
+  {
+    "puzzle_num": 1418,
+    "answer": "Marvel's Guardians of the Galaxy",
+    "release_year": "2021",
+    "developer": "Eidos-Montréal"
+  },
+  {
+    "puzzle_num": 1419,
+    "answer": "SoulCalibur II",
+    "release_year": "2002",
+    "developer": "Namco"
+  },
+  {
+    "puzzle_num": 1420,
+    "answer": "Pokémon Black and White",
+    "release_year": "2010",
+    "developer": "Game Freak"
+  }
+]
