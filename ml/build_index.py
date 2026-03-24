@@ -31,7 +31,7 @@ from ml.embeddings import load_model, embed_images
 
 def load_answers():
     # type: () -> Dict[int, dict]
-    with open(ANSWERS_FILE) as f:
+    with open(ANSWERS_FILE, encoding="utf-8") as f:
         return {a["puzzle_num"]: a for a in json.load(f)}
 
 
@@ -72,7 +72,7 @@ def save_index(embeddings, metadata, index):
     import faiss; faiss.omp_set_num_threads(1)
     os.makedirs(ML_DIR, exist_ok=True)
     np.save(EMBEDDINGS_PATH, embeddings)
-    with open(METADATA_PATH, "w") as f:
+    with open(METADATA_PATH, "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
     faiss.write_index(index, INDEX_PATH)
 
@@ -97,7 +97,7 @@ def main():
     existing_meta = []
     existing_embeddings = None
     if not args.force and os.path.exists(METADATA_PATH) and os.path.exists(EMBEDDINGS_PATH):
-        with open(METADATA_PATH) as f:
+        with open(METADATA_PATH, encoding="utf-8") as f:
             existing_meta = json.load(f)
         existing_embeddings = np.load(EMBEDDINGS_PATH)
         existing_keys = set(

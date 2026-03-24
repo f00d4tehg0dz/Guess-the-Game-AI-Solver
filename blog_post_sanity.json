@@ -1,0 +1,1070 @@
+{
+  "_type": "post",
+  "title": "I Built an AI That Identifies Video Games From Screenshots Using CLIP and FAISS",
+  "slug": {
+    "_type": "slug",
+    "current": "ai-identifies-video-games-clip-faiss"
+  },
+  "excerpt": "How I used OpenAI's CLIP model and Facebook's FAISS vector search to build a computer vision system that identifies video games from screenshots alone.",
+  "body": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Every day, "
+        },
+        {
+          "_type": "span",
+          "text": "GuessThe.Game",
+          "marks": ["strong"]
+        },
+        {
+          "_type": "span",
+          "text": " challenges players with five progressively easier screenshots from a video game. You get six guesses. Most people rely on memory and pattern recognition. I built a computer vision system that does it automatically."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here's how I used OpenAI's CLIP model and Facebook's FAISS vector search to create a system that identifies games from screenshots alone \u2014 no API cheating, no answer databases at runtime. Pure visual recognition."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The Problem"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "GuessThe.Game reveals five screenshots per puzzle, numbered easiest to hardest. The images could be anything: a close-up of a texture, a UI element, a character model, or a wide landscape shot. Humans draw on thousands of hours of gaming experience to recognize these. Can a machine do the same?"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The answer is yes \u2014 but not in the way you might expect. This isn't traditional image classification with labeled categories. With over 1,400 unique games in the puzzle history, training a classifier for each game would be impractical. Instead, I turned it into a "
+        },
+        {
+          "_type": "span",
+          "text": "similarity search problem",
+          "marks": ["strong"]
+        },
+        {
+          "_type": "span",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The Architecture"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The system works in two phases: indexing and querying."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Phase 1: Building the Index"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "First, I scraped every historical puzzle \u2014 over 1,400 puzzles with 5 images each, totaling roughly 7,000+ screenshots. Each image gets processed through the same pipeline:"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Load the image and resize to 224\u00d7224 pixels"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pass it through CLIP's Vision Transformer (ViT-B/32)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "L2-normalize the resulting 512-dimensional embedding vector"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Store the vector in a FAISS index alongside metadata (game name, puzzle number)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The result is a searchable database of ~7,000 embedding vectors, each one a compressed \"fingerprint\" of what CLIP sees in that screenshot."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Phase 2: Solving a Puzzle"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When a new puzzle drops, the solver downloads all five clue images and runs them through the exact same CLIP pipeline. Each image becomes a 512-dimensional query vector. Then FAISS kicks in \u2014 it compares each query vector against every vector in the index using cosine similarity (implemented as inner product on normalized vectors)."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The scoring works like this: for each query image, find the best similarity score per game. Then average those scores across all five images. The game with the highest average similarity wins."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why CLIP?"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "CLIP (Contrastive Language-Image Pre-training) is a neural network trained by OpenAI on 400 million image-text pairs scraped from the internet. What makes it special for this task is that it doesn't just recognize objects \u2014 it understands "
+        },
+        {
+          "_type": "span",
+          "text": "visual concepts, art styles, UI patterns, and aesthetic qualities",
+          "marks": ["em"]
+        },
+        {
+          "_type": "span",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When CLIP processes a screenshot of, say, Hollow Knight, the embedding captures not just \"dark cave with a character\" but the distinctive art style, color palette, and visual language that makes Hollow Knight look like Hollow Knight. Two screenshots from the same game will produce similar embeddings even if they show completely different scenes."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I'm using the open-source variant from LAION \u2014 specifically ViT-B/32 trained on the LAION-2B dataset \u2014 via the "
+        },
+        {
+          "_type": "span",
+          "text": "open_clip",
+          "marks": ["code"]
+        },
+        {
+          "_type": "span",
+          "text": " library. The model is about 350MB and runs comfortably on both CPU and GPU."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The Embedding"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here's what happens inside CLIP's Vision Transformer:"
+        }
+      ]
+    },
+    {
+      "_type": "code",
+      "language": "python",
+      "code": "def embed_images(image_paths, model, preprocess):\n    batch = []\n    for path in image_paths:\n        img = Image.open(path).convert(\"RGB\")\n        tensor = preprocess(img)  # Resize, normalize, etc.\n        batch.append(tensor)\n\n    batch_tensor = torch.stack(batch)\n    with torch.no_grad():\n        features = model.encode_image(batch_tensor)\n\n    # L2 normalize \u2014 this is critical\n    features = features / features.norm(dim=-1, keepdim=True)\n    return features.cpu().numpy()"
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The preprocessing step is handled by CLIP's own transform pipeline: resize to 224\u00d7224, center crop, normalize pixel values to the distribution the model was trained on. The output is a 512-dimensional float32 vector with unit L2 norm."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That normalization step is crucial. By projecting every embedding onto the unit hypersphere, cosine similarity becomes equivalent to a simple dot product. This is what lets FAISS use its fast inner-product index."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Visualizing the Embeddings"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To understand what CLIP \"sees,\" I render each 512-dimensional embedding as a colored barcode. Each of the 512 positions maps to a color: blue for negative values, white for near-zero, red for positive. Two screenshots from the same game produce visually similar barcodes \u2014 the patterns of activation align."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is more than a gimmick. When you see two barcodes that look nearly identical, you're seeing that CLIP has extracted nearly identical high-level features from both images. The model has learned that these images share a visual identity."
+        }
+      ]
+    },
+    {
+      "_type": "imageplaceholder",
+      "_key": "img_embedding_barcodes",
+      "alt": "Embedding barcodes showing similar patterns for screenshots from the same game",
+      "caption": "512-dimensional CLIP embeddings rendered as colored barcodes. Screenshots from the same game produce nearly identical patterns."
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why FAISS?"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Facebook AI Similarity Search (FAISS) is a library purpose-built for searching through large collections of vectors. Even with a brute-force flat index (IndexFlatIP), searching 7,000 vectors takes under a millisecond."
+        }
+      ]
+    },
+    {
+      "_type": "code",
+      "language": "python",
+      "code": "import faiss\n\n# Build: just add normalized embeddings\nindex = faiss.IndexFlatIP(512)  # 512-dim inner product\nindex.add(embeddings)           # (N, 512) float32 array\n\n# Search: find top 50 nearest neighbors per query\nscores, indices = index.search(query_embeddings, k=50)"
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For this dataset size, a flat index is overkill-fast. If the index grew to millions of vectors, I'd switch to an IVF (Inverted File) index with clustering, trading a small amount of recall for orders-of-magnitude speedup."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The Aggregation Strategy"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Raw FAISS results give you per-image, per-vector similarity scores. The aggregation step is where the magic happens:"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "For each query image, find the highest similarity score for each game"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sum those best-per-image scores across all five query images"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Divide by the number of query images to get an average"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Rank games by average score"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This approach is robust because it doesn't require every query image to match. If only three out of five screenshots strongly resemble a game's indexed images, that game still ranks high."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The Scoring System"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Empirical testing revealed clean confidence tiers:"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "HIGH",
+          "marks": ["strong"]
+        },
+        {
+          "_type": "span",
+          "text": " (score > 0.85): Almost certainly correct. The query images are visually near-identical to indexed images from the same game."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "MEDIUM",
+          "marks": ["strong"]
+        },
+        {
+          "_type": "span",
+          "text": " (score 0.75\u20130.85): Strong match. Usually correct, but could be confused with visually similar games."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "LOW",
+          "marks": ["strong"]
+        },
+        {
+          "_type": "span",
+          "text": " (score < 0.75): Educated guess. The system found some visual similarity but isn't confident."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A score of 1.0 would mean pixel-perfect identity. In practice, scores above 0.90 typically mean the exact same scene was indexed from a previous puzzle."
+        }
+      ]
+    },
+    {
+      "_type": "imageplaceholder",
+      "_key": "img_match_results",
+      "alt": "Top match results showing query images compared against indexed screenshots with similarity scores",
+      "caption": "The solver comparing puzzle screenshots against the FAISS index. Score bars show cosine similarity, with per-image breakdowns below."
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The Embedding Space"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One fascinating aspect of CLIP embeddings is how they organize visual concepts. When you project the 512 dimensions down to 2D using PCA (Principal Component Analysis), games naturally cluster together."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Screenshot embeddings from the same game form tight clusters. Games with similar visual styles \u2014 like pixel art indie games, or realistic AAA shooters \u2014 form neighboring clusters. The embedding space essentially creates a map of visual similarity, and our search is just finding the nearest cluster to the query point."
+        }
+      ]
+    },
+    {
+      "_type": "imageplaceholder",
+      "_key": "img_pca_scatter",
+      "alt": "PCA scatter plot showing query embeddings clustered near matching game embeddings",
+      "caption": "512-dimensional embeddings projected to 2D via PCA. Green dots are query images; colored dots are indexed matches. Games cluster by visual similarity."
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is what makes the system work even for games it's never seen from the same angle. CLIP's training on hundreds of millions of diverse images gave it a general understanding of visual similarity that transfers to game screenshots."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Cross-Platform Challenges"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One unexpected engineering challenge: Windows encoding. The metadata JSON file contains game names with special characters (accented letters, Japanese characters). macOS defaults to UTF-8 everywhere, but Windows Python defaults to cp1252, which chokes on these characters."
+        }
+      ]
+    },
+    {
+      "_type": "code",
+      "language": "python",
+      "code": "# Windows-safe file reading\nwith open(metadata_path, encoding=\"utf-8\") as f:\n    metadata = json.load(f)"
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I also had to handle OpenMP thread conflicts between PyTorch and FAISS, which manifests as a cryptic crash on some systems:"
+        }
+      ]
+    },
+    {
+      "_type": "code",
+      "language": "python",
+      "code": "os.environ[\"KMP_DUPLICATE_LIB_OK\"] = \"TRUE\"\nos.environ[\"OMP_NUM_THREADS\"] = \"1\""
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Building the Index: The Scraping Pipeline"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Before any ML happens, you need data. I built a scraping pipeline that:"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Queries the GuessThe.Game API for historical answers"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Downloads all five screenshots for each puzzle (parallel, with retry logic)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Stores images organized by puzzle number"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Generates embeddings in batches of 64 with progress tracking"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "number",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Supports incremental updates \u2014 only embeds new images when puzzles are added"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The full index build takes about 20 minutes on an M5 Pro and under 10 minutes on a 4090. The resulting artifacts are compact: ~15MB for embeddings, ~15MB for the FAISS index, and ~1MB for metadata."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Results"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On historical puzzles where the answer exists in the index, the system achieves HIGH confidence matches (>0.85) on roughly 70% of puzzles. MEDIUM confidence catches another 20%. The remaining 10% are games with very generic visuals or heavy stylistic overlap with other titles."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The system is weakest on:",
+          "marks": ["strong"]
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pixel art games with similar palettes (Celeste vs. other precision platformers)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Games from the same franchise with shared assets (different Call of Duty titles)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Screenshots that show mostly text or menus"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's strongest on:",
+          "marks": ["strong"]
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Games with distinctive art styles (Okami, Cuphead, Hollow Knight)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Screenshots showing unique UI elements or HUD designs"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Games with recognizable character models or environments"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The Visualization Tool"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To make this all understandable, I built an HTML report generator that visualizes every step of the pipeline. For any puzzle, it produces a self-contained page showing:"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "The five query images and their embedding barcodes"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Each top match with the closest indexed image side-by-side"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Per-image similarity breakdowns"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "A PCA scatter plot of the embedding space"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "A cosine similarity heatmap"
+        }
+      ]
+    },
+    {
+      "_type": "imageplaceholder",
+      "_key": "img_pipeline_diagram",
+      "alt": "Full pipeline visualization showing Download, CLIP encoding, normalization, FAISS search, aggregation, and ranking steps",
+      "caption": "The complete pipeline: screenshots flow through CLIP into a 512-dim embedding space, then FAISS finds the nearest matches from 7,000+ indexed game screenshots."
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What's Next"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The current system is a pure visual matcher \u2014 it can only identify games it has seen before. Future improvements could include:"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Text recognition:",
+          "marks": ["strong"]
+        },
+        {
+          "_type": "span",
+          "text": " OCR on screenshots to catch game titles, UI text, and studio logos"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Temporal analysis:",
+          "marks": ["strong"]
+        },
+        {
+          "_type": "span",
+          "text": " Using the video clue (clue 6 is a short WebM clip) for motion-based features"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ensemble methods:",
+          "marks": ["strong"]
+        },
+        {
+          "_type": "span",
+          "text": " Combining CLIP with game-specific classifiers for common genres"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "listItem": "bullet",
+      "level": 1,
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fine-tuning:",
+          "marks": ["strong"]
+        },
+        {
+          "_type": "span",
+          "text": " Training a CLIP adapter specifically on game screenshot pairs"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Try It Yourself"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The entire project is open source. To solve today's puzzle:"
+        }
+      ]
+    },
+    {
+      "_type": "code",
+      "language": "bash",
+      "code": "pip install -r requirements-ml.txt\npython -m ml.solver"
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To generate a visual report:"
+        }
+      ]
+    },
+    {
+      "_type": "code",
+      "language": "bash",
+      "code": "python -m ml.visualize 1410 -o report.html"
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The core insight is that modern vision models like CLIP have already learned to see the way gamers do \u2014 they recognize style, composition, and visual identity, not just objects. Pair that with efficient vector search, and you get a system that can identify a game from a single screenshot in under a second."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The machines are getting good at our games. Time to make harder puzzles."
+        }
+      ]
+    }
+  ]
+}

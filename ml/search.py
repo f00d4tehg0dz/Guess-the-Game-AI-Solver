@@ -32,7 +32,7 @@ def load_index():
     """Load FAISS index and metadata."""
     import faiss; faiss.omp_set_num_threads(1)
     index = faiss.read_index(INDEX_PATH)
-    with open(METADATA_PATH) as f:
+    with open(METADATA_PATH, encoding="utf-8") as f:
         metadata = json.load(f)
     return index, metadata
 

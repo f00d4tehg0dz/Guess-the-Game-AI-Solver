@@ -23,7 +23,7 @@ faiss.omp_set_num_threads(1)
 
 print("Loading FAISS index...", flush=True)
 index = faiss.read_index(os.path.join(BASE, "data/ml/game_index.faiss"))
-with open(os.path.join(BASE, "data/ml/metadata.json")) as f:
+with open(os.path.join(BASE, "data/ml/metadata.json"), encoding="utf-8") as f:
     metadata = json.load(f)
 print("Index: %d vectors, %d metadata entries" % (index.ntotal, len(metadata)), flush=True)
 
